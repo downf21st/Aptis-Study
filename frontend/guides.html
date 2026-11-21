@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#ffffff" />
+    <title>Hướng dẫn — Aptis Study</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="listening.css" />
+    <link rel="stylesheet" href="guides.css" />
+    <script src="guides.js" defer></script>
+    <link rel="stylesheet" href="polish.css" />
+  </head>
+  <body>
+    <div class="app">
+      <aside class="sidebar" aria-label="Điều hướng chính">
+        <a class="brand" href="index.html"
+          ><span class="brand-mark">a<span>.</span></span
+          ><span
+            >aptis<span class="brand-light"> study</span
+            ><small>YOUR ENGLISH SPACE</small></span
+          ></a
+        >
+        <div class="side-label">KHÔNG GIAN HỌC TẬP</div>
+        <nav class="nav">
+          <a class="nav-item" href="index.html#home"><span>◫</span> Trang chủ</a
+          ><a class="nav-item" href="index.html#skills"
+            ><span>◈</span> Các kỹ năng</a
+          ><a class="nav-item active" href="guides.html" aria-current="page"
+            ><span>◇</span> Hướng dẫn</a
+          ><a class="nav-item" href="listening.html"
+            ><span>◖))</span> Listening</a
+          >
+        </nav>
+        <div class="side-bottom">
+          <div class="side-illustration">✳</div>
+          <p>Học một chút<br /><strong>mỗi ngày.</strong></p>
+          <small>Mỗi bước nhỏ đều đưa bạn<br />gần hơn đến mục tiêu.</small>
+        </div>
+        <div class="profile">
+          <span class="avatar">Đ</span
+          ><span><strong>Đông</strong><small>Hành trình Aptis</small></span>
+        </div>
+      </aside>
+      <main class="main listening-main">
+        <a class="back-home" href="index.html#skills">← Các kỹ năng</a>
+        <header class="listening-header">
+          <p class="eyebrow">KHÔNG GIAN HỌC TẬP ✳</p>
+          <h1>Hướng dẫn</h1>
+          <p>Chọn bài viết hướng dẫn để bắt đầu.</p>
+        </header>
+        <div class="source-note">
+          Nội dung được lưu từ nguồn. Liên kết ngoài chỉ mở khi bạn chọn.
+        </div>
+
+        <section aria-labelledby="exercise-heading" class="exercise-section">
+          <div class="listen-heading">
+            <div>
+              <p class="eyebrow" id="part-label">DANH SÁCH HƯỚNG DẪN</p>
+              <h2 id="exercise-heading">Bài hướng dẫn</h2>
+            </div>
+            <label class="jump-label" for="guide-select"
+              >Chọn bài
+              <select id="guide-select" disabled></select
+            ></label>
+          </div>
+          <div id="message" class="message" role="status" aria-live="polite">
+            Đang tải dữ liệu Hướng dẫn…
+          </div>
+          <div id="exercise" hidden></div>
+        </section>
+        <footer class="footer">
+          <span>© Aptis Study</span><span>HỌC THEO CÁCH CỦA BẠN ✳</span>
+        </footer>
+      </main>
+    </div>
+  </body>
+</html>

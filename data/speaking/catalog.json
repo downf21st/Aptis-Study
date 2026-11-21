@@ -1,0 +1,177 @@
+{
+  "source": "https://milaedu.com/mock-test/speaking",
+  "captured": "2026-11-20",
+  "expected_sets": 20,
+  "sets": [
+    {
+      "id": 234,
+      "title": "Đề 1: 2 bố con đá bóng + cưỡi lạc đà - xe ngựa + cố gắng đạt mục tiêu",
+      "position": 1,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-234/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 235,
+      "title": "Đề 2: Đi bộ qua đường + ngồi xe lăn chơi bóng rổ - chơi thể thao ngoài trời + đi công viên giải trí",
+      "position": 2,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-235/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 236,
+      "title": "Đề 3 - Phỏng vấn + Đọc sách giấy - đọc sách điện tử +  một lần vội vàng",
+      "position": 3,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-236/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 237,
+      "title": "Đề 4 - Cô gái đi siêu thị + ăn một mình ở nhà - ăn pizza cùng bạn + thể thao mạo hiểm",
+      "position": 4,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-237/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 238,
+      "title": "Đề 5 - Gia đình ngồi trong ô tô + nghe nhạc trực tiếp - nghe nhạc ở nhà + đọc quyển sách hay",
+      "position": 5,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-238/manifest.json",
+      "image_count": 3
+    },
+    {
+      "id": 239,
+      "title": "Đề 6 - cô gái đi xe bus + trẻ em chơi trong nhà - chơi ngoài trời + sử dụng mạng internet",
+      "position": 6,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-239/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 240,
+      "title": "Đề 7: Bố con nấu ăn + gia đình chơi cờ - cậu bé chơi game + ai đó giúp đỡ bạn",
+      "position": 7,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-240/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 241,
+      "title": "Đề 8: Cô giáo chơi cùng học sinh + ôm mèo - xem rắn + giúp đỡ người khác",
+      "position": 8,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-241/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 242,
+      "title": "Đề 9: Xem triển lãm + gia đình ngồi bãi cỏ - cô gái ở ban công + học điều mới",
+      "position": 9,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-242/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 243,
+      "title": "Đề 10: 3 cậu bé đá bóng + chơi với khỉ - cá voi + đạt được mục tiêu",
+      "position": 10,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-243/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 244,
+      "title": "Đề 11: Gia đình dùng máy tính + đá bóng - nhảy cao + xem tác phẩm nghệ thuật",
+      "position": 11,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-244/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 245,
+      "title": "Đề 12: Xem phim ở rạp + ăn trên đường phố - ăn nhà hàng + nhận một món quà",
+      "position": 12,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-245/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 246,
+      "title": "Đề 13: Mẹ con đọc sách + thuyết trình - làm việc nhóm + kể một lần nhận được quà",
+      "position": 13,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-246/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 247,
+      "title": "Đề 14: Bố con ăn sáng + trồng rau - trồng hoa + kể một lần đến thăm bạn",
+      "position": 14,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-247/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 248,
+      "title": "Đề 15: Treo tranh + ăn ở nhà hàng ngoài trời - ăn cùng gia đình - kể một lần đi xa",
+      "position": 15,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-248/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 253,
+      "title": "Đề 16: Dùng điện thoại + phòng ngủ - camping + gặp người nước ngoài",
+      "position": 16,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-253/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 254,
+      "title": "Đề 17: Đi bộ trong rừng + Đảo - nhà tuyết + xem thể thao",
+      "position": 17,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-254/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 255,
+      "title": "Đề 18: chơi game + thành phố - trang trại  - thành tựu",
+      "position": 18,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-255/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 256,
+      "title": "Đề 19: xem thể thao + tàu, máy bay + người gây ấn tượng",
+      "position": 19,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-256/manifest.json",
+      "image_count": 4
+    },
+    {
+      "id": 257,
+      "title": "Đề 20: gia đình chơi game + giúp người già - trồng cây + thư giãn",
+      "position": 20,
+      "status": "questions-and-images-captured-admin-samples-unverified",
+      "manifest": "data/speaking/sets/set-257/manifest.json",
+      "image_count": 4
+    }
+  ],
+  "limitations": [
+    "All 20 sets have four Part question payloads and 79 referenced images captured.",
+    "Admin sample answers were not present in the captured exam question fields; one previous attempt has admin samples in its history.",
+    "No recordings, final submissions or AI grading were requested during collection.",
+    "Images have been checked for complete matching responses, size and checksum; content and question relationships have not been independently reviewed."
+  ],
+  "image_summary": {
+    "referenced": 79,
+    "captured": 79
+  }
+}

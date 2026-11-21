@@ -1,0 +1,154 @@
+{
+  "captured": "2026-11-20",
+  "source": "https://milaedu.com/instructions/part-23-chong-liet",
+  "source_file": "data/instructions/articles/part-23-chong-liet/article.html",
+  "source_sha256": "fcbadbbf883218992ef723062b0df9f7832b75b9a55ac607054f3a56d8a99d35",
+  "method": "Compare the Writing Part 2 prompt to the guide text after normalizing casing, punctuation and whitespace; check club name.",
+  "matches": [
+    {
+      "source_set_id": 204,
+      "set_title": "Art Club",
+      "source_question_id": 386,
+      "part": 2,
+      "prompt": "Tell me a painting or a photo that you like",
+      "guidance_title": "Art club",
+      "guidance_prompt": "Tell me a painting or a photo that you like.",
+      "sample_answer": "Thank you for your question. I like a photo of a beach because it is beautiful and relaxing. It makes me feel happy.",
+      "guidance_paragraph_index": 5,
+      "matching": "Prompt matches after normalization of casing, punctuation, and whitespace; club label corresponds.",
+      "qualification": "Example from guidance article, not an Admin sample. Not independently evaluated."
+    },
+    {
+      "source_set_id": 208,
+      "set_title": "College",
+      "source_question_id": 401,
+      "part": 2,
+      "prompt": "Please tell us when you can attend courses and what you want to study.",
+      "guidance_title": "College club",
+      "guidance_prompt": "Please tell us when you can attend courses and what you want to study.",
+      "sample_answer": "Thank you for your question. I can attend courses in the evening and weekends. I want to study English because it helps me improve myself.",
+      "guidance_paragraph_index": 17,
+      "matching": "Prompt matches after normalization of casing, punctuation, and whitespace; club label corresponds.",
+      "qualification": "Example from guidance article, not an Admin sample. Not independently evaluated."
+    },
+    {
+      "source_set_id": 211,
+      "set_title": "Debate club",
+      "source_question_id": 412,
+      "part": 2,
+      "prompt": "What do you usually talk about with your friends?",
+      "guidance_title": "Debate club",
+      "guidance_prompt": "What do you usually talk about with your friends?",
+      "sample_answer": "Thank you for your question. I usually talk to my friends about school, hobbies, and daily life. It helps me relax.",
+      "guidance_paragraph_index": 23,
+      "matching": "Prompt matches after normalization of casing, punctuation, and whitespace; club label corresponds.",
+      "qualification": "Example from guidance article, not an Admin sample. Not independently evaluated."
+    },
+    {
+      "source_set_id": 212,
+      "set_title": "English Club",
+      "source_question_id": 415,
+      "part": 2,
+      "prompt": "What do you usually use the internet for?",
+      "guidance_title": "English club",
+      "guidance_prompt": "What do you usually use the internet for?",
+      "sample_answer": "Thank you for your question. I usually use the internet to study, watch videos, listen to music, and chat with my friends.",
+      "guidance_paragraph_index": 26,
+      "matching": "Prompt matches after normalization of casing, punctuation, and whitespace; club label corresponds.",
+      "qualification": "Example from guidance article, not an Admin sample. Not independently evaluated."
+    },
+    {
+      "source_set_id": 216,
+      "set_title": "Food Club",
+      "source_question_id": 430,
+      "part": 2,
+      "prompt": "What did you eat for breakfast?",
+      "guidance_title": "Food club",
+      "guidance_prompt": "What did you eat for breakfast?",
+      "sample_answer": "Thank you for your question. I ate noodles and drank milk for breakfast this morning. It was good for my health.",
+      "guidance_paragraph_index": 38,
+      "matching": "Prompt matches after normalization of casing, punctuation, and whitespace; club label corresponds.",
+      "qualification": "Example from guidance article, not an Admin sample. Not independently evaluated."
+    },
+    {
+      "source_set_id": 222,
+      "set_title": "Music club",
+      "source_question_id": 448,
+      "part": 2,
+      "prompt": "Please tell us about the last time you listened to music.",
+      "guidance_title": "Music club",
+      "guidance_prompt": "Please tell us about the last time you listened to music.",
+      "sample_answer": "Thank you for your question. The last time I listened to music was yesterday evening. I listened to my favorite songs. It made me feel relaxed.",
+      "guidance_paragraph_index": 53,
+      "matching": "Prompt matches after normalization of casing, punctuation, and whitespace; club label corresponds.",
+      "qualification": "Example from guidance article, not an Admin sample. Not independently evaluated."
+    },
+    {
+      "source_set_id": 226,
+      "set_title": "READING CLUB",
+      "source_question_id": 463,
+      "part": 2,
+      "prompt": "When was the last time you read a book, and how was the book?",
+      "guidance_title": "Reading club",
+      "guidance_prompt": "When was the last time you read a book, and how was the book?",
+      "sample_answer": "Thank you for your question. The last time I read a book was last weekend. It was very interesting and enjoyable. I learned a lot from it.",
+      "guidance_paragraph_index": 62,
+      "matching": "Prompt matches after normalization of casing, punctuation, and whitespace; club label corresponds.",
+      "qualification": "Example from guidance article, not an Admin sample. Not independently evaluated."
+    },
+    {
+      "source_set_id": 231,
+      "set_title": "TRAVEL CLUB",
+      "source_question_id": 482,
+      "part": 2,
+      "prompt": "Where do you usually travel on holiday?",
+      "guidance_title": "Travel club",
+      "guidance_prompt": "Where do you usually travel on holiday?",
+      "sample_answer": "Thank you for your question. I usually travel to the beach with my family on holiday. It helps me relax and feel happy.",
+      "guidance_paragraph_index": 77,
+      "matching": "Prompt matches after normalization of casing, punctuation, and whitespace; club label corresponds.",
+      "qualification": "Example from guidance article, not an Admin sample. Not independently evaluated."
+    },
+    {
+      "source_set_id": 232,
+      "set_title": "TV Club",
+      "source_question_id": 486,
+      "part": 2,
+      "prompt": "Do you usually watch TV?",
+      "guidance_title": "TV club",
+      "guidance_prompt": "Do you usually watch TV?",
+      "sample_answer": "Thank you for your question. Yes, I usually watch TV in the evening with my family. It helps me relax after work.",
+      "guidance_paragraph_index": 80,
+      "matching": "Prompt matches after normalization of casing, punctuation, and whitespace; club label corresponds.",
+      "qualification": "Example from guidance article, not an Admin sample. Not independently evaluated."
+    },
+    {
+      "source_set_id": 233,
+      "set_title": "Walking club",
+      "source_question_id": 490,
+      "part": 2,
+      "prompt": "When and where do you like to walk?",
+      "guidance_title": "Walking club",
+      "guidance_prompt": "When and where do you like to walk?",
+      "sample_answer": "Thank you for your question. I like to walk in the park in the morning. It helps me relax and enjoy the fresh air.",
+      "guidance_paragraph_index": 83,
+      "matching": "Prompt matches after normalization of casing, punctuation, and whitespace; club label corresponds.",
+      "qualification": "Example from guidance article, not an Admin sample. Not independently evaluated."
+    }
+  ],
+  "additional_references": [
+    {
+      "source_set_id": 229,
+      "part": 4,
+      "task": 1,
+      "source": "https://milaedu.com/instructions/file-trich-de-cho-cac-ban-mat-goc",
+      "source_file": "data/instructions/articles/file-trich-de-cho-cac-ban-mat-goc/accessibility.txt",
+      "relation": "Sports Club Part 4 email body matches the guidance prompt; following informal letter is a related example. Not an Admin answer or independently graded.",
+      "source_excerpt": "      - strong: Sports Club\n    - list:\n      - listitem: You are a member of the sports club. You received this email from the club.\n      - listitem: Dear members,\n    - paragraph: Please give your suggestions about the organization of playing sports for young members.\n    - paragraph: Ans\n    - paragraph: Hi Tim\n    - paragraph:\n      - text: How are you these days? I hope you and your family are well. I am writing this letter to tell you some news.\n      - strong: My sports club is organizing sports activities for young members.\n    - paragraph: Can you give me some ideas for this?\n    - paragraph: Please write me soon to let me know your opinion.\n    - paragraph: Bye for now\n    - paragraph: Ngoc Lam\n    - paragraph\n    - paragraph:"
+    }
+  ],
+  "limitations": [
+    "Guidance examples are not substituted for missing Admin answers.",
+    "No independent language-quality or answer correctness assessment has been performed."
+  ]
+}

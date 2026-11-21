@@ -1,0 +1,135 @@
+  - main:
+    - navigation "Breadcrumb":
+      - link "Hướng dẫn":
+        - /url: https://milaedu.com/instructions
+      - text: / Form viết email
+    - heading "Form viết email" [level=1]
+    - paragraph: Cập nhật lúc 09:31 - 19/11/2026
+    - paragraph: "Writing : 50 Minutes"
+    - paragraph: "Part 1: 5 điểm"
+    - paragraph: "Part 2 : 7 điểm"
+    - paragraph: "Part 3 : 13 – 15 điểm"
+    - paragraph: "Part 4 : 20 – 25 điểm"
+    - paragraph: "Part 2,3 :"
+    - paragraph
+    - paragraph:
+      - strong: "Part 4 : Email cho bạn : 50 – 75 từ"
+    - paragraph: Mỗi phần chọn 1 trong các câu để dựng thành 1 khung bài cho mình nhé.
+    - paragraph:
+      - strong: "1."
+      - strong: Chào hỏi
+    - paragraph: Hi Tim/Hi there Tim/Morning Tim/ Hello again Tim
+    - paragraph:
+      - strong: "2."
+      - strong: Hỏi thăm
+    - paragraph: How have you been ?/How’s everything going? How are you these days?/How are you doing?
+    - paragraph: Long time no see/ We haven’t talked to each other for a while…
+    - paragraph: I hope you’re doing well./ I hope all is well with you/ I hope everything is going well for you…
+    - paragraph:
+      - strong: "3."
+      - strong: Dẫn dắt vào lý do viết thư
+    - list:
+      - listitem: "- I just got an email from the ….. Club. They said that….."
+    - paragraph: "- I have some exciting/interesting/bad… news for you. My ….club is seeking suggestions for….."
+    - paragraph: "- I am writing to tell you some good/bad/interesting....news/. My ….club …."
+    - paragraph: "- I have heard that my club….."
+    - paragraph: "- I just received an email from my..........club manager. In the email, he said that my ….club….."
+    - list:
+      - listitem: "- The ….. Club just informed us that …."
+    - paragraph:
+      - strong: "4."
+      - strong: Cảm xúc
+    - paragraph: I feel so happy/sad/disappointed/excited to hear that.
+    - paragraph:
+      - strong: "5."
+      - strong: Giải pháp.
+    - paragraph: I think the club should……../I believe we should…/I feel that we should…/I suggest that we…/We should consider…
+    - paragraph:
+      - strong: (Phần này phải tự nghĩ ra giải pháp cho yêu cầu của đề bài)
+    - paragraph:
+      - strong: "6."
+      - strong: Hỏi ý kiến bạn
+    - paragraph: Do you agree with my suggestions/ideas/opinions/decisions…?
+    - paragraph: What’s your opinion about this? Could you give me advice or some ideas? What should I do?....
+    - paragraph:
+      - strong: "7."
+      - strong: Kết thư
+    - paragraph: Please write to me soon and let me know what you think.
+    - paragraph: Please write back to me as quickly as possible
+    - paragraph: Bye for now
+    - paragraph: Speak soon
+    - paragraph: Kí tên
+    - paragraph:
+      - strong: "Formal Letter to manager :"
+      - text: "Thư cho quản lý : 120 – 250 từ"
+    - paragraph:
+      - strong: "1."
+      - strong: Chào hỏi
+    - paragraph: Dear Sir/Madam/Mr..../Mrs./Manager/ .....Club President/Manager
+    - paragraph:
+      - strong: "2."
+      - strong: Giới thiệu
+    - paragraph: I hope you're having a great day/ I hope this email finds you well/I hope this email reaches you in good health and high spirits.
+    - paragraph: My name is...I have been a book/music/food....club member since 2020/last summer/for two years/more than two years.
+    - paragraph:
+      - strong: "3."
+      - strong: Lý do viết thư
+    - paragraph: "- I’m writing in response to the email you sent."
+    - paragraph: "- I'm writing to respond to your email mentioning that….."
+    - paragraph: "- I’m so upset/ disappointed/ excited to hear that..."
+    - paragraph: "- I am writing to express my feelings about the notice you sent me stating that…."
+    - paragraph: "- As a dedicated member of the club for two years, I am writing to share my thoughts and suggestions regarding the recent notice of the club. According to the news,..."
+    - paragraph: "- As a dedicated member of the club for three months, I am writing to express my feelings and suggestions about the recent notice we received. The issue of…."
+    - paragraph: "- I saw your email about/asking for/stating/saying that….+ trích đề"
+    - paragraph: I understand that…+trích đề
+    - paragraph:
+      - strong: "4."
+      - strong: Trích lại nội dung chính của đề
+    - paragraph: "- According to the news/notice/email....."
+    - paragraph: "- In the email, you said that....."
+    - paragraph: "- In the email you asked me to...... => chuyển nội dung đề bài xuống một cách hợp lý, đổi ngôi phù hợp"
+    - paragraph:
+      - strong: "5."
+      - strong: Giải pháp, đề xuất, lựa chọn, ý kiến....tùy đề yêu cầu
+    - paragraph: I think/In my opinion, we should….
+    - paragraph: I suggest we + V infinitive
+    - paragraph: I recommend we V infinitive
+    - paragraph: Do you think the club can try rescheduling the trip/the meeting.....
+    - paragraph: It would be great if.....
+    - paragraph:
+      - strong: "6."
+      - strong: Câu chốt cho đủ từ nếu bài còn ngắn
+    - paragraph: "- I have spoken to other club members, and they share my thoughts"
+    - paragraph: "- I have talked to other club members and found that they share my opinions."
+    - paragraph: All of us have been waiting for this for a long time (nếu là sự kiện vui vẻ của CLB)
+    - paragraph:
+      - strong: "7."
+      - strong: Kết thư
+    - paragraph: Please let me know what you think/if this is possible
+    - paragraph: I hope my suggestions/ideas...are helpful.
+    - paragraph: Thank you for your attention
+    - paragraph: I am looking forward to hearing from you.
+    - paragraph: I appreciate your attention to this matter.
+    - paragraph: Please feel free to reach out if you need more information
+    - paragraph: Yours faithfully,
+    - paragraph: Regards,/ Warm regards/All the best/Respectfully/Kind regards
+    - paragraph: Kí tên
+    - paragraph
+    - paragraph: Dựng mẫu 1 form
+    - paragraph: 1. Email cho bạn
+    - paragraph: Hello Van Anh,
+    - paragraph: How are you these days? I hope you and your family are well. I have some news for you. My….club + Đề bài. I was sad/happy/upset/delighted/disappointed….when I heard about this news. I think + giải pháp …..
+    - paragraph: Please write back to me as soon as possible.
+    - paragraph: Love,
+    - paragraph: Kí tên
+    - paragraph
+    - paragraph: 2. Email cho quản lý
+    - paragraph: Dear…tên câu lạc bộ…..Club Manager,
+    - paragraph: I hope this email finds you well. I am…+tên…. I have been a club member + khoảng thời gian. According to the announcement, the club + trích lại nội dung chính của đề. I felt…+tính từ chỉ cảm xúc….when I heard this news. In my opinion, we should + giải pháp because + Giải thích. Besides, we need to + giải pháp 2 (nếu có thể)
+    - paragraph: I hope my suggestions are useful.
+    - paragraph: I look forward to hearing from you.
+    - paragraph: Sincerely,
+    - paragraph
+    - paragraph
+    - paragraph
+    - paragraph

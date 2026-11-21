@@ -1,0 +1,71 @@
+  - main:
+    - navigation "Breadcrumb":
+      - link "Hướng dẫn":
+        - /url: https://milaedu.com/instructions
+      - text: / Part 2,3 Viết
+    - heading "Part 2,3 Viết" [level=1]
+    - paragraph: Cập nhật lúc 09:31 - 19/11/2026
+    - paragraph:
+      - strong: WRITING - Part 2,3
+    - paragraph:
+      - strong: Phát triển câu trả lời theo các từ để hỏi What - where - why - when - how…
+    - paragraph:
+      - text: "Eg: The last time I played sports was last Sunday morning. I played"
+      - strong: football
+      - text: with
+      - strong: my friends
+      - text: at
+      - strong: a stadium
+      - text: near my house. I felt
+      - strong: happy and relaxed
+      - text: after the game.
+    - paragraph:
+      - strong: Thêm lời khen, chào xã giao để kéo dài câu trả lời
+    - paragraph: I’m glad to talk to you.
+    - paragraph: Hi. It's nice to talk to you.
+    - paragraph: Hi. It's a pleasure to talk to you.
+    - paragraph: This is an interesting question.
+    - paragraph: Thank you for your warm welcome.
+    - paragraph:
+      - strong: Dùng cấu trúc để kéo cho đủ từ
+    - paragraph:
+      - strong: It helps…sb + V
+    - paragraph:
+      - strong: It allows/ enables/ gives me a chance….to + V
+    - paragraph: It helps me relax, reduce stress, improve my health, improve my knowledge, make new friends, learn new things, lose weight, stay fit, recharge my energy, boost my mood, connect with other people, refresh my mind…. after a long/busy day
+    - paragraph:
+      - strong: Ideas viết part 2,3
+    - list:
+      - listitem:
+        - strong: "Cảm xúc :"
+    - paragraph: It helps me reduce/relieve stress and anxiety, relax/unwind after a tiring day/ or a busy/hectic schedule.
+    - paragraph: Recharge my energy after a tired working day sitting in front of the computer screen.
+    - paragraph:
+      - text: "E.g:"
+      - strong: When do you listen to music?
+    - paragraph: "- I listen to music before going to bed because it helps me relax after a day of hard work."
+    - paragraph:
+      - strong: Kiến thức
+    - paragraph: It allows me to improve/broaden/expand my knowledge and learn new things/ improve my soft skills.
+    - paragraph: Discover new places/ other cultures/customs/open my mind.
+    - paragraph:
+      - text: Eg
+      - strong: Why do you like traveling
+    - paragraph: I am a big fan of traveling because it helps me improve my knowledge and discover new places.
+    - list:
+      - listitem:
+        - strong: Kinh tế
+    - paragraph: It gives me a chance to earn money/ save money/ get a high-paying job
+    - list:
+      - listitem:
+        - strong: Gia đình, bạn bè
+    - paragraph: Make new friends/ connect with other people/ build new relationships/ strengthen bonds between family members
+    - list:
+      - listitem:
+        - strong: Sức khỏe
+    - paragraph: Improve my health/ keep fit/ balance between muscle and fat/ stay healthy/ maintain a healthy lifestyle/keep my body in good shape/avoid all sorts of serious illnesses/boost my muscles, add strength, and improve blood flow rate./ get in better shape and lose some weight
+    - list:
+      - listitem:
+        - strong: Văn hóa
+    - paragraph: Protect cultural identity/ customs and values/ express identity/ preserve traditions/bring people together/reflect societal values and emotions/ enrich our lives/ connect people across different cultures.
+    - paragraph

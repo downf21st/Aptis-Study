@@ -1,0 +1,301 @@
+  - main:
+    - navigation "Breadcrumb":
+      - link "Hướng dẫn":
+        - /url: https://milaedu.com/instructions
+      - text: / Các thủ tục đăng kí thi và tính điểm bài...
+    - heading "Các thủ tục đăng kí thi và tính điểm bài thi" [level=1]
+    - paragraph: Cập nhật lúc 09:29 - 19/11/2026
+    - paragraph:
+      - strong: Các câu hỏi thường gặp về kỳ thi Aptis
+    - paragraph:
+      - strong: 1. Đăng ký thi Aptis
+    - paragraph:
+      - strong: "Q1: Đăng ký thi Aptis ở"
+      - strong: "A:"
+      - text: "Bạn đăng ký trực tuyến trên website :"
+      - link "https://aptistests.vn/dang-ky-thong-tin":
+        - /url: https://aptistests.vn/dang-ky-thong-tin
+    - paragraph
+    - paragraph:
+      - strong: "Q2: Cần giấy tờ gì khi đăng ký thi?"
+      - strong: "A:"
+      - text: Bạn cần
+      - strong: CCCD hoặc hộ chiếu còn hạn
+      - text: và
+      - strong: email cá nhân
+      - text: để nhận thông tin xác nhận.
+    - paragraph
+    - paragraph:
+      - strong: "Q3:"
+      - strong: Có những dạng chứng chỉ Aptis nào?
+    - paragraph:
+      - strong: "- Aptis General"
+      - text: ": Dành cho mục đích học tập và công việc cơ bản."
+    - paragraph:
+      - text: "-"
+      - strong: "Aptis Advanced:"
+      - text: Dành cho mục đích học tập chuyên sâu, nghiên cứu và công việc yêu cầu trình độ cao.
+    - paragraph:
+      - text: "- Xét chuẩn"
+      - strong: đầu vào, đầu ra của các trường đại học, cao học
+      - text: chọn
+      - strong: Aptis general
+      - text: .
+    - paragraph
+    - paragraph:
+      - strong: "Q4: Chọn địa điểm thi nào?"
+    - paragraph:
+      - strong: "A:"
+      - text: Chọn địa điểm nào trong các lựa chọn
+      - strong: đều được
+      - text: .
+    - paragraph
+    - paragraph:
+      - strong: "Q5: Lệ phí thi Aptis là bao nhiêu?"
+      - strong: "A:"
+      - text: Aptis general lệ phí thi là
+      - strong: 2 triệu
+      - text: . Chuyển khoản cho Hội đồng Anh trong vòng 24h kể từ khi đăng ký thi.
+    - paragraph
+    - paragraph:
+      - strong: "Q6: Làm sao biết đã đăng ký thành công?"
+    - paragraph:
+      - text: "- Sẽ có email hướng dẫn thanh toán sau khi đăng ký thi và"
+      - strong: email xác nhận
+      - text: đăng ký thành công sau khi thanh toán lệ phí thi.
+    - paragraph
+    - paragraph:
+      - text: 📅
+      - strong: 2. Lịch thi và đổi lịch
+    - paragraph:
+      - strong: "Q7: Làm sao biết lịch thi Aptis gần nhất?"
+      - strong: "A:"
+      - text: Lịch thi được
+      - strong: đăng công khai trên website
+      - text: . Bạn có thể chọn ngày thi và địa điểm phù hợp khi đăng ký online.
+    - paragraph:
+      - text: "- Aptis hiện được tổ chức"
+      - strong: gần như tất cả các ngày trong tuần với 3 ca thi
+      - text: sáng, chiều và tối.
+    - paragraph
+    - paragraph:
+      - strong: "Q8: Có được huỷ/ đổi lịch thi không?"
+    - paragraph:
+      - strong: "A:"
+      - text: Có thể, nhưng bạn phải
+      - strong: thông báo trước
+      - text: và có lý do chính đáng. Phí đổi lịch có thể được áp dụng.
+    - paragraph:
+      - strong: "Xem mục hỏi đáp trên website :"
+      - link "https://aptistests.vn/hoi-dap":
+        - /url: https://aptistests.vn/hoi-dap
+        - strong: https://aptistests.vn/hoi-dap
+    - paragraph
+    - heading "💻 3. Trong ngày thi" [level=2]:
+      - strong: 💻 3. Trong ngày thi
+    - paragraph
+    - paragraph:
+      - strong: "Q9: Khi nào cần đến địa điểm thi?"
+    - paragraph:
+      - strong: "-"
+      - text: Đến địa điểm thi
+      - strong: trước thời gian quy định, bạn sẽ nhận được email thông báo cụ thể
+      - text: 3-5 ngày trước khi thi.
+    - paragraph
+    - paragraph:
+      - strong: "Q10: Cần mang gì khi đi thi?"
+      - strong: "A:"
+      - text: Mang
+      - strong: CCCD hoặc hộ chiếu bản gốc
+    - paragraph:
+      - link "Quy định về giấy tờ tùy thân của thí sinh thi Aptis ESOL":
+        - /url: https://www.britishcouncil.vn/sites/default/files/aptis_esol_id_policy_vie_20250701.pdf
+        - strong: Quy định về giấy tờ tùy thân của thí sinh thi Aptis ESOL
+    - paragraph
+    - paragraph:
+      - strong: "Q11: Thi Aptis trên máy hay trên giấy?"
+      - strong: A
+      - text: ": Thi"
+      - strong: trên máy tính
+      - text: tại địa điểm thi.
+    - paragraph
+    - paragraph:
+      - strong: Q12. Có được phát bút và giấy nháp khi thi không
+    - paragraph:
+      - strong: "A:"
+      - strong: Có
+      - text: ", nháp sẽ thu lại sau khi kết thúc bài thi."
+    - paragraph
+    - paragraph:
+      - strong: "Q13: Có tủ đựng đồ tại địa điểm thi không?"
+    - paragraph:
+      - strong: "A:"
+      - strong: Có
+    - paragraph:
+      - strong
+    - heading "📊 4. Cấu trúc và cách tính điểm" [level=2]:
+      - strong: 📊 4. Cấu trúc và cách tính điểm
+    - paragraph
+    - paragraph:
+      - strong: "Q14: Aptis có mấy phần thi?"
+      - strong: "A:"
+      - text: "Gồm 4 kỹ năng:"
+      - strong: Listening, Reading, Writing, Speaking
+      - text: ", và 1 phần"
+      - strong: Grammar & Vocabulary
+      - text: (không tính vào tổng band điểm).
+    - paragraph
+    - paragraph:
+      - strong: "Q15: Cách tính điểm mỗi kỹ năng như thế nào?"
+      - strong: "A:"
+      - text: Điểm tối đa mỗi kỹ năng là 50 điểm và quy đổi ra thang điểm
+      - strong: CEFR (A1 – C1)
+      - text: .
+    - paragraph:
+      - strong: "Reading:"
+      - text: 4 parts - 29 câu.
+      - strong: Máy tính chấm.
+    - paragraph: "Part 1: 10 điểm (5 câu)"
+    - paragraph: "Part 2: 10 điểm (2.1: 5 điểm + 2.2: 5 điểm)"
+    - paragraph: "Part 3: 16 điểm (7 câu – 4 người - mỗi người 4 điểm)"
+    - paragraph: "Part 4: 14 điểm (7 câu)"
+    - paragraph:
+      - strong: "Listening:"
+      - text: 4 parts - 25 câu - mỗi câu 2 điểm.
+      - strong: Máy tính chấm
+      - text: .
+    - paragraph: "Part 1: 13 câu = 26 điểm"
+    - paragraph: "Part 2: câu 14, trong câu này có 4 câu nhỏ = 8 điểm"
+    - paragraph: "Part 3: câu 15, trong câu này có 4 câu nhỏ = 8 điểm"
+    - paragraph: "Part 4: câu 16 & câu 17, mỗi câu chứa 2 câu nhỏ = 8 điểm"
+    - paragraph:
+      - strong: "Writing & Speaking:"
+      - text: 4 parts.
+      - strong: Giám khảo chấm
+      - text: "theo marking scales:"
+    - paragraph: "Part 1: 5 điểm"
+    - paragraph: "Part 2: 10 điểm"
+    - paragraph: "Part 3: 15 điểm"
+    - paragraph: "Part 4: 20 điểm"
+    - paragraph
+    - paragraph:
+      - strong: "Q16: Cách tính điểm chữ overall (loại chứng chỉ) như thế nào?"
+    - paragraph:
+      - text: "- Được tính theo"
+      - strong: quy tắc trung bình cộng các điểm chữ
+      - text: của 4 kỹ năng.
+    - paragraph: "- Do vậy chỉ cần quan tâm các band điểm thành phần bằng chữ kết hợp lại ra sao thôi."
+    - paragraph:
+      - img
+    - heading "Trường hợp đạt B1" [level=2]:
+      - strong: Trường hợp đạt B1
+    - heading "B1 = 2B1 + 2A2" [level=2]
+    - paragraph: 3B1 + 1A2
+    - paragraph: 1B2 + 3A2
+    - paragraph: 2B2 + 1A2 + 1A1
+    - paragraph: 1C + 3A2
+    - paragraph: 1C + 1B1 + 1A2 + 1A1
+    - heading "Trường hợp đạt B2" [level=2]:
+      - strong: Trường hợp đạt B2
+    - paragraph: B2 = 2B2 + 2B1
+    - paragraph: 3B2 + 1A2
+    - paragraph: 1C + 3B1
+    - paragraph: 2C + 1B1 + 1A2
+    - paragraph: 2C + 2A2
+    - paragraph: 1C + 1B2 + 1B1 + 1A2
+    - paragraph:
+      - strong: Các trường hợp đạt C
+    - paragraph: C = 2C + 2B2
+    - paragraph: 3C + 1B1
+    - paragraph:
+      - strong: Trường hợp đạt A2
+    - paragraph: Nghe 16 điểm
+    - paragraph: Đọc 16 điểm
+    - paragraph: Nói 16 điểm
+    - paragraph: Viết 18 điểm
+    - heading [level=2]
+    - paragraph:
+      - text: Điểm GV sẽ có tác dụng xét lên band khi
+      - strong: chấp chới
+      - text: giữa 2 mức. GV >24 được xét lên B2, GV >32 được xét lên C1. Không có quy định điểm liệt GV
+    - paragraph
+    - heading "📑 5. Kết quả và phiếu điểm" [level=2]:
+      - strong: 📑 5. Kết quả và phiếu điểm
+    - paragraph
+    - paragraph:
+      - strong: "Q17: Khi nào có kết quả Aptis?"
+      - strong: "A:"
+      - text: Sau khoảng
+      - strong: 3-5 ngày làm việc
+      - text: kể từ ngày thi.
+    - paragraph
+    - paragraph:
+      - strong: "Q18: Tra cứu điểm thi ở đâu?"
+      - strong: "A:"
+      - text: Tra cứu điểm thi
+      - strong: trên website
+      - text: bằng cách nhập căn cước công dân.
+    - paragraph:
+      - link "https://aptistests.vn/tra-cuu":
+        - /url: https://aptistests.vn/tra-cuu
+    - paragraph
+    - paragraph:
+      - strong: "Q19: Nhận chứng chỉ aptis bản cứng như thế nào?"
+    - paragraph:
+      - text: "- Sau 10 ngày từ khi có điểm thí sinh mang cccd đến"
+      - strong: nhận phiếu điểm giấy tại địa điểm thi
+      - strong: hoặc
+      - text: đăng ký nhận phiếu điểm
+      - strong: qua bưu điện
+      - text: .
+    - paragraph:
+      - text: "- Theo dõi thời gian trả điểm và đăng ký nhận phiếu điểm online trên trang facebook:"
+      - link "https://www.facebook.com/share/19q8EnEcRS/?mibextid=wwXIfr":
+        - /url: https://www.facebook.com/share/19q8EnEcRS/?mibextid=wwXIfr
+    - paragraph
+    - paragraph:
+      - strong: "Q20: Phiếu điểm Aptis có thời hạn bao lâu?"
+      - strong: "A:"
+      - strong: Không có thời hạn
+      - text: chính thức,
+      - strong: nhưng hầu hết
+      - text: các trường/đơn vị
+      - strong: chỉ chấp nhận trong vòng 2 năm
+      - text: .
+    - paragraph
+    - paragraph:
+      - strong: 6. Phúc khảo và hỗ trợ khác
+    - paragraph:
+      - strong: "Q21: Có được phúc khảo điểm Aptis không?"
+    - paragraph:
+      - strong: "A: Có"
+    - paragraph:
+      - strong: "Thời gian nộp đơn:"
+      - text: Nộp đơn yêu cầu phúc khảo trong vòng 8 tuần kể từ ngày thi.
+    - paragraph:
+      - strong: "Lệ phí phúc khảo:"
+      - text: 1.000.000 VNĐ/lần. Khoản lệ phí này sẽ được hoàn trả nếu điểm số thay đổi sau phúc khảo (tăng điểm so với ban đầu).
+    - paragraph
+    - paragraph:
+      - strong: "Q22: Làm sao liên hệ khi có thắc mắc?"
+      - strong: "A:"
+      - text: "Gửi email đến: 📧"
+      - strong: info@britishcouncil.org.vn
+      - text: hoặc gọi 📞 18001299
+    - paragraph
+    - paragraph:
+      - strong: "Q23: Có thể thi lại Aptis không?"
+      - strong: "A:"
+      - strong: Có
+      - text: . Bạn có thể thi lại bất cứ lúc nào,
+      - strong: không giới hạn số lần thi
+      - text: .
+    - paragraph
+    - paragraph:
+      - strong: "Q24: Aptis có được dùng để xét tốt nghiệp hay tuyển sinh không?"
+      - strong: "A:"
+      - text: Có. Nhiều trường đại học và cơ quan tại Việt Nam
+      - strong: chấp nhận chứng chỉ Aptis
+      - text: để xét đầu ra hoặc tuyển dụng.
+    - paragraph
+    - paragraph

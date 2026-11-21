@@ -1,0 +1,156 @@
+{
+  "source": "https://milaedu.com/practice/7",
+  "captured": "2026-11-18",
+  "status": "source-fields-and-media-captured-answers-unverified",
+  "expected_questions": 16,
+  "question_count": 16,
+  "source_fields_file": {
+    "path": "data/listening/practice-7/source-fields.json",
+    "sha256": "8eb1f71d59e5f072f99ca2c7464d79adddf204bf7b6817ca28722979577f694a"
+  },
+  "media": [
+    {
+      "question_number": 1,
+      "question_source_id": 707,
+      "source": "https://milaedu.com/media/questions/707/audio",
+      "file": "media/question-707.mp3",
+      "bytes": 3002688,
+      "sha256": "40453706f59033fab8d79f64f09e3712d53ff9d9cef9ae74abbb0f4d977c09e5"
+    },
+    {
+      "question_number": 2,
+      "question_source_id": 766,
+      "source": "https://milaedu.com/media/questions/766/audio",
+      "file": "media/question-766.mp3",
+      "bytes": 1406233,
+      "sha256": "70bb2fcc51cb2a4359fba07389bc0d8acc6dd3b5645eb0cd7d86f29ed60a8217"
+    },
+    {
+      "question_number": 3,
+      "question_source_id": 225,
+      "source": "https://milaedu.com/media/questions/225/audio",
+      "file": "media/question-225.mp3",
+      "bytes": 1926174,
+      "sha256": "684fa2ce2b315aba75eb18cb6de38d64601810c38ef3cea2874502a6f4a5cc09"
+    },
+    {
+      "question_number": 4,
+      "question_source_id": 799,
+      "source": "https://milaedu.com/media/questions/799/audio",
+      "file": "media/question-799.mp3",
+      "bytes": 1753139,
+      "sha256": "c19198b838cea6ec0dbf462dc17b30d9bd05f4c47c0fde8e4ac047b46286b50a"
+    },
+    {
+      "question_number": 5,
+      "question_source_id": 227,
+      "source": "https://milaedu.com/media/questions/227/audio",
+      "file": "media/question-227.mp3",
+      "bytes": 2101299,
+      "sha256": "5fb9511fe10b64c1837e904d71c4342bf8aa6da7749a09976133e58039ab8612"
+    },
+    {
+      "question_number": 6,
+      "question_source_id": 767,
+      "source": "https://milaedu.com/media/questions/767/audio",
+      "file": "media/question-767.mp3",
+      "bytes": 1812071,
+      "sha256": "e1c5bc240b34581209ad670360a0b8446985d405dc4163d7de0030c2712b9521"
+    },
+    {
+      "question_number": 7,
+      "question_source_id": 769,
+      "source": "https://milaedu.com/media/questions/769/audio",
+      "file": "media/question-769.mp3",
+      "bytes": 2340790,
+      "sha256": "a0e9cb7d39caa7eb82e742eb320e2765b7ed55b2137a697578428559f96faaee"
+    },
+    {
+      "question_number": 8,
+      "question_source_id": 300,
+      "source": "https://milaedu.com/media/questions/300/audio",
+      "file": "media/question-300.mp3",
+      "bytes": 1934951,
+      "sha256": "980575add063f8a2e737a4899ef3735159b308ba7f51d9844b862531f3fcecac"
+    },
+    {
+      "question_number": 9,
+      "question_source_id": 302,
+      "source": "https://milaedu.com/media/questions/302/audio",
+      "file": "media/question-302.mp3",
+      "bytes": 1552101,
+      "sha256": "b15aa109ea6cf343889d8185226b3815bee0069e01e4042c86a771aa51d9eded"
+    },
+    {
+      "question_number": 10,
+      "question_source_id": 706,
+      "source": "https://milaedu.com/media/questions/706/audio",
+      "file": "media/question-706.mp3",
+      "bytes": 1796607,
+      "sha256": "d9a7c727ad37669e95db463c6dbe0f7ee3a91c3710aa3324a2cc78f2199fd5a5"
+    },
+    {
+      "question_number": 11,
+      "question_source_id": 223,
+      "source": "https://milaedu.com/media/questions/223/audio",
+      "file": "media/question-223.mp3",
+      "bytes": 1751885,
+      "sha256": "d82bf9f221c6531eecba82d0d6683d95b83346f403b3df215df2cad3d6decdd5"
+    },
+    {
+      "question_number": 12,
+      "question_source_id": 768,
+      "source": "https://milaedu.com/media/questions/768/audio",
+      "file": "media/question-768.mp3",
+      "bytes": 1951670,
+      "sha256": "18e7f80338e355685abe84bf4bfdf719ea2232d2c0653520bcdb18630192a56c"
+    },
+    {
+      "question_number": 13,
+      "question_source_id": 709,
+      "source": "https://milaedu.com/media/questions/709/audio",
+      "file": "media/question-709.mp3",
+      "bytes": 1758154,
+      "sha256": "4b1b42354bb1b2e1428963ab8fcd3be2fd81dd23bc80c88fb917a1f2742a002c"
+    },
+    {
+      "question_number": 14,
+      "question_source_id": 710,
+      "source": "https://milaedu.com/media/questions/710/audio",
+      "file": "media/question-710.mp3",
+      "bytes": 1910592,
+      "sha256": "49cd3bc9c70a71519c982f5a70c905c959f70adb0aee708cdafc38407982f4d2"
+    },
+    {
+      "question_number": 15,
+      "question_source_id": 711,
+      "source": "https://milaedu.com/media/questions/711/audio",
+      "file": "media/question-711.mp3",
+      "bytes": 2029824,
+      "sha256": "7b630a40e8f6985688a5628402ec4ac1cc629a2c2aeffa18213431f4767c3e9f"
+    },
+    {
+      "question_number": 16,
+      "question_source_id": 226,
+      "source": "https://milaedu.com/media/questions/226/audio",
+      "file": "media/question-226.mp3",
+      "bytes": 1598494,
+      "sha256": "092682fb24d4f60a55efa142dc6a2e9674e9fe6b873b392987061248515c8684"
+    }
+  ],
+  "limitations": [
+    "Part 4 capture exposed a risk that the REA workflow selected an unrelated or partial HTTP 206 media response. Each Part 3 audio needs source and completeness revalidation; checksum and codec checks alone do not establish this.",
+    "The source provides empty correct_answers arrays for these questions; answers have not been independently captured or verified.",
+    "Descriptions are stored as original HTML; their relationship to audio has not been checked by listening.",
+    "Audio files have not been listened to end-to-end.",
+    "No attempt was submitted.",
+    "Answer keys captured using per-question check with blank selections; no final submission. Answers and explanations have not been independently checked against the audio.",
+    "Answer keys captured by checking each question with blank selections; no final submission. Answers have not been independently checked against audio."
+  ],
+  "answer_keys_file": {
+    "path": "data/listening/practice-7/answer-keys.json",
+    "sha256": "c784ddc6f45e690a32ed183807a80ce9a2896e35d6e2934750c16cd8041da0f0",
+    "question_count": 16,
+    "explanations_present": 15
+  }
+}

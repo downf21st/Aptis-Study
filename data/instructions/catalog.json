@@ -1,0 +1,443 @@
+{
+  "source": "https://milaedu.com/instructions",
+  "captured": "2026-11-20",
+  "expected_articles": 12,
+  "articles": [
+    {
+      "source": "https://milaedu.com/instructions/quy-dinh-lop-hoc-va-lich-hoc",
+      "slug": "quy-dinh-lop-hoc-va-lich-hoc",
+      "title": "Quy định lớp học và lịch học",
+      "order": 1,
+      "captured": "2026-11-20",
+      "evidence_id": "ev_efa2ca2d2cde5b5a9c457ad0ef00f12807c8b182e4d30e29b59e8215aae7e26a",
+      "status": "captured",
+      "links": [
+        {
+          "tag": "a",
+          "url": "https://milaedu.com/instructions"
+        }
+      ],
+      "html": {
+        "path": "data/instructions/articles/quy-dinh-lop-hoc-va-lich-hoc/article.html",
+        "bytes": 6506,
+        "sha256": "6708c682b8796b78106d691774670eed82474c040d99961af90b4953e3403a9f"
+      },
+      "accessibility": {
+        "path": "data/instructions/articles/quy-dinh-lop-hoc-va-lich-hoc/accessibility.txt",
+        "bytes": 6334,
+        "sha256": "0510a78f5ea7b61bcdcd96b16e7971c9d805582293a3dd12d355b1b07e348d25"
+      }
+    },
+    {
+      "source": "https://milaedu.com/instructions/cac-thu-tuc-dang-ki-thi-va-tinh-diem-bai-thi",
+      "slug": "cac-thu-tuc-dang-ki-thi-va-tinh-diem-bai-thi",
+      "title": "Các thủ tục đăng kí thi và tính điểm bài thi",
+      "order": 2,
+      "captured": "2026-11-20",
+      "evidence_id": "ev_3bc871a5bc8dfc58b7ad1220d9ec054d94d16dd71a2d8dcc2c164a8c1f1c35fb",
+      "status": "captured",
+      "links": [
+        {
+          "tag": "a",
+          "url": "https://milaedu.com/instructions"
+        },
+        {
+          "tag": "a",
+          "url": "https://aptistests.vn/dang-ky-thong-tin"
+        },
+        {
+          "tag": "a",
+          "url": "https://aptistests.vn/hoi-dap"
+        },
+        {
+          "tag": "a",
+          "url": "https://www.britishcouncil.vn/sites/default/files/aptis_esol_id_policy_vie_20250701.pdf"
+        },
+        {
+          "tag": "img",
+          "kind": "embedded-image",
+          "media_type": "image/jpeg",
+          "file": "data/instructions/media/embedded-71f36b4e8876c435.jpg",
+          "bytes": 39527,
+          "sha256": "71f36b4e8876c435aa236647ee7542a8adb1b6980de96bc13fdc7ebab07e4f85"
+        },
+        {
+          "tag": "a",
+          "url": "https://aptistests.vn/tra-cuu"
+        },
+        {
+          "tag": "a",
+          "url": "https://www.facebook.com/share/19q8EnEcRS/?mibextid=wwXIfr"
+        }
+      ],
+      "html": {
+        "path": "data/instructions/articles/cac-thu-tuc-dang-ki-thi-va-tinh-diem-bai-thi/article.html",
+        "bytes": 65902,
+        "sha256": "106ff7d7a0cb0b958899a8e5ee92456041401433e7a6722086e09791010999c6"
+      },
+      "accessibility": {
+        "path": "data/instructions/articles/cac-thu-tuc-dang-ki-thi-va-tinh-diem-bai-thi/accessibility.txt",
+        "bytes": 11790,
+        "sha256": "8bab7245b83bafa8be35dcc0f3e5407307a34ef487931cc3c2422b3bf79792b7"
+      }
+    },
+    {
+      "source": "https://milaedu.com/instructions/speaking-cac-cum-tu-dung-ta-tranh-part-2-3",
+      "slug": "speaking-cac-cum-tu-dung-ta-tranh-part-2-3",
+      "title": "SPEAKING: CÁC CỤM TỪ DÙNG TẢ TRANH PART 2, 3",
+      "order": 3,
+      "captured": "2026-11-20",
+      "evidence_id": "ev_67a8dd844f0f5e3038f9f9e15e78279eea474dfac624fd16ff4ab0d71687a260",
+      "status": "captured",
+      "links": [
+        {
+          "tag": "a",
+          "url": "https://milaedu.com/instructions"
+        }
+      ],
+      "html": {
+        "path": "data/instructions/articles/speaking-cac-cum-tu-dung-ta-tranh-part-2-3/article.html",
+        "bytes": 32174,
+        "sha256": "aa89d98a83c876502b59e697df4f6557c486d2d9aab83b315f5eef613043d1cc"
+      },
+      "accessibility": {
+        "path": "data/instructions/articles/speaking-cac-cum-tu-dung-ta-tranh-part-2-3/accessibility.txt",
+        "bytes": 62319,
+        "sha256": "8790bfe2cf0d04ff5009fd2f8c7163192ab51cd76328ac675f319e0a0d09c237"
+      }
+    },
+    {
+      "source": "https://milaedu.com/instructions/de-ghep-speaking-part-4",
+      "slug": "de-ghep-speaking-part-4",
+      "title": "Đề ghép Speaking part 4",
+      "order": 4,
+      "captured": "2026-11-20",
+      "evidence_id": "ev_f6dfbcaf5b9cbf7eecb77755f1ae4278c76308d77d6559c55d3d31e0089c42a9",
+      "status": "captured",
+      "links": [
+        {
+          "tag": "a",
+          "url": "https://milaedu.com/instructions"
+        },
+        {
+          "tag": "a",
+          "url": "https://drive.google.com/file/d/1wDOQ27WJY4_6_eB-GqIJLEG4McFu9o9P/view?usp=sharing"
+        },
+        {
+          "tag": "a",
+          "url": "https://drive.google.com/file/d/1Fz7z6Jc5ta6s-h2S-1I5r66oGkyDyLYQ/view?usp=drivesdk"
+        },
+        {
+          "tag": "a",
+          "url": "https://drive.google.com/file/d/1LBJ_RhXcbVWTqTPmRvq-MV0gwICTPVho/view?usp=drivesdk"
+        }
+      ],
+      "html": {
+        "path": "data/instructions/articles/de-ghep-speaking-part-4/article.html",
+        "bytes": 5313,
+        "sha256": "97350f489701b5161f958e739d50e810a63670182afb21b56ab152e8de43006f"
+      },
+      "accessibility": {
+        "path": "data/instructions/articles/de-ghep-speaking-part-4/accessibility.txt",
+        "bytes": 4723,
+        "sha256": "a5eb4db4f8f4d10bc4e07d9ac81e610d4ee24cd230fb6e3a6f4c626c074dd8bb"
+      }
+    },
+    {
+      "source": "https://milaedu.com/instructions/aptis-speaking-cach-nang-band-len-b2c",
+      "slug": "aptis-speaking-cach-nang-band-len-b2c",
+      "title": "APTIS SPEAKING: CÁCH NÂNG BAND LÊN B2/C",
+      "order": 5,
+      "captured": "2026-11-20",
+      "evidence_id": "ev_ed7c9a0e0fd2baf5e39f4240a0d759e8e372db8904fac20ce7521bb95e9576b1",
+      "status": "captured",
+      "links": [
+        {
+          "tag": "a",
+          "url": "https://milaedu.com/instructions"
+        },
+        {
+          "tag": "a",
+          "url": "https://www.youtube.com/watch?si=cuoT5IgTZDSHBQfd&v=q7EJQ_Prnjk&feature=youtu.be"
+        }
+      ],
+      "html": {
+        "path": "data/instructions/articles/aptis-speaking-cach-nang-band-len-b2c/article.html",
+        "bytes": 19456,
+        "sha256": "33488e8a98790180f5031042b86d72c21d3691d93207c1f64cf94c576dfe369b"
+      },
+      "accessibility": {
+        "path": "data/instructions/articles/aptis-speaking-cach-nang-band-len-b2c/accessibility.txt",
+        "bytes": 35299,
+        "sha256": "9c02f73b15b504ed263518403b9f1867d3e63ad6ddff44c3ce9f3a51b14e90de"
+      }
+    },
+    {
+      "source": "https://milaedu.com/instructions/part-23-viet",
+      "slug": "part-23-viet",
+      "title": "Part 2,3 Viết",
+      "order": 6,
+      "captured": "2026-11-20",
+      "evidence_id": "ev_495f632cb956eb02f8dc0c86e4aecb24e9e4f0963c2390d1fa67a8d75f9b5fc9",
+      "status": "captured",
+      "links": [
+        {
+          "tag": "a",
+          "url": "https://milaedu.com/instructions"
+        }
+      ],
+      "html": {
+        "path": "data/instructions/articles/part-23-viet/article.html",
+        "bytes": 4245,
+        "sha256": "5018dcb6084d324290dcbb9c5700825534744b9e5e69fc37c8c01b6ca8b38969"
+      },
+      "accessibility": {
+        "path": "data/instructions/articles/part-23-viet/accessibility.txt",
+        "bytes": 3499,
+        "sha256": "5ea77a5d6191bc4613167c9626449ffc3846579a1df4917d748bd953ba92f4ff"
+      }
+    },
+    {
+      "source": "https://milaedu.com/instructions/form-viet-email",
+      "slug": "form-viet-email",
+      "title": "Form viết email",
+      "order": 7,
+      "captured": "2026-11-20",
+      "evidence_id": "ev_4ee5641c33ed2b9b2351b44c543f3a43299233dac9539b11fd7c8e53af7249ac",
+      "status": "captured",
+      "links": [
+        {
+          "tag": "a",
+          "url": "https://milaedu.com/instructions"
+        }
+      ],
+      "html": {
+        "path": "data/instructions/articles/form-viet-email/article.html",
+        "bytes": 7848,
+        "sha256": "4add047c630b9d5c4aa5bbf3871ab84ed290f33ec5feb2ea02faabc4083711a0"
+      },
+      "accessibility": {
+        "path": "data/instructions/articles/form-viet-email/accessibility.txt",
+        "bytes": 7289,
+        "sha256": "f2e7ce39e14d7fd336017e9837186545520f2f99b79d180c1801048f20e19417"
+      }
+    },
+    {
+      "source": "https://milaedu.com/instructions/ideas-cho-email-part-4-writing",
+      "slug": "ideas-cho-email-part-4-writing",
+      "title": "Ideas cho email ( Part 4 - Writing)",
+      "order": 8,
+      "captured": "2026-11-20",
+      "evidence_id": "ev_fc372c8e2e96fc388391018b9d83676678872c22f88a41327056b4fad4d2e26a",
+      "status": "captured",
+      "links": [
+        {
+          "tag": "a",
+          "url": "https://milaedu.com/instructions"
+        }
+      ],
+      "html": {
+        "path": "data/instructions/articles/ideas-cho-email-part-4-writing/article.html",
+        "bytes": 5740,
+        "sha256": "a31dd7c2bebcc8885343bc4333cec2b42e743dc203fe702c45c8c7bffb0146ca"
+      },
+      "accessibility": {
+        "path": "data/instructions/articles/ideas-cho-email-part-4-writing/accessibility.txt",
+        "bytes": 4479,
+        "sha256": "9750a165b92818d23168c56c36f7e449d071504dab404a7a3c5d57f0efc8a59b"
+      }
+    },
+    {
+      "source": "https://milaedu.com/instructions/viet-nang-cao-band-b2-c",
+      "slug": "viet-nang-cao-band-b2-c",
+      "title": "Viết nâng cao Band B2 - C",
+      "order": 9,
+      "captured": "2026-11-20",
+      "evidence_id": "ev_90323eaf3b452064b331bf10a82cfcef3dfb65347a8fa29e8d82decc783c476f",
+      "status": "captured",
+      "links": [
+        {
+          "tag": "a",
+          "url": "https://milaedu.com/instructions"
+        },
+        {
+          "tag": "a",
+          "url": "https://www.youtube.com/watch?v=xaeITLyr-ss&list=PLscag0E_vC-DHE9B8GPE-al_FmTbvpVcm&index=2"
+        }
+      ],
+      "html": {
+        "path": "data/instructions/articles/viet-nang-cao-band-b2-c/article.html",
+        "bytes": 18620,
+        "sha256": "94b5b204335aed5d701303da084219a8f4acac8261336561c2f99c947378d7d5"
+      },
+      "accessibility": {
+        "path": "data/instructions/articles/viet-nang-cao-band-b2-c/accessibility.txt",
+        "bytes": 24833,
+        "sha256": "4983c2454bec5344444683eec37e79365fce871a49454b7b6162b997df36236d"
+      }
+    },
+    {
+      "source": "https://milaedu.com/instructions/noi-viet-form-a2-cho-hs-mat-goc",
+      "slug": "noi-viet-form-a2-cho-hs-mat-goc",
+      "title": "Nói viết form A2 (cho hs mất gốc)",
+      "order": 10,
+      "captured": "2026-11-20",
+      "evidence_id": "ev_f41252541262c265fb946ccf4c2218dec17f21251808fa3df055b59164d4c805",
+      "status": "captured",
+      "links": [
+        {
+          "tag": "a",
+          "url": "https://milaedu.com/instructions"
+        },
+        {
+          "tag": "a",
+          "url": "https://drive.google.com/file/d/1wDOQ27WJY4_6_eB-GqIJLEG4McFu9o9P/view?usp=sharing"
+        }
+      ],
+      "html": {
+        "path": "data/instructions/articles/noi-viet-form-a2-cho-hs-mat-goc/article.html",
+        "bytes": 19681,
+        "sha256": "33df086f58be91f89b2782e5b82abd5d7fe2f18f6a25a2eb5379208c25dac897"
+      },
+      "accessibility": {
+        "path": "data/instructions/articles/noi-viet-form-a2-cho-hs-mat-goc/accessibility.txt",
+        "bytes": 30864,
+        "sha256": "30494f2d923661178d10ef33acda62ce4c954f67aa06e8792d006428e6c87a3e"
+      }
+    },
+    {
+      "source": "https://milaedu.com/instructions/part-23-chong-liet",
+      "slug": "part-23-chong-liet",
+      "title": "Part 2,3 chống liệt",
+      "order": 11,
+      "captured": "2026-11-20",
+      "evidence_id": "ev_54cac76f8bf52b39b8e982ec57d01db37129ba286feca2377e67480db34eb84b",
+      "status": "captured",
+      "links": [
+        {
+          "tag": "a",
+          "url": "https://milaedu.com/instructions"
+        }
+      ],
+      "html": {
+        "path": "data/instructions/articles/part-23-chong-liet/article.html",
+        "bytes": 8056,
+        "sha256": "fcbadbbf883218992ef723062b0df9f7832b75b9a55ac607054f3a56d8a99d35"
+      },
+      "accessibility": {
+        "path": "data/instructions/articles/part-23-chong-liet/accessibility.txt",
+        "bytes": 7863,
+        "sha256": "5ba777afa7809ec3d9ae2eaacf9a5f517a4276da5dd5ffa64427810493eefcdc"
+      }
+    },
+    {
+      "source": "https://milaedu.com/instructions/file-trich-de-cho-cac-ban-mat-goc",
+      "slug": "file-trich-de-cho-cac-ban-mat-goc",
+      "title": "File Trích Đề (cho các bạn mất gốc)",
+      "order": 12,
+      "captured": "2026-11-20",
+      "evidence_id": "ev_7aa6df36309b4af4fb60b0cd48745d0795949236c3ad0f446b31684c8827a941",
+      "status": "captured",
+      "links": [
+        {
+          "tag": "a",
+          "url": "https://milaedu.com/instructions"
+        }
+      ],
+      "html": {
+        "path": "data/instructions/articles/file-trich-de-cho-cac-ban-mat-goc/article.html",
+        "bytes": 9176,
+        "sha256": "8e7784440a493b26794053e4ac7937b74ca57b9eb223f1bb4fcfa84aa9751a58"
+      },
+      "accessibility": {
+        "path": "data/instructions/articles/file-trich-de-cho-cac-ban-mat-goc/accessibility.txt",
+        "bytes": 9328,
+        "sha256": "087b03f50afc7f24821b9ef02f8f84005263e354be40bfe7efe5c3e3041b9751"
+      }
+    }
+  ],
+  "limitations": [
+    "HTML is the captured main-content DOM rather than the complete page; accessibility text provides a second view.",
+    "Two large Google Drive videos are stored using Git LFS; restoring them requires Git LFS and access to the private repository.",
+    "YouTube transcripts were captured, but the videos themselves and other linked sites were not downloaded.",
+    "PDF was captured from the Chrome viewer; video and PDF source-provided checksums were unavailable.",
+    "No independent comparison of every article or transcript against the source audio/video has been performed."
+  ],
+  "linked_media": [
+    {
+      "id": "1wDOQ27WJY4_6_eB-GqIJLEG4McFu9o9P",
+      "title": "Video tập cụm từ thường dùng.mp4",
+      "file": "data/instructions/media/google-drive-1wDOQ27W.mp4",
+      "storage": "git",
+      "duration_seconds": 307.066667,
+      "source": "https://drive.google.com/file/d/1wDOQ27WJY4_6_eB-GqIJLEG4McFu9o9P/view",
+      "bytes": 52250070,
+      "sha256": "9a3ad89dd174a8ffd6900a68cf6baec19a9eca96e8d01742218b80bf52581d1e",
+      "status": "downloaded-ffprobe-recognized",
+      "source_checksum_independently_verified": false
+    },
+    {
+      "id": "1Fz7z6Jc5ta6s-h2S-1I5r66oGkyDyLYQ",
+      "title": "Luyen noi de ghep hoc tieng anh.mov",
+      "file": "data/instructions/media/google-drive-1Fz7z6Jc.mov",
+      "storage": "git-lfs",
+      "duration_seconds": 191.702993,
+      "source": "https://drive.google.com/file/d/1Fz7z6Jc5ta6s-h2S-1I5r66oGkyDyLYQ/view",
+      "bytes": 171712674,
+      "sha256": "70c2ee12207f2a6836003c2d036f4c891a560e7888416471c657cc31ee4910a2",
+      "status": "downloaded-ffprobe-recognized",
+      "source_checksum_independently_verified": false
+    },
+    {
+      "id": "1LBJ_RhXcbVWTqTPmRvq-MV0gwICTPVho",
+      "title": "Luyen noi de ghep Nha Trang.mov",
+      "file": "data/instructions/media/google-drive-1LBJ_RhX.mov",
+      "storage": "git-lfs",
+      "duration_seconds": 220.5,
+      "source": "https://drive.google.com/file/d/1LBJ_RhXcbVWTqTPmRvq-MV0gwICTPVho/view",
+      "bytes": 281074404,
+      "sha256": "c16bc5562f8bd94e597241b11e489bb3666ef0f3f9603f8e3de1e63da11ef1ad",
+      "status": "downloaded-ffprobe-recognized",
+      "source_checksum_independently_verified": false
+    }
+  ],
+  "external_resources": [
+    {
+      "source": "https://www.britishcouncil.vn/sites/default/files/aptis_esol_id_policy_vie_20250701.pdf",
+      "status": "captured-from-chrome-pdf-viewer",
+      "file": "data/instructions/media/aptis-esol-id-policy-vie-20250701.pdf",
+      "bytes": 208999,
+      "sha256": "7aefb2b798638874dfd65fe75230932bececfa68bdb947011272c2fa5935e8a0",
+      "evidence_id": "ev_5815d3a9727724f2cb67a029123103a902b33dc3333682f82b4920fc8d3a55a7",
+      "limitations": [
+        "Direct download returned HTTP 403; obtained from Chrome PDF viewer after original document response returned HTTP 200.",
+        "Viewer response byte length matched the original document Content-Length; source-provided checksum unavailable."
+      ]
+    },
+    {
+      "type": "youtube",
+      "status": "transcripts-captured-videos-not-downloaded",
+      "reason": "Two publicly displayed transcripts saved; audiovisual media not captured."
+    }
+  ],
+  "youtube_transcripts": [
+    {
+      "source": "https://www.youtube.com/watch?v=q7EJQ_Prnjk",
+      "file": "data/instructions/youtube/q7EJQ_Prnjk.transcript.json",
+      "bytes": 7083,
+      "sha256": "26bdd376cdbc1c10ba7bd9d9a22a4ee84df37b4065b14b40697a6c6d6b5a6f6c",
+      "segments": 54,
+      "evidence_id": "ev_6f248ae3057f522715afe23be2841b881df57311d01a6fab3b7ca2449b7e204e",
+      "status": "transcript-captured-video-not-downloaded"
+    },
+    {
+      "source": "https://www.youtube.com/watch?v=xaeITLyr-ss",
+      "file": "data/instructions/youtube/xaeITLyr-ss.transcript.json",
+      "bytes": 12448,
+      "sha256": "cd56eef3855b9a2157f1136d5c38c42db04ebe6cf8d0f1c0573bef436944d65f",
+      "segments": 99,
+      "evidence_id": "ev_a35ace90d4585b3446032e1b96e1b0ded62e04192f37adaaf274fb0550b0fc84",
+      "status": "transcript-captured-video-not-downloaded"
+    }
+  ]
+}

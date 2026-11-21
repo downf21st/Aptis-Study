@@ -1,0 +1,630 @@
+  - main:
+    - navigation "Breadcrumb":
+      - link "Hướng dẫn":
+        - /url: https://milaedu.com/instructions
+      - text: "/ APTIS SPEAKING: CÁCH NÂNG BAND LÊN B2/C"
+    - 'heading "APTIS SPEAKING: CÁCH NÂNG BAND LÊN B2/C" [level=1]'
+    - paragraph: Cập nhật lúc 09:30 - 19/11/2026
+    - paragraph:
+      - strong: "APTIS SPEAKING: CÁCH NÂNG BAND LÊN B2/C"
+    - paragraph:
+      - strong: "Youtube : Speaking"
+    - paragraph:
+      - link "https://www.youtube.com/watch?si=cuoT5IgTZDSHBQfd&v=q7EJQ_Prnjk&feature=youtu.be":
+        - /url: https://www.youtube.com/watch?si=cuoT5IgTZDSHBQfd&v=q7EJQ_Prnjk&feature=youtu.be
+        - strong: https://www.youtube.com/watch?si=cuoT5IgTZDSHBQfd&v=q7EJQ_Prnjk&feature=youtu.be
+    - paragraph
+    - paragraph:
+      - text: Theo thang đánh giá của British Council,
+      - strong: 5 tiêu chí đánh giá Speaking
+    - paragraph:
+      - strong: 1. Task fulfilment / Topic relevance –
+      - text: Trả lời đúng chủ đề, đủ nội dung.
+    - paragraph:
+      - strong: 2. Grammatical range and accuracy –
+      - text: Độ đa dạng và chính xác của ngữ pháp.
+    - paragraph:
+      - strong: 3. Vocabulary range and accuracy –
+      - text: Vốn từ và độ phù hợp.
+    - paragraph:
+      - strong: 4. Pronunciation –
+      - text: Phát âm rõ, dễ hiểu.
+    - paragraph:
+      - strong: 5. Fluency and coherence –
+      - text: Độ trôi chảy, mạch lạc khi nói.
+    - paragraph
+    - paragraph:
+      - strong: "1. TỪ B1 → B2/C: CẦN THAY ĐỔI GÌ?"
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Tiêu chí B1 B2 C1":
+            - columnheader "Tiêu chí":
+              - strong: Tiêu chí
+            - columnheader "B1":
+              - strong: B1
+            - columnheader "B2":
+              - strong: B2
+            - columnheader "C1":
+              - strong: C1
+        - rowgroup:
+          - row "Nội dung Trả lời đúng chủ đề, đủ ý, có mở – thân – kết đơn giản Trả lời đầy đủ, biết so sánh, giải thích quan điểm, xử lý tốt câu hỏi mở rộng Trả lời sâu, có ví dụ minh họa, phân tích và đánh giá nhiều khía cạnh":
+            - cell "Nội dung":
+              - strong: Nội dung
+            - cell "Trả lời đúng chủ đề, đủ ý, có mở – thân – kết đơn giản"
+            - cell "Trả lời đầy đủ, biết so sánh, giải thích quan điểm, xử lý tốt câu hỏi mở rộng"
+            - cell "Trả lời sâu, có ví dụ minh họa, phân tích và đánh giá nhiều khía cạnh"
+          - 'row "Ngữ pháp Câu đơn (hiện tại, quá khứ, tương lai, so sánh, điều kiện loại 1); có thể mắc lỗi nhỏ Kết hợp câu đơn + câu phức: mệnh đề quan hệ, điều kiện loại 2, thì hoàn thành Cấu trúc đa dạng và chính xác: hoàn thành, điều kiện, câu bị động, đảo ngữ; lỗi hiếm gặp"':
+            - cell "Ngữ pháp":
+              - strong: Ngữ pháp
+            - cell "Câu đơn (hiện tại, quá khứ, tương lai, so sánh, điều kiện loại 1); có thể mắc lỗi nhỏ"
+            - 'cell "Kết hợp câu đơn + câu phức: mệnh đề quan hệ, điều kiện loại 2, thì hoàn thành"'
+            - 'cell "Cấu trúc đa dạng và chính xác: hoàn thành, điều kiện, câu bị động, đảo ngữ; lỗi hiếm gặp"'
+          - row "Từ vựng Từ quen thuộc, còn lặp lại Vốn từ rộng hơn, biết dùng collocations Từ vựng tinh tế, tự nhiên, dùng đúng idioms/phrasal verbs theo ngữ cảnh":
+            - cell "Từ vựng":
+              - strong: Từ vựng
+            - cell "Từ quen thuộc, còn lặp lại"
+            - cell "Vốn từ rộng hơn, biết dùng collocations"
+            - cell "Từ vựng tinh tế, tự nhiên, dùng đúng idioms/phrasal verbs theo ngữ cảnh"
+          - row "Phát âm Dễ hiểu Rõ ràng, hiệu quả Rõ, tự nhiên; biết dùng trọng âm/ngữ điệu để thể hiện ý":
+            - cell "Phát âm":
+              - strong: Phát âm
+            - cell "Dễ hiểu"
+            - cell "Rõ ràng, hiệu quả"
+            - cell "Rõ, tự nhiên; biết dùng trọng âm/ngữ điệu để thể hiện ý"
+          - row "Trôi chảy – mạch lạc Có ngập ngừng; nối ý bằng and/but/because Nói liền mạch và trôi chảy, liên kết bằng however/although/whereas Nói tự nhiên như hội thoại, gần như không ngập ngừng; dùng liên từ nâng cao (nonetheless, consequently, moreover)":
+            - cell "Trôi chảy – mạch lạc":
+              - strong: Trôi chảy – mạch lạc
+            - cell "Có ngập ngừng; nối ý bằng and/but/because"
+            - cell "Nói liền mạch và trôi chảy, liên kết bằng however/although/whereas"
+            - cell "Nói tự nhiên như hội thoại, gần như không ngập ngừng; dùng liên từ nâng cao (nonetheless, consequently, moreover)"
+    - paragraph:
+      - strong: "Nguyên tắc chung:"
+    - paragraph: "• B1 → B2: Nói đúng → Nói đủ → Giải thích → Phát triển"
+    - paragraph: "• B2 → C1: Nói đủ → Nói sâu → Linh hoạt → Chính xác → Tự nhiên"
+    - paragraph
+    - heading "2. Cách phát triển câu trả lời" [level=2]:
+      - strong: 2. Cách phát triển câu trả lời
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Band Công thức gợi ý Ví dụ":
+            - columnheader "Band":
+              - strong: Band
+            - columnheader "Công thức gợi ý":
+              - strong: Công thức gợi ý
+            - columnheader "Ví dụ":
+              - strong: Ví dụ
+        - rowgroup:
+          - row "B1 Answer + Reason I like exercising because it helps me stay healthy and reduce stress.":
+            - cell "B1":
+              - strong: B1
+            - cell "Answer + Reason":
+              - strong: Answer + Reason
+            - cell "I like exercising because it helps me stay healthy and reduce stress.":
+              - paragraph: I like exercising because it helps me stay healthy and reduce stress.
+              - paragraph
+          - row "B2 Answer + Reason + Example I’m really into exercising, particularly going to the gym, as it allows me to maintain a healthy lifestyle while relieving stress. For instance, I usually work out after work, which gives me a chance to clear my mind and recharge my batteries.":
+            - cell "B2":
+              - strong: B2
+            - cell "Answer + Reason + Example":
+              - strong: Answer + Reason + Example
+            - cell "I’m really into exercising, particularly going to the gym, as it allows me to maintain a healthy lifestyle while relieving stress. For instance, I usually work out after work, which gives me a chance to clear my mind and recharge my batteries."
+          - row "C1 Opinion + Reason + Development + Result/Contrast From my perspective, regular exercise is essential for maintaining a healthy lifestyle because it not only improves physical health but also helps people cope with stress. As a result, people who exercise regularly are more likely to feel positive and stay productive in their daily lives, while those who do little exercise may experience higher levels of stress and tiredness.":
+            - cell "C1":
+              - strong: C1
+            - cell "Opinion + Reason + Development + Result/Contrast":
+              - paragraph:
+                - strong: Opinion + Reason + Development + Result/Contrast
+              - paragraph
+            - cell "From my perspective, regular exercise is essential for maintaining a healthy lifestyle because it not only improves physical health but also helps people cope with stress. As a result, people who exercise regularly are more likely to feel positive and stay productive in their daily lives, while those who do little exercise may experience higher levels of stress and tiredness.":
+              - paragraph: From my perspective, regular exercise is essential for maintaining a healthy lifestyle because it not only improves physical health but also helps people cope with stress. As a result, people who exercise regularly are more likely to feel positive and stay productive in their daily lives, while those who do little exercise may experience higher levels of stress and tiredness.
+              - paragraph
+    - paragraph
+    - heading "3. Liên từ & từ nối thường dùng" [level=2]:
+      - strong: 3. Liên từ & từ nối thường dùng
+    - paragraph
+    - heading "Nêu quan điểm" [level=3]:
+      - strong: Nêu quan điểm
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Cụm từ Nghĩa":
+            - columnheader "Cụm từ":
+              - strong: Cụm từ
+            - columnheader "Nghĩa":
+              - strong: Nghĩa
+        - rowgroup:
+          - row "From my perspective… Theo quan điểm của tôi…":
+            - cell "From my perspective…":
+              - strong: From my perspective…
+            - cell "Theo quan điểm của tôi…"
+          - row "I would argue that… Tôi cho rằng…":
+            - cell "I would argue that…":
+              - strong: I would argue that…
+            - cell "Tôi cho rằng…"
+          - row "I tend to believe that… Tôi có xu hướng tin rằng…":
+            - cell "I tend to believe that…":
+              - strong: I tend to believe that…
+            - cell "Tôi có xu hướng tin rằng…"
+          - row "There is no doubt that… Không nghi ngờ gì rằng…":
+            - cell "There is no doubt that…":
+              - strong: There is no doubt that…
+            - cell "Không nghi ngờ gì rằng…"
+          - row "One important point to consider is… Một điểm quan trọng cần xem xét là…":
+            - cell "One important point to consider is…":
+              - strong: One important point to consider is…
+            - cell "Một điểm quan trọng cần xem xét là…"
+          - row "One of the main reasons is that… Một trong những lý do chính là…":
+            - cell "One of the main reasons is that…":
+              - strong: One of the main reasons is that…
+            - cell "Một trong những lý do chính là…"
+          - row "Another factor worth considering is… Một yếu tố khác đáng cân nhắc là…":
+            - cell "Another factor worth considering is…":
+              - strong: Another factor worth considering is…
+            - cell "Một yếu tố khác đáng cân nhắc là…"
+          - row "What concerns me most is… Điều khiến tôi băn khoăn nhất là…":
+            - cell "What concerns me most is…":
+              - strong: What concerns me most is…
+            - cell "Điều khiến tôi băn khoăn nhất là…"
+    - heading "Nguyên nhân – kết quả" [level=3]:
+      - strong: Nguyên nhân – kết quả
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Cụm từ Nghĩa":
+            - columnheader "Cụm từ":
+              - strong: Cụm từ
+            - columnheader "Nghĩa":
+              - strong: Nghĩa
+        - rowgroup:
+          - row "contribute to… góp phần vào…":
+            - cell "contribute to…":
+              - strong: contribute to…
+            - cell "góp phần vào…"
+          - row "lead to… dẫn đến…":
+            - cell "lead to…":
+              - strong: lead to…
+            - cell "dẫn đến…"
+          - row "result in… dẫn tới, gây ra…":
+            - cell "result in…":
+              - strong: result in…
+            - cell "dẫn tới, gây ra…"
+          - row "have a positive/negative impact on… có tác động tích cực/tiêu cực đến…":
+            - cell "have a positive/negative impact on…":
+              - strong: have a positive/negative impact on…
+            - cell "có tác động tích cực/tiêu cực đến…"
+          - row "play an important role in… đóng vai trò quan trọng trong…":
+            - cell "play an important role in…":
+              - strong: play an important role in…
+            - cell "đóng vai trò quan trọng trong…"
+          - row "help/enable/allow people to… giúp/cho phép người ta…":
+            - cell "help/enable/allow people to…":
+              - strong: help/enable/allow people to…
+            - cell "giúp/cho phép người ta…"
+          - row "in the long run… về lâu dài…":
+            - cell "in the long run…":
+              - strong: in the long run…
+            - cell "về lâu dài…"
+    - heading "So sánh – đối lập" [level=3]:
+      - strong: So sánh – đối lập
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Cụm từ Nghĩa":
+            - columnheader "Cụm từ":
+              - strong: Cụm từ
+            - columnheader "Nghĩa":
+              - strong: Nghĩa
+        - rowgroup:
+          - row "while… trong khi…":
+            - cell "while…":
+              - strong: while…
+            - cell "trong khi…"
+          - row "whereas… trong khi (đối lập)…":
+            - cell "whereas…":
+              - strong: whereas…
+            - cell "trong khi (đối lập)…"
+          - row "although… mặc dù…":
+            - cell "although…":
+              - strong: although…
+            - cell "mặc dù…"
+          - row "even though… mặc dù, cho dù…":
+            - cell "even though…":
+              - strong: even though…
+            - cell "mặc dù, cho dù…"
+          - row "on the one hand…, on the other hand… một mặt…, mặt khác…":
+            - cell "on the one hand…, on the other hand…":
+              - strong: on the one hand…, on the other hand…
+            - cell "một mặt…, mặt khác…"
+          - row "however… tuy nhiên…":
+            - cell "however…":
+              - strong: however…
+            - cell "tuy nhiên…"
+          - row "in contrast… ngược lại…":
+            - cell "in contrast…":
+              - strong: in contrast…
+            - cell "ngược lại…"
+          - row "compared with… so với…":
+            - cell "compared with…":
+              - strong: compared with…
+            - cell "so với…"
+          - row "unlike… không giống như…":
+            - cell "unlike…":
+              - strong: unlike…
+            - cell "không giống như…"
+          - row "that said… dù vậy, tuy nói vậy nhưng…":
+            - cell "that said…":
+              - strong: that said…
+            - cell "dù vậy, tuy nói vậy nhưng…"
+    - heading [level=2]
+    - heading "4. Cấu trúc ngữ pháp nên thuộc để nâng band" [level=2]:
+      - strong: 4. Cấu trúc ngữ pháp nên thuộc để nâng band
+    - paragraph
+    - paragraph:
+      - strong: 1. It allows me to + V
+      - text: (điều đó cho phép tôi…)
+    - paragraph: It allows me to learn new things and gain useful knowledge.
+    - paragraph: Nó cho phép tôi học những điều mới và có thêm kiến thức hữu ích.
+    - paragraph:
+      - strong: 2. Not only… but also…
+      - text: (không những… mà còn…)
+    - paragraph: Exercise not only improves physical health but also reduces stress.
+    - paragraph: Tập thể dục không những cải thiện sức khỏe thể chất mà còn giảm căng thẳng.
+    - paragraph:
+      - strong: 3. If…, … would…
+      - text: "(câu điều kiện: nếu… thì… sẽ…)"
+    - paragraph: If more people used public transport, cities would have less traffic congestion.
+    - paragraph: Nếu nhiều người sử dụng phương tiện công cộng hơn, các thành phố sẽ bớt tắc nghẽn giao thông.
+    - paragraph:
+      - strong: 4. …, which…
+      - text: "(mệnh đề quan hệ bổ sung: …, điều mà…)"
+    - paragraph: Online learning gives students greater flexibility, which allows them to study at their own pace.
+    - paragraph: Học trực tuyến mang lại sự linh hoạt hơn cho học sinh, điều này cho phép các em học theo tốc độ riêng.
+    - paragraph:
+      - strong: 5. While it is true that…, I would argue that…
+      - text: (đúng là… nhưng tôi cho rằng…)
+    - paragraph: While it is true that city life is convenient, I would argue that the countryside offers a healthier environment.
+    - paragraph: Đúng là cuộc sống thành phố tiện lợi, nhưng tôi cho rằng vùng nông thôn mang lại môi trường sống lành mạnh hơn.
+    - paragraph:
+      - strong: 6. One reason is that… Another reason is that…
+      - text: (một lý do là… một lý do khác là…)
+    - paragraph: One reason is that it is convenient. Another reason is that it is affordable.
+    - paragraph: Một lý do là nó tiện lợi. Một lý do khác là nó có giá cả phải chăng.
+    - paragraph:
+      - strong: 7. The reason why… is that…
+      - text: (lý do vì sao… là vì…)
+    - paragraph: The reason why I like football is that it helps me stay fit.
+    - paragraph: Lý do tôi thích bóng đá là vì nó giúp tôi giữ dáng.
+    - paragraph:
+      - strong: 8. By + V-ing
+      - text: (bằng cách…)
+    - paragraph: I improve my English by watching videos.
+    - paragraph: Tôi cải thiện tiếng Anh bằng cách xem video.
+    - paragraph
+    - heading "5. TỪ VỰNG NÂNG CAO (BAND B2/C1)" [level=2]:
+      - strong: 5. TỪ VỰNG NÂNG CAO (BAND B2/C1)
+    - paragraph: Từ vựng đa dạng hơn, dùng collocations và diễn đạt tinh tế hơn.
+    - paragraph
+    - heading "Cảm xúc / Tinh thần" [level=3]:
+      - strong: Cảm xúc / Tinh thần
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Cụm từ Nghĩa":
+            - columnheader "Cụm từ":
+              - strong: Cụm từ
+            - columnheader "Nghĩa":
+              - strong: Nghĩa
+        - rowgroup:
+          - row "unwind / relieve stress thư giãn / giải tỏa căng thẳng":
+            - cell "unwind / relieve stress":
+              - strong: unwind / relieve stress
+            - cell "thư giãn / giải tỏa căng thẳng"
+          - row "lower stress levels giảm mức độ căng thẳng":
+            - cell "lower stress levels":
+              - strong: lower stress levels
+            - cell "giảm mức độ căng thẳng"
+          - row "feel re-energized cảm thấy tràn đầy năng lượng":
+            - cell "feel re-energized":
+              - strong: feel re-energized
+            - cell "cảm thấy tràn đầy năng lượng"
+          - row "lift my spirits nâng cao tinh thần":
+            - cell "lift my spirits":
+              - strong: lift my spirits
+            - cell "nâng cao tinh thần"
+          - row "clear my mind làm đầu óc thoải mái":
+            - cell "clear my mind":
+              - strong: clear my mind
+            - cell "làm đầu óc thoải mái"
+          - row "cope with pressure đối phó với áp lực":
+            - cell "cope with pressure":
+              - strong: cope with pressure
+            - cell "đối phó với áp lực"
+          - row "improve mental well-being cải thiện sức khỏe tinh thần":
+            - cell "improve mental well-being":
+              - strong: improve mental well-being
+            - cell "cải thiện sức khỏe tinh thần"
+          - row "maintain a positive mindset duy trì tư duy tích cực":
+            - cell "maintain a positive mindset":
+              - strong: maintain a positive mindset
+            - cell "duy trì tư duy tích cực"
+          - row "boost self-confidence tăng sự tự tin":
+            - cell "boost self-confidence":
+              - strong: boost self-confidence
+            - cell "tăng sự tự tin"
+          - row "achieve a better work-life balance cân bằng tốt hơn công việc – cuộc sống":
+            - cell "achieve a better work-life balance":
+              - strong: achieve a better work-life balance
+            - cell "cân bằng tốt hơn công việc – cuộc sống"
+          - row "have a sense of purpose có mục đích sống":
+            - cell "have a sense of purpose":
+              - strong: have a sense of purpose
+            - cell "có mục đích sống"
+          - row "(bất lợi) feel exhausted kiệt sức":
+            - cell "(bất lợi) feel exhausted":
+              - strong: (bất lợi) feel exhausted
+            - cell "kiệt sức"
+          - row "(bất lợi) lose concentration giảm khả năng tập trung":
+            - cell "(bất lợi) lose concentration":
+              - strong: (bất lợi) lose concentration
+            - cell "giảm khả năng tập trung"
+          - row "(bất lợi) harm physical and mental health gây hại cho sức khỏe thể chất và tinh thần":
+            - cell "(bất lợi) harm physical and mental health":
+              - strong: (bất lợi) harm physical and mental health
+            - cell "gây hại cho sức khỏe thể chất và tinh thần"
+    - heading "Kiến thức & giáo dục" [level=3]:
+      - strong: Kiến thức & giáo dục
+    - paragraph
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Cụm từ Nghĩa":
+            - columnheader "Cụm từ":
+              - strong: Cụm từ
+            - columnheader "Nghĩa":
+              - strong: Nghĩa
+        - rowgroup:
+          - row "broaden my understanding/horizons mở rộng hiểu biết/kiến thức":
+            - cell "broaden my understanding/horizons":
+              - strong: broaden my understanding/horizons
+            - cell "mở rộng hiểu biết/kiến thức"
+          - row "gain useful/practical knowledge có thêm kiến thức hữu ích/thực tế":
+            - cell "gain useful/practical knowledge":
+              - strong: gain useful/practical knowledge
+            - cell "có thêm kiến thức hữu ích/thực tế"
+          - row "expand my knowledge base mở rộng nền tảng kiến thức":
+            - cell "expand my knowledge base":
+              - strong: expand my knowledge base
+            - cell "mở rộng nền tảng kiến thức"
+          - row "develop soft/critical thinking skills phát triển kỹ năng mềm/tư duy phản biện":
+            - cell "develop soft/critical thinking skills":
+              - strong: develop soft/critical thinking skills
+            - cell "phát triển kỹ năng mềm/tư duy phản biện"
+          - row "be exposed to new ideas tiếp cận ý tưởng mới":
+            - cell "be exposed to new ideas":
+              - strong: be exposed to new ideas
+            - cell "tiếp cận ý tưởng mới"
+          - row "enhance critical thinking nâng cao tư duy phản biện":
+            - cell "enhance critical thinking":
+              - strong: enhance critical thinking
+            - cell "nâng cao tư duy phản biện"
+          - row "acquire new skills tiếp thu kỹ năng mới":
+            - cell "acquire new skills":
+              - strong: acquire new skills
+            - cell "tiếp thu kỹ năng mới"
+          - row "lifelong learning học tập suốt đời":
+            - cell "lifelong learning":
+              - strong: lifelong learning
+            - cell "học tập suốt đời"
+          - row "apply knowledge in real life áp dụng kiến thức vào thực tế":
+            - cell "apply knowledge in real life":
+              - strong: apply knowledge in real life
+            - cell "áp dụng kiến thức vào thực tế"
+          - row "keep up with new developments cập nhật những phát triển mới":
+            - cell "keep up with new developments":
+              - strong: keep up with new developments
+            - cell "cập nhật những phát triển mới"
+          - row "expand one's horizons mở rộng tầm nhìn":
+            - cell "expand one's horizons":
+              - strong: expand one's horizons
+            - cell "mở rộng tầm nhìn"
+          - row "(bất lợi) waste valuable time lãng phí thời gian quý báu":
+            - cell "(bất lợi) waste valuable time":
+              - strong: (bất lợi) waste valuable time
+            - cell "lãng phí thời gian quý báu"
+          - row "(bất lợi) become overly dependent on it phụ thuộc quá mức vào nó":
+            - cell "(bất lợi) become overly dependent on it":
+              - strong: (bất lợi) become overly dependent on it
+            - cell "phụ thuộc quá mức vào nó"
+    - heading [level=3]
+    - heading "Mối quan hệ" [level=3]:
+      - strong: Mối quan hệ
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Cụm từ Nghĩa":
+            - columnheader "Cụm từ":
+              - strong: Cụm từ
+            - columnheader "Nghĩa":
+              - strong: Nghĩa
+        - rowgroup:
+          - row "expand my social network mở rộng mạng lưới xã hội":
+            - cell "expand my social network":
+              - strong: expand my social network
+            - cell "mở rộng mạng lưới xã hội"
+          - row "strengthen relationships củng cố mối quan hệ":
+            - cell "strengthen relationships":
+              - strong: strengthen relationships
+            - cell "củng cố mối quan hệ"
+          - row "interact with others tương tác với người khác":
+            - cell "interact with others":
+              - strong: interact with others
+            - cell "tương tác với người khác"
+          - row "stay in touch with others giữ liên lạc với người khác":
+            - cell "stay in touch with others":
+              - strong: stay in touch with others
+            - cell "giữ liên lạc với người khác"
+          - row "provide emotional support động viên tinh thần":
+            - cell "provide emotional support":
+              - strong: provide emotional support
+            - cell "động viên tinh thần"
+          - row "develop mutual understanding tăng cường sự thấu hiểu lẫn nhau":
+            - cell "develop mutual understanding":
+              - strong: develop mutual understanding
+            - cell "tăng cường sự thấu hiểu lẫn nhau"
+          - row "resolve conflicts giải quyết xung đột":
+            - cell "resolve conflicts":
+              - strong: resolve conflicts
+            - cell "giải quyết xung đột"
+          - row "respect different opinions tôn trọng ý kiến khác biệt":
+            - cell "respect different opinions":
+              - strong: respect different opinions
+            - cell "tôn trọng ý kiến khác biệt"
+          - row "feel a sense of belonging cảm thấy có sự gắn kết, thuộc về":
+            - cell "feel a sense of belonging":
+              - strong: feel a sense of belonging
+            - cell "cảm thấy có sự gắn kết, thuộc về"
+    - heading "Sức khỏe" [level=3]:
+      - strong: Sức khỏe
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Cụm từ Nghĩa":
+            - columnheader "Cụm từ":
+              - strong: Cụm từ
+            - columnheader "Nghĩa":
+              - strong: Nghĩa
+        - rowgroup:
+          - row "maintain a healthy lifestyle duy trì lối sống lành mạnh":
+            - cell "maintain a healthy lifestyle":
+              - strong: maintain a healthy lifestyle
+            - cell "duy trì lối sống lành mạnh"
+          - row "improve overall well-being cải thiện sức khỏe tổng thể":
+            - cell "improve overall well-being":
+              - strong: improve overall well-being
+            - cell "cải thiện sức khỏe tổng thể"
+          - row "improve sleep quality cải thiện chất lượng giấc ngủ":
+            - cell "improve sleep quality":
+              - strong: improve sleep quality
+            - cell "cải thiện chất lượng giấc ngủ"
+          - row "stay physically active duy trì vận động":
+            - cell "stay physically active":
+              - strong: stay physically active
+            - cell "duy trì vận động"
+          - row "boost the immune system tăng cường hệ miễn dịch":
+            - cell "boost the immune system":
+              - strong: boost the immune system
+            - cell "tăng cường hệ miễn dịch"
+          - row "reduce the risk of… giảm nguy cơ…":
+            - cell "reduce the risk of…":
+              - strong: reduce the risk of…
+            - cell "giảm nguy cơ…"
+          - row "develop healthy habits hình thành thói quen lành mạnh":
+            - cell "develop healthy habits":
+              - strong: develop healthy habits
+            - cell "hình thành thói quen lành mạnh"
+          - row "have a long-term impact on health có tác động lâu dài đến sức khỏe":
+            - cell "have a long-term impact on health":
+              - strong: have a long-term impact on health
+            - cell "có tác động lâu dài đến sức khỏe"
+    - heading "Kinh tế" [level=3]:
+      - strong: Kinh tế
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Cụm từ Nghĩa":
+            - columnheader "Cụm từ":
+              - strong: Cụm từ
+            - columnheader "Nghĩa":
+              - strong: Nghĩa
+        - rowgroup:
+          - row "create job opportunities tạo cơ hội việc làm":
+            - cell "create job opportunities":
+              - strong: create job opportunities
+            - cell "tạo cơ hội việc làm"
+          - row "improve living standards nâng cao mức sống":
+            - cell "improve living standards":
+              - strong: improve living standards
+            - cell "nâng cao mức sống"
+          - row "increase household income tăng thu nhập hộ gia đình":
+            - cell "increase household income":
+              - strong: increase household income
+            - cell "tăng thu nhập hộ gia đình"
+          - row "reduce financial pressure giảm áp lực tài chính":
+            - cell "reduce financial pressure":
+              - strong: reduce financial pressure
+            - cell "giảm áp lực tài chính"
+          - row "earn a stable income có thu nhập ổn định":
+            - cell "earn a stable income":
+              - strong: earn a stable income
+            - cell "có thu nhập ổn định"
+          - row "cover living expenses trang trải chi phí sinh hoạt":
+            - cell "cover living expenses":
+              - strong: cover living expenses
+            - cell "trang trải chi phí sinh hoạt"
+          - row "contribute to economic growth góp phần vào tăng trưởng kinh tế":
+            - cell "contribute to economic growth":
+              - strong: contribute to economic growth
+            - cell "góp phần vào tăng trưởng kinh tế"
+          - row "achieve financial independence đạt được sự độc lập tài chính":
+            - cell "achieve financial independence":
+              - strong: achieve financial independence
+            - cell "đạt được sự độc lập tài chính"
+          - row "(bất lợi) the cost of living (rises) chi phí sinh hoạt (tăng cao)":
+            - cell "(bất lợi) the cost of living (rises)":
+              - strong: (bất lợi) the cost of living (rises)
+            - cell "chi phí sinh hoạt (tăng cao)"
+          - row "(bất lợi) have a negative impact on the economy có tác động tiêu cực đến nền kinh tế":
+            - cell "(bất lợi) have a negative impact on the economy":
+              - strong: (bất lợi) have a negative impact on the economy
+            - cell "có tác động tiêu cực đến nền kinh tế"
+    - heading "Văn hóa" [level=3]:
+      - strong: Văn hóa
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Cụm từ Nghĩa":
+            - columnheader "Cụm từ":
+              - strong: Cụm từ
+            - columnheader "Nghĩa":
+              - strong: Nghĩa
+        - rowgroup:
+          - row "preserve cultural heritage gìn giữ di sản văn hóa":
+            - cell "preserve cultural heritage":
+              - strong: preserve cultural heritage
+            - cell "gìn giữ di sản văn hóa"
+          - row "traditional values/customs giá trị/phong tục truyền thống":
+            - cell "traditional values/customs":
+              - strong: traditional values/customs
+            - cell "giá trị/phong tục truyền thống"
+          - row "cultural diversity/identity sự đa dạng/bản sắc văn hóa":
+            - cell "cultural diversity/identity":
+              - strong: cultural diversity/identity
+            - cell "sự đa dạng/bản sắc văn hóa"
+          - row "pass traditions down to younger generations truyền lại truyền thống cho thế hệ trẻ":
+            - cell "pass traditions down to younger generations":
+              - strong: pass traditions down to younger generations
+            - cell "truyền lại truyền thống cho thế hệ trẻ"
+          - row "promote cultural understanding thúc đẩy sự hiểu biết văn hóa":
+            - cell "promote cultural understanding":
+              - strong: promote cultural understanding
+            - cell "thúc đẩy sự hiểu biết văn hóa"
+          - row "appreciate different cultures trân trọng các nền văn hóa khác nhau":
+            - cell "appreciate different cultures":
+              - strong: appreciate different cultures
+            - cell "trân trọng các nền văn hóa khác nhau"
+          - row "cultural exchange giao lưu văn hóa":
+            - cell "cultural exchange":
+              - strong: cultural exchange
+            - cell "giao lưu văn hóa"
+          - row "adapt to cultural differences thích nghi với sự khác biệt văn hóa":
+            - cell "adapt to cultural differences":
+              - strong: adapt to cultural differences
+            - cell "thích nghi với sự khác biệt văn hóa"
+    - paragraph
+    - heading "6. Ghi nhớ" [level=2]:
+      - strong: 6. Ghi nhớ
+    - paragraph: Không cần cố dùng từ thật khó.
+    - paragraph: Hãy ưu tiên từ vựng đúng ngữ cảnh + collocations tự nhiên + cấu trúc đa dạng + phát triển ý rõ ràng - đó là con đường ngắn nhất để lên band B2/C1 trong Aptis Speaking.
+    - heading [level=2]

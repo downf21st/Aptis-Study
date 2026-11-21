@@ -1,0 +1,79 @@
+:root {
+  --ui-ink: #292734;
+  --ui-muted: #625f6e;
+  --ui-border: #dcd9e2;
+  --ui-accent: #6552b3;
+  --ui-focus: #5140a7;
+  --ui-surface: #f8f7fa;
+  --ui-radius: 12px;
+}
+body { color: var(--ui-ink); line-height: 1.5; }
+button, input, select, textarea { font: inherit; }
+button, select, summary { touch-action: manipulation; }
+button:focus-visible, a:focus-visible, select:focus-visible, input:focus-visible, textarea:focus-visible, summary:focus-visible, audio:focus-visible, video:focus-visible {
+  outline: 3px solid var(--ui-focus);
+  outline-offset: 3px;
+}
+.app, .main, .content-main, .exercise-section, .exercise-card, .question-group, .guide-content { min-width: 0; }
+.eyebrow, .side-label, .section-note, .skill-top, .skill-bottom, .intro, .listening-header > p:last-child, .right-panel > p, .guide p, .profile small, .side-bottom small, .guide-source, .exercise-top, .word-count, .save-state { color: var(--ui-muted); }
+.nav-item { color: var(--ui-muted); min-height: 44px; }
+.nav-item.active, .nav-item[aria-current="page"] { color: #35265f; background: #f1eef9; }
+.skill p, .empty p, .welcome-copy p { color: #5f5b69; }
+.nav-item, .skill p, .intro, .listening-header > p:last-child, .source-note, .message { font-size: 14px; }
+.skill h3 { font-size: 15px; }
+.skill-bottom, .part-button span, .exercise-top, .jump-label, .guide-source { font-size: 12px; }
+.stem, .question-group legend, .choice, .writing-prompt label, .guide-content, .order-text { font-size: 15px; }
+.nav-item, a.skill, .primary, .part-button, .exercise-actions button, .choice, .order-controls button, .order-handle, select, textarea, summary {
+  transition: background-color 160ms ease, border-color 160ms ease, color 160ms ease, box-shadow 160ms ease;
+}
+@media (hover: hover) {
+  a.skill:hover { box-shadow: 0 5px 16px #30264b24; }
+  .part-button:hover, .choice:hover { box-shadow: inset 0 0 0 1px #8d7ac6; }
+  .exercise-actions button:not(:disabled):hover, .order-controls button:not(:disabled):hover, .order-handle:hover { border-color: #8171be; background: #f2effa; }
+  .exercise-actions .check:not(:disabled):hover { background: #50436f; color: #fff; }
+  summary:hover, .back-home:hover { color: #5140a7; }
+}
+button:not(:disabled):active, a.skill:active { filter: brightness(.94); }
+button:disabled, select:disabled { cursor: not-allowed; }
+.part-button[aria-pressed="true"] { border-color: #6552b3; box-shadow: inset 0 0 0 1px #6552b3; }
+.exercise-card, .empty { border-color: var(--ui-border); border-radius: var(--ui-radius); }
+.exercise-card h3, .exercise-card h4, .stem, .question-group legend, .choice, .order-text, .speaking-question, .speaking-questions, .writing-prompt label, .guide-content { overflow-wrap: anywhere; }
+.question-group { min-inline-size: 0; }
+.choice { min-height: 44px; align-items: center; border-color: #dcd9e2; }
+.choice input { flex: 0 0 auto; width: 18px; height: 18px; margin: 0; }
+.choice span:not(.answer-icon) { min-width: 0; }
+.choice:focus-within { outline: 2px solid var(--ui-focus); outline-offset: 2px; }
+select, textarea { max-width: 100%; border-color: #a9a5b1; color: var(--ui-ink); }
+.jump-label { min-width: 0; }
+.jump-label select { min-width: 0; }
+.audio-row, .guide-media { min-width: 0; }
+audio, video, img { max-width: 100%; }
+.audio-row audio { min-width: 0; }
+.guide-content table { max-width: 100%; }
+.message { color: #413d49; border: 1px solid #e5e2e9; }
+.audio-error, .media-status { color: #8f2929; }
+.save-state { font-weight: 600; }
+.answer-badge.correct, .order-status.correct { color: #155c34; }
+.answer-badge.incorrect, .order-status.incorrect { color: #922424; }
+@media (max-width: 1050px) and (min-width: 721px) {
+  .app { grid-template-columns: 190px minmax(0, 1fr); }
+  .sidebar { padding-inline: 18px; }
+  .main { padding-inline: 4%; }
+  .parts { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 720px) {
+  .nav { overscroll-behavior-inline: contain; }
+  .nav-item { min-height: 44px; }
+  .parts, .skills { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .jump-label select { flex: 1; width: 0; max-width: none; }
+  .exercise-card { padding: 16px; }
+  .audio-row audio { width: 100%; }
+  .order-item { min-width: 0; }
+  .order-text { min-width: 0; overflow-wrap: anywhere; }
+  .exercise-actions button { flex-shrink: 0; }
+}
+@media (max-width: 350px) { .skills { grid-template-columns: 1fr; } }
+@media (prefers-reduced-motion: reduce) {
+  html, :root { scroll-behavior: auto; }
+  *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; }
+}

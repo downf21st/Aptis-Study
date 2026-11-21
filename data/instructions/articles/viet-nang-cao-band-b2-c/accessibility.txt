@@ -1,0 +1,498 @@
+  - main:
+    - navigation "Breadcrumb":
+      - link "Hướng dẫn":
+        - /url: https://milaedu.com/instructions
+      - text: / Viết nâng cao Band B2 - C
+    - heading "Viết nâng cao Band B2 - C" [level=1]
+    - paragraph: Cập nhật lúc 09:33 - 19/11/2026
+    - paragraph:
+      - strong: PART 2 TEMPLATE
+    - paragraph:
+      - strong: "Youtube : Writing"
+    - paragraph:
+      - link "https://www.youtube.com/watch?v=xaeITLyr-ss&list=PLscag0E_vC-DHE9B8GPE-al_FmTbvpVcm&index=2":
+        - /url: https://www.youtube.com/watch?v=xaeITLyr-ss&list=PLscag0E_vC-DHE9B8GPE-al_FmTbvpVcm&index=2
+        - strong: https://www.youtube.com/watch?v=xaeITLyr-ss&list=PLscag0E_vC-DHE9B8GPE-al_FmTbvpVcm&index=2
+    - paragraph
+    - paragraph:
+      - strong: Writing
+    - paragraph:
+      - strong: PART 2 TEMPLATE
+    - paragraph
+    - list:
+      - listitem:
+        - strong: I’m really into
+        - text: + noun/V-ing, so I decided to join this club to connect with people who share the same interests as me.
+      - listitem:
+        - strong: I’m passionate about/I’m keen on
+        - text: + topic, because it helps me + benefit.
+        - strong: Moreover
+        - text: ", I can + extension idea."
+    - paragraph: "Example:"
+    - list:
+      - listitem:
+        - strong: "Sports:"
+        - text: I’m really into playing badminton, so I decided to join this club to connect with people who share the same interests as me.
+      - listitem:
+        - strong: "Books: I’m passionate about"
+        - text: reading books because it helps me expand my knowledge and improve my concentration skills.
+      - listitem:
+        - strong: "Garden:"
+        - strong: I’m keen on
+        - text: gardening, so I want to meet people who enjoy planting trees and sharing gardening experiences.
+      - listitem
+    - paragraph:
+      - strong: PART 3 TEMPLATE
+    - paragraph:
+      - strong: "TEMPLATE 1: Opinion"
+    - list:
+      - listitem: In my opinion, + opinion.
+      - listitem: Moreover, + reason.
+      - listitem: As a result, + positive/negative effect.
+    - paragraph: "Example: In my opinion, technology has made communication much easier. Moreover, people can connect with others around the world instantly. As a result, building relationships has become more convenient than before."
+    - paragraph:
+      - strong: "TEMPLATE 2: Experience"
+    - list:
+      - listitem: I usually/often + activity.
+      - listitem: Additionally/Sometimes, + second activity.
+      - listitem: Overall, + benefit/feeling.
+    - paragraph: "Example: I usually read books before going to sleep. Additionally, I sometimes visit libraries at weekends to find new novels. Overall, reading helps me relax and expand my knowledge."
+    - paragraph:
+      - strong: "TEMPLATE 3: Advice"
+    - list:
+      - listitem: I think + suggestion.
+      - listitem: It will help somebody + benefit.
+      - listitem: Moreover, + second benefit.
+    - paragraph: "Example: I think taking a course would be a great idea. It will help you improve your skills more effectively. Moreover, you can receive guidance from experienced teachers."
+    - paragraph:
+      - strong: PART 4
+    - paragraph:
+      - strong: "- INFORMAL EMAIL TEMPLATE"
+    - paragraph: Hi Tony,
+    - paragraph: I’ve just read the club’s latest email, and I feel really excited/disappointed about the situation. Personally, I think that + opinion/suggestion. It would be a great opportunity/problem for members. What do you think about it?
+    - paragraph: Best,
+    - paragraph: Mary
+    - paragraph:
+      - text: "-"
+      - strong: FORMAL EMAIL TEMPLATE
+    - paragraph: Dear Sir/Madam,
+    - paragraph: I am writing in response to your email regarding + topic. I was very excited/disappointed to hear this news because + reason.
+    - paragraph: In my opinion, + main opinion/problem. Moreover, + explanation/example. I believe that this issue may affect members in several ways.
+    - paragraph: To resolve this issue, I would recommend that the club should + suggestion. This would help members + benefit. In addition, + second benefit/result.
+    - paragraph: I strongly believe that these changes would improve the overall experience for members and make the club more appealing.
+    - paragraph: I look forward to hearing your response.
+    - paragraph: Yours sincerely,
+    - paragraph: Mary
+    - paragraph:
+      - strong: "TEMPLATE: Suggesting a Place"
+    - list:
+      - listitem: In terms of location, I would suggest + place because + reason.
+      - listitem: It is + adjective + and + adjective.
+      - listitem: Moreover, + additional benefit.
+    - paragraph: "Example: In terms of location, I would suggest organizing the event at a coffee shop in the city centre because it is convenient and easily accessible. Moreover, the atmosphere is comfortable and suitable for members of different ages."
+    - paragraph: "Convenient: easily accessible, located in the city centre, convenient for members"
+    - paragraph: "Comfortable: relaxing atmosphere, comfortable environment"
+    - paragraph: "Suitable: suitable for all age groups, ideal venue"
+    - paragraph: "Transportation: easy to travel to, close to public transport"
+    - paragraph:
+      - strong: "TEMPLATE: Suggesting a Guest Speaker/Celebrity"
+    - list:
+      - listitem: I would recommend inviting + person/job title because + reason.
+      - listitem: Not only is he/she + quality, but he/she also + second quality.
+      - listitem: I believe that his/her appearance would + result.
+    - paragraph: "Example: I would recommend inviting a well-known entrepreneur because not only is he highly experienced, but he is also an inspiring public speaker. I believe that his appearance would attract more participants and motivate young people."
+    - paragraph: "Influencer: has a strong influence on young people"
+    - paragraph: "Chef: has extensive cooking experience"
+    - paragraph: "Artist: is well known for creativity"
+    - paragraph: "Businessperson: has practical business knowledge"
+    - paragraph: "Athlete: inspires people to live healthily"
+    - paragraph:
+      - strong: "TEMPLATE: Giving Advice/Suggestions"
+    - list:
+      - listitem: To address this issue, I would recommend that + subject + should + verb.
+      - listitem: This would help + somebody + benefit.
+      - listitem: Moreover, + second benefit.
+    - paragraph: "Example: To address this issue, I would recommend that the club should organize more outdoor activities. This would help members relax and connect with one another more easily. Moreover, it could attract more young participants."
+    - list:
+      - listitem: In my opinion, the best solution would be to + verb.
+      - listitem: By doing this, + positive result.
+    - paragraph: "Example: In my opinion, the best solution would be to create official accounts for all members. By doing this, the club could reduce negative comments and improve communication between members."
+    - list:
+      - listitem: I think it would be a good idea to + verb because + reason.
+    - paragraph: "Example: I think it would be a good idea to separate contestants into different age groups because it would make the competition fairer."
+    - paragraph
+    - paragraph:
+      - strong: "Model Answer : FOOD CLUB"
+    - paragraph:
+      - strong: "Part 1:"
+    - list:
+      - listitem:
+        - strong: How are you?
+        - text: I’m fine thanks.
+      - listitem:
+        - strong: Where are you from?
+        - text: I was born in Ho Chi Minh City.
+      - listitem:
+        - strong: What’s your favorite season?
+        - text: I really like autumn.
+      - listitem:
+        - strong: What’s your favorite animal?
+        - text: I adore dolphins.
+      - listitem:
+        - strong: How many people are in your family?
+        - text: There are four of us.
+    - paragraph:
+      - strong: "Part 2:"
+    - paragraph:
+      - strong: Please tell us why you are interested in food. Use 20-30 words.
+    - paragraph: My grandmother used to do the cooking, and I loved helping her in the kitchen. I also enjoy traveling, and I’m really into trying food from different countries.
+    - paragraph
+    - paragraph:
+      - strong: "Part 3:"
+      - text: You are in the “Food Club” chat room. Answer the questions from other members. Use 30-40 words
+    - list:
+      - listitem:
+        - strong: Hi, and welcome to the club! What types of food do you like cooking?
+      - listitem: I really enjoy trying to follow my grandmother’s recipes. She’s Nigerian and makes amazing dishes using yams and plantain. Recently I’ve also been experimenting with herbs and species and different kinds of sauces.
+      - listitem
+      - listitem:
+        - strong: What’s the best restaurant you’ve been to? What was it like?
+      - listitem
+      - listitem: I’d have to say The Black Swan, a curry house in Bradford. The decoration makes you feel as if you’re really in India, and they specialize in South Indian dishes. The Goan fish dish is to die for!
+      - listitem
+      - listitem:
+        - strong: What's the worst restaurant you’ve ever been to? What was it like?
+      - listitem: It was The Friendly Fish in Blackpool. The service was absolutely appalling. I had to wait 25 minutes for my meal. Then when it finally arrived, the chips were cold and greasy and the fish was frozen in the middle.
+    - paragraph:
+      - strong: "Part 4:"
+    - paragraph: Dear Member
+    - paragraph: We are writing to inform you that the TV chef Jay Goffery won’t be able to attend the club’s annual meeting due to an administrative error. Unfortunately he has been double-booked on the 19th May. We suggest changing the date of the meeting to the following week, so that he can join us as planned. Please let me know whether this arrangement would be satisfactory to you.
+    - paragraph: Regards
+    - paragraph: Tyrone O’Neal
+    - paragraph
+    - paragraph: Write an email to your friend. Write about your feelings and what you think the “Food Club” should do about the situation. Write 40-50 words.
+    - paragraph
+    - paragraph: Hi Dave,
+    - paragraph: I’ve just read the email from Tyrone and I’m a bit annoyed. I’m not keen on putting off the meeting, as I won’t be around on the 26th. I think they should stick to the date, or look for a different chef. What do you reckon?
+    - paragraph: Cheers,
+    - paragraph: John
+    - paragraph
+    - paragraph: Write an email to the president of the club. Write about your feelings and what you think “Food Club” should do about the situation. Write 120-150 words.
+    - paragraph
+    - paragraph: Dear Mr. O’Neal,
+    - paragraph: I am writing to express my real disappointment at hearing the news that Jay Goffery will not be able to attend our annual meeting on the 19th. I am afraid I do not find your proposed solution acceptable, and I will explain why. If the meeting is postponed to the following week I will not be able to attend, as I will already have left for my holiday.
+    - paragraph: Therefore I would like to put forward an alternative suggestion. In my opinion, you should write to Jay to ask him to cancel his other engagement and honor our original arrangement. If I remember correctly, he confirmed this date with us nearly a year ago. If he refuses, perhaps we should consider approaching another celebrity chef.
+    - paragraph: I look forward to hearing your reply.
+    - paragraph: Yours sincerely,
+    - paragraph: John Harrop
+    - paragraph
+    - paragraph: COLLOCATIONS/VOCABULARY
+    - paragraph:
+      - strong: 1. Arts & Media (art, cinema, movie, film, photography, museum, writing, television)
+    - figure:
+      - table:
+        - rowgroup:
+          - row "No. Collocations / Cụm từ Ví dụ":
+            - cell "No.":
+              - strong: No.
+            - cell "Collocations / Cụm từ":
+              - strong: Collocations / Cụm từ
+            - cell "Ví dụ":
+              - strong: Ví dụ
+          - row "1 express creativity This activity allows members to express their creativity.":
+            - cell "1"
+            - cell "express creativity"
+            - cell "This activity allows members to express their creativity."
+          - row "2 visual arts I am interested in visual arts such as painting and photography.":
+            - cell "2"
+            - cell "visual arts"
+            - cell "I am interested in visual arts such as painting and photography."
+          - row "3 Develop artistic skills It helps develop artistic skills.":
+            - cell "3"
+            - cell "Develop artistic skills"
+            - cell "It helps develop artistic skills."
+          - row "4 tell a story Films can tell meaningful stories.":
+            - cell "4"
+            - cell "tell a story"
+            - cell "Films can tell meaningful stories."
+          - row "5 thought-provoking It is a thought-provoking film.":
+            - cell "5"
+            - cell "thought-provoking"
+            - cell "It is a thought-provoking film."
+          - row "6 improve imagination This activity improves imagination.":
+            - cell "6"
+            - cell "improve imagination"
+            - cell "This activity improves imagination."
+          - row "7 gain inspiration I can gain inspiration from others.":
+            - cell "7"
+            - cell "gain inspiration"
+            - cell "I can gain inspiration from others."
+          - row "8 cultural experience Visiting museums offers a valuable cultural experience.":
+            - cell "8"
+            - cell "cultural experience"
+            - cell "Visiting museums offers a valuable cultural experience."
+    - paragraph
+    - paragraph: It is a great opportunity to express creativity and develop artistic skills.
+    - paragraph: It also allows participants to gain inspiration and improve their imagination.
+    - paragraph
+    - paragraph:
+      - strong: 2. Lifestyle & Social Life (social, community, walking, outdoor, travel, college)
+    - figure:
+      - table:
+        - rowgroup:
+          - row "No. Collocations Ví dụ":
+            - cell "No.":
+              - strong: No.
+            - cell "Collocations":
+              - strong: Collocations
+            - cell "Ví dụ":
+              - strong: Ví dụ
+          - row "1 build relationships This helps build relationships.":
+            - cell "1"
+            - cell "build relationships"
+            - cell "This helps build relationships."
+          - row "2 social interaction It encourages social interaction.":
+            - cell "2"
+            - cell "social interaction"
+            - cell "It encourages social interaction."
+          - row "3 connect with others People can connect with others.":
+            - cell "3"
+            - cell "connect with others"
+            - cell "People can connect with others."
+          - row "4 sense of community It creates a sense of community.":
+            - cell "4"
+            - cell "sense of community"
+            - cell "It creates a sense of community."
+          - row "5 take part in activities Members can take part in activities.":
+            - cell "5"
+            - cell "take part in activities"
+            - cell "Members can take part in activities."
+          - row "6 improve quality of life It improves quality of life.":
+            - cell "6"
+            - cell "improve quality of life"
+            - cell "It improves quality of life."
+          - row "7 meet new people It is a chance to meet new people.":
+            - cell "7"
+            - cell "meet new people"
+            - cell "It is a chance to meet new people."
+    - paragraph
+    - paragraph: It is a great way to connect with others and build relationships.
+    - paragraph: It also creates a sense of community and improves social interaction.
+    - paragraph:
+      - strong: 3. Health & Fitness (healthy, fitness, sports, walking)
+    - figure:
+      - table:
+        - rowgroup:
+          - row "No. Collocations Ví dụ":
+            - cell "No.":
+              - strong: No.
+            - cell "Collocations":
+              - strong: Collocations
+            - cell "Ví dụ":
+              - strong: Ví dụ
+          - row "1 improve physical health It improves physical health.":
+            - cell "1"
+            - cell "improve physical health"
+            - cell "It improves physical health."
+          - row "2 mental well-being It supports mental well-being.":
+            - cell "2"
+            - cell "mental well-being"
+            - cell "It supports mental well-being."
+          - row "3 stay fit People can stay fit.":
+            - cell "3"
+            - cell "stay fit"
+            - cell "People can stay fit."
+          - row "4 reduce stress It helps reduce stress.":
+            - cell "4"
+            - cell "reduce stress"
+            - cell "It helps reduce stress."
+          - row "5 healthy lifestyle It promotes a healthy lifestyle.":
+            - cell "5"
+            - cell "healthy lifestyle"
+            - cell "It promotes a healthy lifestyle."
+          - row "6 increase energy levels It increases energy levels.":
+            - cell "6"
+            - cell "increase energy levels"
+            - cell "It increases energy levels."
+    - paragraph
+    - paragraph: This activity helps people stay fit and improve their physical health.
+    - paragraph: It also supports mental well-being and reduces stress.
+    - paragraph
+    - paragraph:
+      - strong: 4. Food & Home Living (food, cooking, home living, beautiful homes)
+    - figure:
+      - table:
+        - rowgroup:
+          - row "No. Collocations Ví dụ":
+            - cell "No.":
+              - strong: No.
+            - cell "Collocations":
+              - strong: Collocations
+            - cell "Ví dụ":
+              - strong: Ví dụ
+          - row "1 cooking skills It improves cooking skills.":
+            - cell "1"
+            - cell "cooking skills"
+            - cell "It improves cooking skills."
+          - row "2 home environment It creates a comfortable home environment.":
+            - cell "2"
+            - cell "home environment"
+            - cell "It creates a comfortable home environment."
+          - row "3 daily life It is useful in daily life.":
+            - cell "3"
+            - cell "daily life"
+            - cell "It is useful in daily life."
+          - row "4 share recipes Members can share recipes.":
+            - cell "4"
+            - cell "share recipes"
+            - cell "Members can share recipes."
+          - row "5 practical skills It provides practical skills.":
+            - cell "5"
+            - cell "practical skills"
+            - cell "It provides practical skills."
+    - paragraph
+    - paragraph: It is a useful activity that improves practical skills in daily life.
+    - paragraph: Members can share ideas and create a better home environment.
+    - paragraph
+    - paragraph:
+      - strong: 5. Technology & Business (technology, computer, business, car)
+    - figure:
+      - table:
+        - rowgroup:
+          - row "No. Collocations Ví dụ":
+            - cell "No.":
+              - strong: No.
+            - cell "Collocations":
+              - strong: Collocations
+            - cell "Ví dụ":
+              - strong: Ví dụ
+          - row "1 keep up with trends It helps people keep up with trends.":
+            - cell "1"
+            - cell "keep up with trends"
+            - cell "It helps people keep up with trends."
+          - row "2 digital skills It develops digital skills.":
+            - cell "2"
+            - cell "digital skills"
+            - cell "It develops digital skills."
+          - row "3 modern technology Modern technology plays an important role.":
+            - cell "3"
+            - cell "modern technology"
+            - cell "Modern technology plays an important role."
+          - row "4 improve efficiency It improves efficiency.":
+            - cell "4"
+            - cell "improve efficiency"
+            - cell "It improves efficiency."
+          - row "5 practical knowledge It provides practical knowledge.":
+            - cell "5"
+            - cell "practical knowledge"
+            - cell "It provides practical knowledge."
+    - paragraph
+    - paragraph: It helps members keep up with modern technology and develop digital skills.
+    - paragraph: These skills are essential for future careers.
+    - paragraph
+    - paragraph:
+      - strong: 6. Education & Language (language, English, debate, reading, book, science)
+    - figure:
+      - table:
+        - rowgroup:
+          - row "No. Collocations Ví dụ":
+            - cell "No.":
+              - strong: No.
+            - cell "Collocations":
+              - strong: Collocations
+            - cell "Ví dụ":
+              - strong: Ví dụ
+          - row "1 communication skills It improves communication skills.":
+            - cell "1"
+            - cell "communication skills"
+            - cell "It improves communication skills."
+          - row "2 critical thinking It develops critical thinking.":
+            - cell "2"
+            - cell "critical thinking"
+            - cell "It develops critical thinking."
+          - row "3 express ideas clearly It helps express ideas clearly.":
+            - cell "3"
+            - cell "express ideas clearly"
+            - cell "It helps express ideas clearly."
+          - row "4 gain knowledge It helps gain knowledge.":
+            - cell "4"
+            - cell "gain knowledge"
+            - cell "It helps gain knowledge."
+          - row "5 broaden understanding It broadens understanding.":
+            - cell "5"
+            - cell "broaden understanding"
+            - cell "It broadens understanding."
+    - paragraph
+    - paragraph: This activity helps improve communication skills and express ideas clearly.
+    - paragraph: It also develops critical thinking and broadens understanding.
+    - paragraph
+    - paragraph:
+      - strong: 7. Nature & Environment (nature, garden)
+    - figure:
+      - table:
+        - rowgroup:
+          - row "No. Collocations Ví dụ":
+            - cell "No.":
+              - strong: No.
+            - cell "Collocations":
+              - strong: Collocations
+            - cell "Ví dụ":
+              - strong: Ví dụ
+          - row "1 natural environment It protects the natural environment.":
+            - cell "1"
+            - cell "natural environment"
+            - cell "It protects the natural environment."
+          - row "2 green spaces People enjoy green spaces.":
+            - cell "2"
+            - cell "green spaces"
+            - cell "People enjoy green spaces."
+          - row "3 fresh air It provides fresh air.":
+            - cell "3"
+            - cell "fresh air"
+            - cell "It provides fresh air."
+          - row "4 environmentally friendly It is environmentally friendly.":
+            - cell "4"
+            - cell "environmentally friendly"
+            - cell "It is environmentally friendly."
+          - row "5 raise awareness It raises environmental awareness.":
+            - cell "5"
+            - cell "raise awareness"
+            - cell "It raises environmental awareness."
+    - paragraph
+    - paragraph: It encourages people to enjoy green spaces and fresh air.
+    - paragraph: It also raises awareness of environmental issues.
+    - paragraph
+    - paragraph:
+      - strong: 8. Entertainment & Leisure
+    - paragraph:
+      - strong: (music, fashion, television, travel)
+    - figure:
+      - table:
+        - rowgroup:
+          - row "No. Collocations Ví dụ":
+            - cell "No.":
+              - strong: No.
+            - cell "Collocations":
+              - strong: Collocations
+            - cell "Ví dụ":
+              - strong: Ví dụ
+          - row "1 relax and unwind It helps people relax and unwind.":
+            - cell "1"
+            - cell "relax and unwind"
+            - cell "It helps people relax and unwind."
+          - row "2 entertainment activity It is a popular entertainment activity.":
+            - cell "2"
+            - cell "entertainment activity"
+            - cell "It is a popular entertainment activity."
+          - row "3 enjoy free time People enjoy it in their free time.":
+            - cell "3"
+            - cell "enjoy free time"
+            - cell "People enjoy it in their free time."
+          - row "4 creative expression It allows creative expression.":
+            - cell "4"
+            - cell "creative expression"
+            - cell "It allows creative expression."
+    - paragraph
+    - paragraph: It is a great way to relax and enjoy free time.
+    - paragraph: It also allows people to express themselves creatively.
+    - paragraph

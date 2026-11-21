@@ -1,0 +1,266 @@
+{
+  "source": "https://milaedu.com/practice/8",
+  "captured": "2026-11-18",
+  "status": "source-fields-and-full-response-audio-captured",
+  "expected_questions": 30,
+  "question_count": 30,
+  "source_fields_file": {
+    "path": "data/listening/practice-8/source-fields.json",
+    "sha256": "ace68221c699cd99cc8238db657f2fd69142497e1c4074c73d78a022d21ee073"
+  },
+  "media": [
+    {
+      "question_id": 236,
+      "file": "data/listening/practice-8/media/question-236.mp3",
+      "bytes": 1750464,
+      "sha256": "2f6bacc28ec6d18801f6d1cb2faa2a36b13c70f441de052af793fa92670d9731",
+      "status": "captured-full-response"
+    },
+    {
+      "question_id": 237,
+      "file": "data/listening/practice-8/media/question-237.mp3",
+      "bytes": 1517760,
+      "sha256": "e8d7d755c99ea5740a9235ccc54381872d2cfe641767b91f9ec4f015ac1ceb67",
+      "status": "captured-full-response",
+      "evidence_id": "ev_cb7769e6335936b4285568b3b9a6614cf70fe8324599ef2be150177a711eb8ff"
+    },
+    {
+      "question_id": 309,
+      "file": "data/listening/practice-8/media/question-309.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_b49f2430aa5080302f5872ac25d56c3bef7b877bd3a8081ead5f079328c22e99"
+    },
+    {
+      "question_id": 239,
+      "file": "data/listening/practice-8/media/question-239.mp3",
+      "bytes": 1397376,
+      "sha256": "87dc0a91c5e92a6380991b8f4b6f6f66fd5b2ed43b2e028310fa962b4b34e1d3",
+      "status": "captured-full-response",
+      "evidence_id": "ev_475bd07366234492a718493b69abeb0291b21f0329c5626b814644b08b21ff88"
+    },
+    {
+      "question_id": 313,
+      "file": "data/listening/practice-8/media/question-313.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_8be785dd45eec60535ec08b7007a62b01fc13dc3e627bb7c352eb6623828320f"
+    },
+    {
+      "question_id": 314,
+      "file": "data/listening/practice-8/media/question-314.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_7a9c13ecb19bc931a78c696baf2dc7ad08f79dc725e341ef5e078a49fa1bdd8b"
+    },
+    {
+      "question_id": 240,
+      "file": "data/listening/practice-8/media/question-240.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_fd74f22a7e85e8fac661cade9270b3e639b394e6f50548f453dbad49603bb830"
+    },
+    {
+      "question_id": 242,
+      "file": "data/listening/practice-8/media/question-242.mp3",
+      "bytes": 1457280,
+      "sha256": "b21749626674d03c2275e8135e4e17b0bbd4abb7d09ff46a3a8ad527ee17e550",
+      "status": "captured-full-response",
+      "evidence_id": "ev_5a4a630671d0807590b169c813dc41d8d5fef8a74433f3c6cb17efa1715e3f3e"
+    },
+    {
+      "question_id": 243,
+      "file": "data/listening/practice-8/media/question-243.mp3",
+      "bytes": 1692864,
+      "sha256": "d6e9e3e6486709d53632283a1fedddc473ac57e9c51ee1695b77d6d79f4563dd",
+      "status": "captured-full-response",
+      "evidence_id": "ev_571ceb71d6b6c718f2d082c096dc5c2b43efce79188aa351c2afc6e83e2f4580"
+    },
+    {
+      "question_id": 244,
+      "file": "data/listening/practice-8/media/question-244.mp3",
+      "bytes": 2220480,
+      "sha256": "5149da032b52d24ff7cf8b12317ad77b3a6473108d3242078dec7ddbb32f6cdb",
+      "status": "captured-full-response",
+      "evidence_id": "ev_80400add7512062bd52a5eb9e23c1958314d80c5e1d088340579b5deb00d2dba"
+    },
+    {
+      "question_id": 310,
+      "file": "data/listening/practice-8/media/question-310.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_7ca324405fe24064ca9ca321b23c525a54e72256662c417daa05f69f3931bdf7"
+    },
+    {
+      "question_id": 308,
+      "file": "data/listening/practice-8/media/question-308.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_8e70d4d6213d3cb53a9abc255e515b82daf6f74eba04895c983bacb7ebe0a048"
+    },
+    {
+      "question_id": 247,
+      "file": "data/listening/practice-8/media/question-247.mp3",
+      "bytes": 1520064,
+      "sha256": "49345aa6d95660306927a0d7302dd85b1b0a125f530322902879ab7b41d3fb1f",
+      "status": "captured-full-response",
+      "evidence_id": "ev_ea6b687cd2c001e0c0acaa5eb3e1ac49e3935ae8ee843ae443fac7a150003317"
+    },
+    {
+      "question_id": 248,
+      "file": "data/listening/practice-8/media/question-248.mp3",
+      "bytes": 1442304,
+      "sha256": "1fd02dbd45dcd8c8257d186f8f8e2eb8ca814963a8886cba2463ef7f296ec736",
+      "status": "captured-full-response",
+      "evidence_id": "ev_781f88368894dc3a667d01c075126b36692f390711260d1f6c2ab886132d1b3f"
+    },
+    {
+      "question_id": 249,
+      "file": "data/listening/practice-8/media/question-249.mp3",
+      "bytes": 1459584,
+      "sha256": "e58de5f4a234169d6fdb25de7af5fffd2df27a52d3733bb8202cd3d9d57d3164",
+      "status": "captured-full-response",
+      "evidence_id": "ev_8c1cec7874bb04b5c9076a064b78a60fb70df21b027bdbff47e13678a79f5775"
+    },
+    {
+      "question_id": 250,
+      "file": "data/listening/practice-8/media/question-250.mp3",
+      "bytes": 2949696,
+      "sha256": "c2b7f02dd5f5b8aeb7da4d1f3304371691a1a4808d5292289ccf6c0363ea405d",
+      "status": "captured-full-response",
+      "evidence_id": "ev_9e558836056914fc755a9228855f6c5524d666ca173d1d5824ba29f56f55374b"
+    },
+    {
+      "question_id": 311,
+      "file": "data/listening/practice-8/media/question-311.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_85a16fb466a8e7425dd2766979362fb3ac7a73ca702d2f536b177c2822118c12"
+    },
+    {
+      "question_id": 252,
+      "file": "data/listening/practice-8/media/question-252.mp3",
+      "bytes": 1806912,
+      "sha256": "13561c0e1085ec58986c21e99e1e795771c85014f72f130eb78646a3090f0616",
+      "status": "captured-full-response",
+      "evidence_id": "ev_79015f67dc3861984f4635d97d7ce242c3b9a6354c95555b49f4109f3d8688c7"
+    },
+    {
+      "question_id": 312,
+      "file": "data/listening/practice-8/media/question-312.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_e3c3cdc69e7dcd5597f2a5a033a0b583234e9cf7952e7843f55dc2f57ec35347"
+    },
+    {
+      "question_id": 307,
+      "file": "data/listening/practice-8/media/question-307.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_ab80176fc3b1baadb927b3029a441f559c1a6a76e32eb855c235ead7e4e0955b"
+    },
+    {
+      "question_id": 255,
+      "file": "data/listening/practice-8/media/question-255.mp3",
+      "bytes": 1846656,
+      "sha256": "540f0e8cba720bed0d1187285ad129400bf35531d21e912c50d41266444fea91",
+      "status": "captured-full-response",
+      "evidence_id": "ev_55e732d468d9d4eb69514862aa03d681bddd4fb9c8cfb2e25520deea039131be"
+    },
+    {
+      "question_id": 256,
+      "file": "data/listening/practice-8/media/question-256.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_c22a6bb0326c7890576c4cb2879bcc5ea41a6fdfd2173cbce0b528533cee98db"
+    },
+    {
+      "question_id": 257,
+      "file": "data/listening/practice-8/media/question-257.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_6bdc301e3b7ec62c1a344c36ecf05db8695b6cf644fb99f2b467023b925a2353"
+    },
+    {
+      "question_id": 744,
+      "file": "data/listening/practice-8/media/question-744.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_579f93f5b343109173812929cb764527de5c56b27bc8739005ebc8bb4035af7f"
+    },
+    {
+      "question_id": 745,
+      "file": "data/listening/practice-8/media/question-745.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_0231b439d3b7659d5a362acf12e3577a67a297bf215f7af300b7f728169bf7ff"
+    },
+    {
+      "question_id": 714,
+      "file": "data/listening/practice-8/media/question-714.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_9295a10fa0909181cac44ac3a8a24e517c9848c0b216e348cfcfb61bcdece656"
+    },
+    {
+      "question_id": 715,
+      "file": "data/listening/practice-8/media/question-715.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_e08f4ef82e2d845f1fb99a56024f1850a7d6fa351d4168b81ab4bacb9f48ab75"
+    },
+    {
+      "question_id": 739,
+      "file": "data/listening/practice-8/media/question-739.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_53307d25f14cf7bb5c269bea3d6fa675a1bf35a76a62b1af621f6538e76b1353"
+    },
+    {
+      "question_id": 738,
+      "file": "data/listening/practice-8/media/question-738.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_84c345a62a40584a02b2709be1a269d4fe3ae134808c70f31f3b90be9df7c369"
+    },
+    {
+      "question_id": 749,
+      "file": "data/listening/practice-8/media/question-749.mp3",
+      "bytes": 148653,
+      "sha256": "3a31ec84393fa27cf64cc503509b99451fb8de84eee6af5857534eec3b3b62b8",
+      "status": "captured-full-response",
+      "evidence_id": "ev_949cb0c24e8ddf642e50b69c33a56da8f6e387eac655aef1cf4e522df32212d0"
+    }
+  ],
+  "limitations": [
+    "Audio was captured from the question-specific URL only when the response covered the full byte range and matched the reported size and SHA-256.",
+    "Audio content has not been listened to and compared independently with each question.",
+    "Source answer fields are empty; answer keys and descriptions have not been independently verified.",
+    "No attempt submitted.",
+    "Answer keys captured using per-question check with blank selections; no final submission. Answers and explanations have not been independently checked against the audio.",
+    "Answer keys captured by checking each question with blank selections; no final submission. Answers have not been independently checked against audio."
+  ],
+  "answer_keys_file": {
+    "path": "data/listening/practice-8/answer-keys.json",
+    "sha256": "df113205b6a4f756c8c9ba12a8e953a8970499eee8dd9f422ee234151915a06d",
+    "question_count": 30,
+    "explanations_present": 14
+  }
+}

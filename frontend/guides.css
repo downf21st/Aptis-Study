@@ -1,0 +1,60 @@
+.guide-source {
+  font-size: 12px;
+  color: #787580;
+  overflow-wrap: anywhere;
+  line-height: 1.6;
+}
+.guide-content {
+  font-size: 14px;
+  line-height: 1.75;
+  overflow-wrap: anywhere;
+}
+.guide-content p {
+  margin: 0 0 12px;
+}
+.guide-content a {
+  color: #51419e;
+  text-decoration: underline;
+}
+.guide-content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 18px auto;
+}
+.guide-content table {
+  display: block;
+  max-width: 100%;
+  overflow: auto;
+  border-collapse: collapse;
+}
+.guide-content td,
+.guide-content th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+.guide-media,
+.guide-transcript {
+  background: #f6f4fb;
+  border-radius: 10px;
+  padding: 16px;
+  margin: 16px 0;
+}
+.guide-media video {
+  display: block;
+  width: 100%;
+  max-width: 760px;
+  margin-top: 12px;
+}
+.guide-transcript summary {
+  cursor: pointer;
+  font-weight: 700;
+}
+.guide-transcript p,
+.media-status {
+  font-size: 13px;
+  line-height: 1.6;
+}
+.media-status {
+  color: #82513c;
+}

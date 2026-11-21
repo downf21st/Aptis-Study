@@ -1,0 +1,80 @@
+  - main:
+    - navigation "Breadcrumb":
+      - link "Hướng dẫn":
+        - /url: https://milaedu.com/instructions
+      - text: / Ideas cho email ( Part 4 - Writing)
+    - heading "Ideas cho email ( Part 4 - Writing)" [level=1]
+    - paragraph: Cập nhật lúc 09:33 - 19/11/2026
+    - paragraph:
+      - strong: PART 4
+    - paragraph:
+      - strong: "Form:"
+    - paragraph: Một số giải pháp áp dụng cho các dạng đề
+    - list:
+      - listitem:
+        - strong: Tăng phí
+    - paragraph: I think the club should offer discounts for long-term members and students. Additionally, organizing sponsorship events could help raise money without causing financial difficulties for club members.
+    - paragraph
+    - list:
+      - listitem:
+        - strong: Giáo viên đi vắng, diễn giả vắng mặt
+    - paragraph: I think the club should find another/ a temporary instructor/ teacher to help us work out/teach the class during this time.
+    - paragraph: I think the club should invite another speaker for this event.
+    - paragraph
+    - list:
+      - listitem:
+        - strong: Mời khách
+    - paragraph: I suggest we invite an artist/writer/author…….because he is one of the most famous artists/writers/authors in our country. He has a lot of fans. Both young and old people admire him.
+    - paragraph
+    - list:
+      - listitem:
+        - strong: Nâng cấp trang web
+    - paragraph: I recommend we hire a web designer/developer to help us upgrade the websites because he has extensive experience in this field.
+    - paragraph
+    - paragraph:
+      - strong: Địa điểm và thời gian tổ chức sự kiện
+    - paragraph: In my opinion, we should hold the meetings/events…at Vin Ocean Park on Sunday mornings. This park is an ideal place for our event because it is spacious and accessible. Besides, most people have free time on the weekend.
+    - paragraph
+    - list:
+      - listitem:
+        - strong: Các hoạt động trong sự kiện và vé vào cửa
+    - paragraph: I suggest having hands-on exhibits, science competitions, technology displays…. These activities can attract both kids and adults, making it fun for everyone.
+    - list:
+      - listitem: We should organize mini-games/ Q & A sessions to add fun and excitement.
+    - paragraph
+    - paragraph: For the entry fee, I think a small charge would help cover costs and make the event feel more valuable. However, it's a good idea to give out a few free tickets for those who need them so everyone can join.
+    - paragraph: Regarding the entry fee, I think we should offer free tickets to attract more attendees.
+    - paragraph
+    - paragraph:
+      - strong: Một số đề khó
+    - paragraph
+    - paragraph:
+      - strong: Debate club
+    - paragraph: I believe debate helps us improve our confidence in front of a crowd and develop excellent critical thinking skills.
+    - paragraph
+    - paragraph: I think debate increases creativity for debaters and improves confidence. These are essential skills for our life.
+    - paragraph
+    - paragraph:
+      - strong: English Club
+    - paragraph: I think new words and phrases help us express new ideas and make communication more effective.
+    - paragraph: Adding new words and phrases to a language is essential to reflect the changes in society and culture.
+    - paragraph: Adding new words and phrases will help our language become richer and make our conversations more interesting.
+    - paragraph
+    - paragraph:
+      - strong: Home Living Club
+      - text: (giúp người trẻ mua nhà )
+    - paragraph
+    - paragraph: I think we should use websites and apps to help them find homes within their budget.
+    - paragraph: We could create an online group to share reliable real estate information and organize monthly workshops about home-buying tips.
+    - paragraph
+    - paragraph:
+      - strong: College
+    - paragraph: I suggest that the college organize extra revision classes or give more practice tests. If possible, I think keeping the original schedule is the best way to help students succeed.
+    - paragraph
+    - paragraph:
+      - strong: Giải pháp chung chung để kéo dài, dùng được cho nhiều đề.
+    - paragraph
+    - paragraph: Furthermore, I think we can post information on social networking sites such as Facebook, Zalo, and Twitter to attract both young and old people.
+    - paragraph
+    - paragraph
+    - paragraph

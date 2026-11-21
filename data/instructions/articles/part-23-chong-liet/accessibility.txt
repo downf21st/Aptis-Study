@@ -1,0 +1,148 @@
+  - main:
+    - navigation "Breadcrumb":
+      - link "Hướng dẫn":
+        - /url: https://milaedu.com/instructions
+      - text: / Part 2,3 chống liệt
+    - heading "Part 2,3 chống liệt" [level=1]
+    - paragraph: Cập nhật lúc 09:32 - 19/11/2026
+    - paragraph:
+      - strong: Part 2.
+      - strong: Nature club
+    - paragraph: Please tell me about your free time and hobbies?
+    - paragraph: Thank you for your question. In my free time, I like listening to music, watching movies, and playing sports with my friends.
+    - paragraph
+    - paragraph:
+      - strong: Art club
+    - paragraph: Tell me a painting or a photo that you like.
+    - paragraph: Thank you for your question. I like a photo of a beach because it is beautiful and relaxing. It makes me feel happy.
+    - paragraph
+    - paragraph:
+      - strong: Book club 1, Language club
+    - paragraph: Please tell me about your free time and hobbies.
+    - paragraph: Thank you for your question. In my free time, I like reading books and listening to music. It helps me relax after work
+    - paragraph
+    - paragraph:
+      - strong: Business club ,Community club
+    - paragraph: Where do you usually go shopping?
+    - paragraph: Thank you for your question. I usually go shopping at the supermarket near my house. I go with my family on weekends, and it helps me feel happy.
+    - paragraph
+    - paragraph:
+      - strong: Car club
+    - paragraph: Do you usually travel by car?
+    - paragraph: Thank you for your question. I usually travel by car every day and sometimes go out with my friends. It makes me happy.
+    - paragraph
+    - paragraph:
+      - strong: College club
+    - paragraph: Please tell us when you can attend courses and what you want to study.
+    - paragraph: Thank you for your question. I can attend courses in the evening and weekends. I want to study English because it helps me improve myself.
+    - paragraph
+    - paragraph:
+      - strong: Computer club
+    - paragraph: When and where do you use a computer?
+    - paragraph: Thank you for your question. I usually use a computer at home in the evening to study and do my homework. It helps me feel more relaxed and makes studying easier and more enjoyable.
+    - paragraph
+    - paragraph:
+      - strong: Debate club
+    - paragraph: What do you usually talk about with your friends?
+    - paragraph: Thank you for your question. I usually talk to my friends about school, hobbies, and daily life. It helps me relax.
+    - paragraph
+    - paragraph:
+      - strong: English club
+    - paragraph: What do you usually use the internet for?
+    - paragraph: Thank you for your question. I usually use the internet to study, watch videos, listen to music, and chat with my friends.
+    - paragraph
+    - paragraph:
+      - strong: Fashion club
+    - paragraph: When was the last time you went shopping for clothes?
+    - paragraph: Thank you for your question. I went shopping for clothes last weekend with my friends. It was fun and relaxing.
+    - paragraph
+    - paragraph:
+      - strong: Film club
+    - paragraph: Please write some of your favorite films and why you like watching them.
+    - paragraph: Thank you for your question. My favorite films are action and comedy movies because they are exciting, funny. It helps me relax after work.
+    - paragraph
+    - paragraph:
+      - strong: Fitness club
+    - paragraph: Please talk about the last time you had to run somewhere.
+    - paragraph: Thank you for your question. The last time I ran was yesterday when I was late for work. I felt tired but relieved.
+    - paragraph
+    - paragraph:
+      - strong: Food club
+    - paragraph: What did you eat for breakfast?
+    - paragraph: Thank you for your question. I ate noodles and drank milk for breakfast this morning. It was good for my health.
+    - paragraph
+    - paragraph:
+      - strong: Garden club
+    - paragraph: Why did you join our club?
+    - paragraph: Thank you for your question. I joined your garden club because I love plants and want to learn more about gardening. It makes me relaxed.
+    - paragraph
+    - paragraph:
+      - strong: Health club
+    - paragraph: Please tell me what classes you want to take and what times and days suit you.
+    - paragraph: Thank you for your question. I want to take gym and yoga classes. I am free in the evening and on weekends. It helps me feel healthy.
+    - paragraph
+    - paragraph:
+      - strong: Beautiful home club
+    - paragraph: Describe where you live?
+    - paragraph: Thank you for your question. I live in a small house near the park. It is quiet and cozy. It helps me relax.
+    - paragraph
+    - paragraph:
+      - strong: Museum club
+    - paragraph: Tell me the last time you went to a museum?
+    - paragraph: Thank you for your question. The last time I went to a museum was last month. It made me feel happy.
+    - paragraph
+    - paragraph:
+      - strong: Music club
+    - paragraph: Please tell us about the last time you listened to music.
+    - paragraph: Thank you for your question. The last time I listened to music was yesterday evening. I listened to my favorite songs. It made me feel relaxed.
+    - paragraph
+    - paragraph:
+      - strong: Outdoor club
+    - paragraph: Why did you join the outdoor club?
+    - paragraph: Thank you for your question. I joined the outdoor club because I love nature and outdoor activities. It helps me stay healthy and feel relaxed.
+    - paragraph
+    - paragraph:
+      - strong: Photography club
+    - paragraph: What is your favorite time and place to take pictures?
+    - paragraph: Thank you for your question. My favorite time to take pictures is in the morning, and I like taking photos in the park. It makes me feel happy.”
+    - paragraph
+    - paragraph:
+      - strong: Reading club
+    - paragraph: When was the last time you read a book, and how was the book?
+    - paragraph: Thank you for your question. The last time I read a book was last weekend. It was very interesting and enjoyable. I learned a lot from it.
+    - paragraph
+    - paragraph:
+      - strong: Science club
+    - paragraph: Do you like Science? Why?
+    - paragraph: Thank you for your question. Yes, I like Science because it helps me understand the world. It is very interesting and makes me curious.
+    - paragraph
+    - paragraph:
+      - strong: Social club
+    - paragraph: What do you like to do with friends, and where do you go?
+    - paragraph: Thank you for your question. I like going to the park and watching movies with my friends. We have fun and relax together.
+    - paragraph
+    - paragraph:
+      - strong: Sport club
+    - paragraph: Why did you decide to join the sport club?
+    - paragraph: Thank you for your question. I joined the sport club to make new friends and it helps me stay healthy and feel good.
+    - paragraph
+    - paragraph:
+      - strong: Technology club
+    - paragraph: What do you usually use your laptop for?
+    - paragraph: Thank you for your question. I usually use my laptop for studying, watching videos, and browsing the internet. It helps me learn and relax.
+    - paragraph
+    - paragraph:
+      - strong: Travel club
+    - paragraph: Where do you usually travel on holiday?
+    - paragraph: Thank you for your question. I usually travel to the beach with my family on holiday. It helps me relax and feel happy.
+    - paragraph
+    - paragraph:
+      - strong: TV club
+    - paragraph: Do you usually watch TV?
+    - paragraph: Thank you for your question. Yes, I usually watch TV in the evening with my family. It helps me relax after work.
+    - paragraph
+    - paragraph:
+      - strong: Walking club
+    - paragraph: When and where do you like to walk?
+    - paragraph: Thank you for your question. I like to walk in the park in the morning. It helps me relax and enjoy the fresh air.
+    - paragraph

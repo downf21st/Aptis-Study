@@ -1,0 +1,64 @@
+.writing-prompt {
+  padding: 18px 0;
+  border-top: 1px solid #eeedf0;
+}
+.writing-prompt label {
+  display: block;
+  font-weight: 700;
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+.writing-prompt textarea {
+  display: block;
+  width: 100%;
+  resize: vertical;
+  min-height: 85px;
+  border: 1px solid #dcd9e4;
+  border-radius: 10px;
+  padding: 12px;
+  font: inherit;
+  line-height: 1.6;
+}
+.writing-prompt textarea:focus-visible {
+  outline: 3px solid #6358c8;
+  outline-offset: 2px;
+}
+.writing-meta {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 7px;
+  font-size: 12px;
+  color: #686571;
+}
+.sample {
+  margin: 14px 0;
+  background: #f7f5fb;
+  border-radius: 10px;
+  padding: 14px;
+  line-height: 1.6;
+  font-size: 13px;
+}
+.sample summary {
+  cursor: pointer;
+  font-weight: 700;
+}
+.sample p,
+.sample-note {
+  font-size: 12px;
+  color: #6c6775;
+  line-height: 1.6;
+}
+.sample-text {
+  overflow-wrap: anywhere;
+}
+.source-note div + div {
+  margin-top: 10px;
+}
+@media (max-width: 720px) {
+  .writing-meta {
+    flex-direction: column;
+    gap: 4px;
+  }
+}

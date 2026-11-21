@@ -1,0 +1,1322 @@
+  - main:
+    - navigation "Breadcrumb":
+      - link "Hướng dẫn":
+        - /url: https://milaedu.com/instructions
+      - text: "/ SPEAKING: CÁC CỤM TỪ DÙNG TẢ TRANH PART..."
+    - 'heading "SPEAKING: CÁC CỤM TỪ DÙNG TẢ TRANH PART 2, 3" [level=1]'
+    - paragraph: Cập nhật lúc 09:30 - 19/11/2026
+    - list:
+      - listitem:
+        - strong: CÁC CỤM TỪ DÙNG TẢ TRANH PART 2, 3
+    - heading "1. PLACES – ĐỊA ĐIỂM" [level=2]:
+      - strong: 1. PLACES – ĐỊA ĐIỂM
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Word/Phrase IPA Meaning":
+            - columnheader "Word/Phrase":
+              - strong: Word/Phrase
+            - columnheader "IPA":
+              - strong: IPA
+            - columnheader "Meaning":
+              - strong: Meaning
+        - rowgroup:
+          - row "on the street /ɒn ðə striːt/ trên đường phố":
+            - cell "on the street":
+              - strong: on the street
+            - cell /ɒn ðə striːt/
+            - cell "trên đường phố"
+          - row "on a construction site /ɒn ə kənˈstrʌkʃən saɪt/ trên công trường":
+            - cell "on a construction site":
+              - strong: on a construction site
+            - cell /ɒn ə kənˈstrʌkʃən saɪt/
+            - cell "trên công trường"
+          - row "on a stage /ɒn ə steɪdʒ/ trên sân khấu":
+            - cell "on a stage":
+              - strong: on a stage
+            - cell /ɒn ə steɪdʒ/
+            - cell "trên sân khấu"
+          - row "outside a building /ˌaʊtˈsaɪd ə ˈbɪldɪŋ/ bên ngoài tòa nhà":
+            - cell "outside a building":
+              - strong: outside a building
+            - cell /ˌaʊtˈsaɪd ə ˈbɪldɪŋ/
+            - cell "bên ngoài tòa nhà"
+          - row "inside a building /ɪnˈsaɪd ə ˈbɪldɪŋ/ bên trong tòa nhà":
+            - cell "inside a building":
+              - strong: inside a building
+            - cell /ɪnˈsaɪd ə ˈbɪldɪŋ/
+            - cell "bên trong tòa nhà"
+          - row "in an office /ɪn ən ˈɒfɪs/ trong văn phòng":
+            - cell "in an office":
+              - strong: in an office
+            - cell /ɪn ən ˈɒfɪs/
+            - cell "trong văn phòng"
+          - row "in a warehouse /ɪn ə ˈweəhaʊs/ trong kho hàng":
+            - cell "in a warehouse":
+              - strong: in a warehouse
+            - cell /ɪn ə ˈweəhaʊs/
+            - cell "trong kho hàng"
+          - row "on a farm /ɒn ə fɑːm/ ở trang trại":
+            - cell "on a farm":
+              - strong: on a farm
+            - cell /ɒn ə fɑːm/
+            - cell "ở trang trại"
+          - row "in a forest /ɪn ə ˈfɒrɪst/ trong rừng":
+            - cell "in a forest":
+              - strong: in a forest
+            - cell /ɪn ə ˈfɒrɪst/
+            - cell "trong rừng"
+          - row "in a stadium /ɪn ə ˈsteɪdiəm/ trong sân vận động":
+            - cell "in a stadium":
+              - strong: in a stadium
+            - cell /ɪn ə ˈsteɪdiəm/
+            - cell "trong sân vận động"
+          - row "at a sports centre /ət ə spɔːts ˈsentə/ ở trung tâm thể thao":
+            - cell "at a sports centre":
+              - strong: at a sports centre
+            - cell /ət ə spɔːts ˈsentə/
+            - cell "ở trung tâm thể thao"
+          - row "at a gym /ət ə dʒɪm/ ở phòng gym":
+            - cell "at a gym":
+              - strong: at a gym
+            - cell /ət ə dʒɪm/
+            - cell "ở phòng gym"
+          - row "on a boat /ɒn ə bəʊt/ trên thuyền":
+            - cell "on a boat":
+              - strong: on a boat
+            - cell /ɒn ə bəʊt/
+            - cell "trên thuyền"
+          - row "on a yacht /ɒn ə jɒt/ trên du thuyền":
+            - cell "on a yacht":
+              - strong: on a yacht
+            - cell /ɒn ə jɒt/
+            - cell "trên du thuyền"
+          - row "at sea /ət siː/ trên biển":
+            - cell "at sea":
+              - strong: at sea
+            - cell /ət siː/
+            - cell "trên biển"
+          - row "on an airplane /ɒn ən ˈeəpleɪn/ trên máy bay":
+            - cell "on an airplane":
+              - strong: on an airplane
+            - cell /ɒn ən ˈeəpleɪn/
+            - cell "trên máy bay"
+          - row "on a train /ɒn ə treɪn/ trên tàu hỏa":
+            - cell "on a train":
+              - strong: on a train
+            - cell /ɒn ə treɪn/
+            - cell "trên tàu hỏa"
+          - row "on public transport /ɒn ˈpʌblɪk ˈtrænspɔːt/ trên phương tiện giao thông công cộng":
+            - cell "on public transport":
+              - strong: on public transport
+            - cell /ɒn ˈpʌblɪk ˈtrænspɔːt/
+            - cell "trên phương tiện giao thông công cộng"
+          - row "at a train station /ət ə treɪn ˈsteɪʃən/ ở nhà ga":
+            - cell "at a train station":
+              - strong: at a train station
+            - cell /ət ə treɪn ˈsteɪʃən/
+            - cell "ở nhà ga"
+          - row "at an airport /ət ən ˈeəpɔːt/ ở sân bay":
+            - cell "at an airport":
+              - strong: at an airport
+            - cell /ət ən ˈeəpɔːt/
+            - cell "ở sân bay"
+          - row "at home /ət həʊm/ ở nhà":
+            - cell "at home":
+              - strong: at home
+            - cell /ət həʊm/
+            - cell "ở nhà"
+          - row "in the countryside /ɪn ðə ˈkʌntrisaɪd/ ở vùng nông thôn":
+            - cell "in the countryside":
+              - strong: in the countryside
+            - cell /ɪn ðə ˈkʌntrisaɪd/
+            - cell "ở vùng nông thôn"
+          - row "in a residential area /ɪn ə ˌrezɪˈdenʃəl ˈeəriə/ ở khu dân cư":
+            - cell "in a residential area":
+              - strong: in a residential area
+            - cell /ɪn ə ˌrezɪˈdenʃəl ˈeəriə/
+            - cell "ở khu dân cư"
+          - row "in a shopping centre /ɪn ə ˈʃɒpɪŋ ˌsentə/ ở trung tâm mua sắm":
+            - cell "in a shopping centre":
+              - strong: in a shopping centre
+            - cell /ɪn ə ˈʃɒpɪŋ ˌsentə/
+            - cell "ở trung tâm mua sắm"
+          - row "in a public place /ɪn ə ˈpʌblɪk pleɪs/ ở nơi công cộng":
+            - cell "in a public place":
+              - strong: in a public place
+            - cell /ɪn ə ˈpʌblɪk pleɪs/
+            - cell "ở nơi công cộng"
+          - row "in the city /ɪn ðə ˈsɪti/ trong thành phố":
+            - cell "in the city":
+              - strong: in the city
+            - cell /ɪn ðə ˈsɪti/
+            - cell "trong thành phố"
+    - heading "2. PEOPLE & CHARACTERS – NHÂN VẬT" [level=2]:
+      - strong: 2. PEOPLE & CHARACTERS – NHÂN VẬT
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Word/Phrase IPA Meaning":
+            - columnheader "Word/Phrase":
+              - strong: Word/Phrase
+            - columnheader "IPA":
+              - strong: IPA
+            - columnheader "Meaning":
+              - strong: Meaning
+        - rowgroup:
+          - row "a child /ə tʃaɪld/ một đứa trẻ":
+            - cell "a child":
+              - strong: a child
+            - cell /ə tʃaɪld/
+            - cell "một đứa trẻ"
+          - row "children /ˈtʃɪldrən/ những đứa trẻ":
+            - cell "children":
+              - strong: children
+            - cell /ˈtʃɪldrən/
+            - cell "những đứa trẻ"
+          - row "a kid /ə kɪd/ một đứa trẻ":
+            - cell "a kid":
+              - strong: a kid
+            - cell /ə kɪd/
+            - cell "một đứa trẻ"
+          - row "an elderly person /ən ˈeldəli ˈpɜːsn/ người cao tuổi":
+            - cell "an elderly person":
+              - strong: an elderly person
+            - cell /ən ˈeldəli ˈpɜːsn/
+            - cell "người cao tuổi"
+          - row "a young woman /ə jʌŋ ˈwʊmən/ một phụ nữ trẻ":
+            - cell "a young woman":
+              - strong: a young woman
+            - cell /ə jʌŋ ˈwʊmən/
+            - cell "một phụ nữ trẻ"
+          - row "a young man /ə jʌŋ mæn/ một người đàn ông trẻ":
+            - cell "a young man":
+              - strong: a young man
+            - cell /ə jʌŋ mæn/
+            - cell "một người đàn ông trẻ"
+          - row "a middle-aged man /ə ˌmɪdl ˈeɪdʒd mæn/ một người đàn ông trung niên":
+            - cell "a middle-aged man":
+              - strong: a middle-aged man
+            - cell /ə ˌmɪdl ˈeɪdʒd mæn/
+            - cell "một người đàn ông trung niên"
+          - row "a middle-aged woman /ə ˌmɪdl ˈeɪdʒd ˈwʊmən/ một phụ nữ trung niên":
+            - cell "a middle-aged woman":
+              - strong: a middle-aged woman
+            - cell /ə ˌmɪdl ˈeɪdʒd ˈwʊmən/
+            - cell "một phụ nữ trung niên"
+          - row "a group of people /ə ɡruːp əv ˈpiːpl/ một nhóm người":
+            - cell "a group of people":
+              - strong: a group of people
+            - cell /ə ɡruːp əv ˈpiːpl/
+            - cell "một nhóm người"
+          - row "a group of friends /ə ɡruːp əv frendz/ một nhóm bạn":
+            - cell "a group of friends":
+              - strong: a group of friends
+            - cell /ə ɡruːp əv frendz/
+            - cell "một nhóm bạn"
+          - row "a family /ə ˈfæməli/ một gia đình":
+            - cell "a family":
+              - strong: a family
+            - cell /ə ˈfæməli/
+            - cell "một gia đình"
+          - row "a family member /ə ˈfæməli ˌmembə/ một thành viên gia đình":
+            - cell "a family member":
+              - strong: a family member
+            - cell /ə ˈfæməli ˌmembə/
+            - cell "một thành viên gia đình"
+          - row "a couple /ə ˈkʌpl/ một cặp đôi":
+            - cell "a couple":
+              - strong: a couple
+            - cell /ə ˈkʌpl/
+            - cell "một cặp đôi"
+          - row "a close friend /ə kləʊs frend/ một người bạn thân":
+            - cell "a close friend":
+              - strong: a close friend
+            - cell /ə kləʊs frend/
+            - cell "một người bạn thân"
+          - row "a partner /ə ˈpɑːtnə/ bạn đời/người yêu":
+            - cell "a partner":
+              - strong: a partner
+            - cell /ə ˈpɑːtnə/
+            - cell "bạn đời/người yêu"
+          - row "a colleague /ə ˈkɒliːɡ/ đồng nghiệp":
+            - cell "a colleague":
+              - strong: a colleague
+            - cell /ə ˈkɒliːɡ/
+            - cell "đồng nghiệp"
+          - row "a member of staff /ə ˈmembər əv stɑːf/ một nhân viên":
+            - cell "a member of staff":
+              - strong: a member of staff
+            - cell /ə ˈmembər əv stɑːf/
+            - cell "một nhân viên"
+          - row "a shop assistant /ə ʃɒp əˈsɪstənt/ nhân viên bán hàng":
+            - cell "a shop assistant":
+              - strong: a shop assistant
+            - cell /ə ʃɒp əˈsɪstənt/
+            - cell "nhân viên bán hàng"
+          - row "a seller /ə ˈselə/ người bán hàng":
+            - cell "a seller":
+              - strong: a seller
+            - cell /ə ˈselə/
+            - cell "người bán hàng"
+          - row "a customer /ə ˈkʌstəmə/ khách hàng":
+            - cell "a customer":
+              - strong: a customer
+            - cell /ə ˈkʌstəmə/
+            - cell "khách hàng"
+          - row "a passer-by /ə ˌpɑːsə ˈbaɪ/ người qua đường":
+            - cell "a passer-by":
+              - strong: a passer-by
+            - cell /ə ˌpɑːsə ˈbaɪ/
+            - cell "người qua đường"
+          - row "a person with a disability /ə ˈpɜːsn wɪð ə ˌdɪsəˈbɪləti/ người khuyết tật":
+            - cell "a person with a disability":
+              - strong: a person with a disability
+            - cell /ə ˈpɜːsn wɪð ə ˌdɪsəˈbɪləti/
+            - cell "người khuyết tật"
+          - row "a member of the audience /ə ˈmembər əv ði ˈɔːdiəns/ một khán giả":
+            - cell "a member of the audience":
+              - strong: a member of the audience
+            - cell /ə ˈmembər əv ði ˈɔːdiəns/
+            - cell "một khán giả"
+    - heading "3. APPEARANCE – NGOẠI HÌNH" [level=2]:
+      - strong: 3. APPEARANCE – NGOẠI HÌNH
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Word/Phrase IPA Meaning":
+            - columnheader "Word/Phrase":
+              - strong: Word/Phrase
+            - columnheader "IPA":
+              - strong: IPA
+            - columnheader "Meaning":
+              - strong: Meaning
+        - rowgroup:
+          - row "has short hair /hæz ʃɔːt heə/ có tóc ngắn":
+            - cell "has short hair":
+              - strong: has short hair
+            - cell /hæz ʃɔːt heə/
+            - cell "có tóc ngắn"
+          - row "has long hair /hæz lɒŋ heə/ có tóc dài":
+            - cell "has long hair":
+              - strong: has long hair
+            - cell /hæz lɒŋ heə/
+            - cell "có tóc dài"
+          - row "has curly hair /hæz ˈkɜːli heə/ có tóc xoăn":
+            - cell "has curly hair":
+              - strong: has curly hair
+            - cell /hæz ˈkɜːli heə/
+            - cell "có tóc xoăn"
+          - row "has straight hair /hæz streɪt heə/ có tóc thẳng":
+            - cell "has straight hair":
+              - strong: has straight hair
+            - cell /hæz streɪt heə/
+            - cell "có tóc thẳng"
+          - row "has dark hair /hæz dɑːk heə/ có tóc màu tối":
+            - cell "has dark hair":
+              - strong: has dark hair
+            - cell /hæz dɑːk heə/
+            - cell "có tóc màu tối"
+          - row "has blonde hair /hæz blɒnd heə/ có tóc vàng":
+            - cell "has blonde hair":
+              - strong: has blonde hair
+            - cell /hæz blɒnd heə/
+            - cell "có tóc vàng"
+          - row "has grey hair /hæz ɡreɪ heə/ có tóc bạc":
+            - cell "has grey hair":
+              - strong: has grey hair
+            - cell /hæz ɡreɪ heə/
+            - cell "có tóc bạc"
+          - row "wear glasses /weə ˈɡlɑːsɪz/ đeo kính":
+            - cell "wear glasses":
+              - strong: wear glasses
+            - cell /weə ˈɡlɑːsɪz/
+            - cell "đeo kính"
+          - row "has a beard /hæz ə bɪəd/ có râu":
+            - cell "has a beard":
+              - strong: has a beard
+            - cell /hæz ə bɪəd/
+            - cell "có râu"
+          - row "has a strong build /hæz ə strɒŋ bɪld/ có vóc dáng khỏe":
+            - cell "has a strong build":
+              - strong: has a strong build
+            - cell /hæz ə strɒŋ bɪld/
+            - cell "có vóc dáng khỏe"
+          - row "looks young /lʊks jʌŋ/ trông trẻ":
+            - cell "looks young":
+              - strong: looks young
+            - cell /lʊks jʌŋ/
+            - cell "trông trẻ"
+          - row "looks tired /lʊks ˈtaɪəd/ trông mệt mỏi":
+            - cell "looks tired":
+              - strong: looks tired
+            - cell /lʊks ˈtaɪəd/
+            - cell "trông mệt mỏi"
+          - row "looks happy /lʊks ˈhæpi/ trông vui vẻ":
+            - cell "looks happy":
+              - strong: looks happy
+            - cell /lʊks ˈhæpi/
+            - cell "trông vui vẻ"
+          - row "looks relaxed /lʊks rɪˈlækst/ trông thư giãn":
+            - cell "looks relaxed":
+              - strong: looks relaxed
+            - cell /lʊks rɪˈlækst/
+            - cell "trông thư giãn"
+          - row "looks worried /lʊks ˈwʌrid/ trông lo lắng":
+            - cell "looks worried":
+              - strong: looks worried
+            - cell /lʊks ˈwʌrid/
+            - cell "trông lo lắng"
+    - heading "4. CLOTHES & OUTFIT – TRANG PHỤC" [level=2]:
+      - strong: 4. CLOTHES & OUTFIT – TRANG PHỤC
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Word/Phrase IPA Meaning":
+            - columnheader "Word/Phrase":
+              - strong: Word/Phrase
+            - columnheader "IPA":
+              - strong: IPA
+            - columnheader "Meaning":
+              - strong: Meaning
+        - rowgroup:
+          - row "casual clothes /ˈkæʒuəl kləʊðz/ quần áo thường ngày":
+            - cell "casual clothes":
+              - strong: casual clothes
+            - cell /ˈkæʒuəl kləʊðz/
+            - cell "quần áo thường ngày"
+          - row "a casual outfit /ə ˈkæʒuəl ˈaʊtfɪt/ một bộ trang phục thường ngày":
+            - cell "a casual outfit":
+              - strong: a casual outfit
+            - cell /ə ˈkæʒuəl ˈaʊtfɪt/
+            - cell "một bộ trang phục thường ngày"
+          - row "formal clothes /ˈfɔːml kləʊðz/ trang phục trang trọng":
+            - cell "formal clothes":
+              - strong: formal clothes
+            - cell /ˈfɔːml kləʊðz/
+            - cell "trang phục trang trọng"
+          - row "a formal outfit /ə ˈfɔːml ˈaʊtfɪt/ một bộ trang phục trang trọng":
+            - cell "a formal outfit":
+              - strong: a formal outfit
+            - cell /ə ˈfɔːml ˈaʊtfɪt/
+            - cell "một bộ trang phục trang trọng"
+          - row "a smart outfit /ə smɑːt ˈaʊtfɪt/ một bộ trang phục lịch sự":
+            - cell "a smart outfit":
+              - strong: a smart outfit
+            - cell /ə smɑːt ˈaʊtfɪt/
+            - cell "một bộ trang phục lịch sự"
+          - row "a T-shirt /ə ˈtiː ʃɜːt/ áo phông":
+            - cell "a T-shirt":
+              - strong: a T-shirt
+            - cell /ə ˈtiː ʃɜːt/
+            - cell "áo phông"
+          - row "a shirt /ə ʃɜːt/ áo sơ mi":
+            - cell "a shirt":
+              - strong: a shirt
+            - cell /ə ʃɜːt/
+            - cell "áo sơ mi"
+          - row "a blouse /ə blaʊz/ áo kiểu nữ":
+            - cell "a blouse":
+              - strong: a blouse
+            - cell /ə blaʊz/
+            - cell "áo kiểu nữ"
+          - row "a jacket /ə ˈdʒækɪt/ áo khoác":
+            - cell "a jacket":
+              - strong: a jacket
+            - cell /ə ˈdʒækɪt/
+            - cell "áo khoác"
+          - row "a coat /ə kəʊt/ áo khoác dài":
+            - cell "a coat":
+              - strong: a coat
+            - cell /ə kəʊt/
+            - cell "áo khoác dài"
+          - row "a pair of jeans /ə peər əv dʒiːnz/ một chiếc quần bò":
+            - cell "a pair of jeans":
+              - strong: a pair of jeans
+            - cell /ə peər əv dʒiːnz/
+            - cell "một chiếc quần bò"
+          - row "a pair of trousers /ə peər əv ˈtraʊzəz/ một chiếc quần dài":
+            - cell "a pair of trousers":
+              - strong: a pair of trousers
+            - cell /ə peər əv ˈtraʊzəz/
+            - cell "một chiếc quần dài"
+          - row "a pair of shorts /ə peər əv ʃɔːts/ một chiếc quần short":
+            - cell "a pair of shorts":
+              - strong: a pair of shorts
+            - cell /ə peər əv ʃɔːts/
+            - cell "một chiếc quần short"
+          - row "a dress /ə dres/ váy liền":
+            - cell "a dress":
+              - strong: a dress
+            - cell /ə dres/
+            - cell "váy liền"
+          - row "a uniform /ə ˈjuːnɪfɔːm/ đồng phục":
+            - cell "a uniform":
+              - strong: a uniform
+            - cell /ə ˈjuːnɪfɔːm/
+            - cell "đồng phục"
+          - row "a suit /ə suːt/ bộ vest":
+            - cell "a suit":
+              - strong: a suit
+            - cell /ə suːt/
+            - cell "bộ vest"
+          - row "a tie /ə taɪ/ cà vạt":
+            - cell "a tie":
+              - strong: a tie
+            - cell /ə taɪ/
+            - cell "cà vạt"
+          - row "a handbag /ə ˈhændbæɡ/ túi xách":
+            - cell "a handbag":
+              - strong: a handbag
+            - cell /ə ˈhændbæɡ/
+            - cell "túi xách"
+          - row "a backpack /ə ˈbækpæk/ ba lô":
+            - cell "a backpack":
+              - strong: a backpack
+            - cell /ə ˈbækpæk/
+            - cell "ba lô"
+          - row "a hat /ə hæt/ mũ":
+            - cell "a hat":
+              - strong: a hat
+            - cell /ə hæt/
+            - cell "mũ"
+          - row "a scarf /ə skɑːf/ khăn quàng":
+            - cell "a scarf":
+              - strong: a scarf
+            - cell /ə skɑːf/
+            - cell "khăn quàng"
+          - row "wearing casual clothes /ˈweərɪŋ ˈkæʒuəl kləʊðz/ mặc quần áo thường ngày":
+            - cell "wearing casual clothes":
+              - strong: wearing casual clothes
+            - cell /ˈweərɪŋ ˈkæʒuəl kləʊðz/
+            - cell "mặc quần áo thường ngày"
+          - row "wearing comfortable clothes /ˈweərɪŋ ˈkʌmftəbl kləʊðz/ mặc quần áo thoải mái":
+            - cell "wearing comfortable clothes":
+              - strong: wearing comfortable clothes
+            - cell /ˈweərɪŋ ˈkʌmftəbl kləʊðz/
+            - cell "mặc quần áo thoải mái"
+          - row "wearing smart clothes /ˈweərɪŋ smɑːt kləʊðz/ mặc trang phục lịch sự":
+            - cell "wearing smart clothes":
+              - strong: wearing smart clothes
+            - cell /ˈweərɪŋ smɑːt kləʊðz/
+            - cell "mặc trang phục lịch sự"
+          - row "dressed in black /drest ɪn blæk/ mặc đồ màu đen":
+            - cell "dressed in black":
+              - strong: dressed in black
+            - cell /drest ɪn blæk/
+            - cell "mặc đồ màu đen"
+          - row "dressed in bright colours /drest ɪn braɪt ˈkʌləz/ mặc trang phục màu sắc tươi sáng":
+            - cell "dressed in bright colours":
+              - strong: dressed in bright colours
+            - cell /drest ɪn braɪt ˈkʌləz/
+            - cell "mặc trang phục màu sắc tươi sáng"
+    - heading "5. ACTIONS – HÀNH ĐỘNG" [level=2]:
+      - strong: 5. ACTIONS – HÀNH ĐỘNG
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Word/Phrase IPA Meaning":
+            - columnheader "Word/Phrase":
+              - strong: Word/Phrase
+            - columnheader "IPA":
+              - strong: IPA
+            - columnheader "Meaning":
+              - strong: Meaning
+        - rowgroup:
+          - row "smiling happily /ˈsmaɪlɪŋ ˈhæpɪli/ cười vui vẻ":
+            - cell "smiling happily":
+              - strong: smiling happily
+            - cell /ˈsmaɪlɪŋ ˈhæpɪli/
+            - cell "cười vui vẻ"
+          - row "playing games /ˈpleɪɪŋ ɡeɪmz/ chơi game/trò chơi":
+            - cell "playing games":
+              - strong: playing games
+            - cell /ˈpleɪɪŋ ɡeɪmz/
+            - cell "chơi game/trò chơi"
+          - row "playing computer games /ˈpleɪɪŋ kəmˈpjuːtə ɡeɪmz/ chơi trò chơi điện tử":
+            - cell "playing computer games":
+              - strong: playing computer games
+            - cell /ˈpleɪɪŋ kəmˈpjuːtə ɡeɪmz/
+            - cell "chơi trò chơi điện tử"
+          - row "playing chess /ˈpleɪɪŋ tʃes/ chơi cờ":
+            - cell "playing chess":
+              - strong: playing chess
+            - cell /ˈpleɪɪŋ tʃes/
+            - cell "chơi cờ"
+          - row "playing board games /ˈpleɪɪŋ bɔːd ɡeɪmz/ chơi trò chơi trên bàn":
+            - cell "playing board games":
+              - strong: playing board games
+            - cell /ˈpleɪɪŋ bɔːd ɡeɪmz/
+            - cell "chơi trò chơi trên bàn"
+          - row "go running /ɡəʊ ˈrʌnɪŋ/ chạy bộ":
+            - cell "go running":
+              - strong: go running
+            - cell /ɡəʊ ˈrʌnɪŋ/
+            - cell "chạy bộ"
+          - row "go jogging /ɡəʊ ˈdʒɒɡɪŋ/ chạy bộ":
+            - cell "go jogging":
+              - strong: go jogging
+            - cell /ɡəʊ ˈdʒɒɡɪŋ/
+            - cell "chạy bộ"
+          - row "playing football /ˈpleɪɪŋ ˈfʊtbɔːl/ chơi bóng đá":
+            - cell "playing football":
+              - strong: playing football
+            - cell /ˈpleɪɪŋ ˈfʊtbɔːl/
+            - cell "chơi bóng đá"
+          - row "doing the high jump /ˈduːɪŋ ðə haɪ dʒʌmp/ nhảy cao":
+            - cell "doing the high jump":
+              - strong: doing the high jump
+            - cell /ˈduːɪŋ ðə haɪ dʒʌmp/
+            - cell "nhảy cao"
+          - row "climbing mountains /ˈklaɪmɪŋ ˈmaʊntənz/ leo núi":
+            - cell "climbing mountains":
+              - strong: climbing mountains
+            - cell /ˈklaɪmɪŋ ˈmaʊntənz/
+            - cell "leo núi"
+          - row "doing exercise /ˈduːɪŋ ˈeksəsaɪz/ tập thể dục":
+            - cell "doing exercise":
+              - strong: doing exercise
+            - cell /ˈduːɪŋ ˈeksəsaɪz/
+            - cell "tập thể dục"
+          - row "doing yoga /ˈduːɪŋ ˈjəʊɡə/ tập yoga":
+            - cell "doing yoga":
+              - strong: doing yoga
+            - cell /ˈduːɪŋ ˈjəʊɡə/
+            - cell "tập yoga"
+          - row "go walking /ɡəʊ ˈwɔːkɪŋ/ đi bộ":
+            - cell "go walking":
+              - strong: go walking
+            - cell /ɡəʊ ˈwɔːkɪŋ/
+            - cell "đi bộ"
+          - row "go hiking /ɡəʊ ˈhaɪkɪŋ/ đi bộ đường dài":
+            - cell "go hiking":
+              - strong: go hiking
+            - cell /ɡəʊ ˈhaɪkɪŋ/
+            - cell "đi bộ đường dài"
+          - row "working out at the gym /ˈwɜːkɪŋ aʊt ət ðə dʒɪm/ tập gym":
+            - cell "working out at the gym":
+              - strong: working out at the gym
+            - cell /ˈwɜːkɪŋ aʊt ət ðə dʒɪm/
+            - cell "tập gym"
+          - row "rowing a boat /ˈrəʊɪŋ ə bəʊt/ chèo thuyền":
+            - cell "rowing a boat":
+              - strong: rowing a boat
+            - cell /ˈrəʊɪŋ ə bəʊt/
+            - cell "chèo thuyền"
+          - row "wearing headphones /ˈweərɪŋ ˈhedfəʊnz/ đeo tai nghe":
+            - cell "wearing headphones":
+              - strong: wearing headphones
+            - cell /ˈweərɪŋ ˈhedfəʊnz/
+            - cell "đeo tai nghe"
+          - row "listening to music /ˈlɪsnɪŋ tə ˈmjuːzɪk/ nghe nhạc":
+            - cell "listening to music":
+              - strong: listening to music
+            - cell /ˈlɪsnɪŋ tə ˈmjuːzɪk/
+            - cell "nghe nhạc"
+          - row "enjoying music /ɪnˈdʒɔɪɪŋ ˈmjuːzɪk/ tận hưởng âm nhạc":
+            - cell "enjoying music":
+              - strong: enjoying music
+            - cell /ɪnˈdʒɔɪɪŋ ˈmjuːzɪk/
+            - cell "tận hưởng âm nhạc"
+          - row "singing on stage /ˈsɪŋɪŋ ɒn steɪdʒ/ hát trên sân khấu":
+            - cell "singing on stage":
+              - strong: singing on stage
+            - cell /ˈsɪŋɪŋ ɒn steɪdʒ/
+            - cell "hát trên sân khấu"
+          - row "playing the piano /ˈpleɪɪŋ ðə piˈænəʊ/ chơi piano":
+            - cell "playing the piano":
+              - strong: playing the piano
+            - cell /ˈpleɪɪŋ ðə piˈænəʊ/
+            - cell "chơi piano"
+          - row "playing the guitar /ˈpleɪɪŋ ðə ɡɪˈtɑː/ chơi ghi-ta":
+            - cell "playing the guitar":
+              - strong: playing the guitar
+            - cell /ˈpleɪɪŋ ðə ɡɪˈtɑː/
+            - cell "chơi ghi-ta"
+          - row "dancing /ˈdɑːnsɪŋ/ khiêu vũ":
+            - cell "dancing":
+              - strong: dancing
+            - cell /ˈdɑːnsɪŋ/
+            - cell "khiêu vũ"
+          - row "watching a film in a cinema /ˈwɒtʃɪŋ ə fɪlm ɪn ə ˈsɪnəmə/ xem phim ở rạp":
+            - cell "watching a film in a cinema":
+              - strong: watching a film in a cinema
+            - cell /ˈwɒtʃɪŋ ə fɪlm ɪn ə ˈsɪnəmə/
+            - cell "xem phim ở rạp"
+          - row "reading a book /ˈriːdɪŋ ə bʊk/ đọc sách":
+            - cell "reading a book":
+              - strong: reading a book
+            - cell /ˈriːdɪŋ ə bʊk/
+            - cell "đọc sách"
+          - row "cooking a meal /ˈkʊkɪŋ ə miːl/ nấu một bữa ăn":
+            - cell "cooking a meal":
+              - strong: cooking a meal
+            - cell /ˈkʊkɪŋ ə miːl/
+            - cell "nấu một bữa ăn"
+          - row "having a meal /ˈhævɪŋ ə miːl/ đang ăn một bữa ăn":
+            - cell "having a meal":
+              - strong: having a meal
+            - cell /ˈhævɪŋ ə miːl/
+            - cell "đang ăn một bữa ăn"
+          - row "eating fast food /ˈiːtɪŋ fɑːst fuːd/ ăn đồ ăn nhanh":
+            - cell "eating fast food":
+              - strong: eating fast food
+            - cell /ˈiːtɪŋ fɑːst fuːd/
+            - cell "ăn đồ ăn nhanh"
+          - row "eating at home /ˈiːtɪŋ ət həʊm/ ăn ở nhà":
+            - cell "eating at home":
+              - strong: eating at home
+            - cell /ˈiːtɪŋ ət həʊm/
+            - cell "ăn ở nhà"
+          - row "eating at a restaurant /ˈiːtɪŋ ət ə ˈrestrɒnt/ ăn ở nhà hàng":
+            - cell "eating at a restaurant":
+              - strong: eating at a restaurant
+            - cell /ˈiːtɪŋ ət ə ˈrestrɒnt/
+            - cell "ăn ở nhà hàng"
+          - row "working in an office /ˈwɜːkɪŋ ɪn ən ˈɒfɪs/ làm việc trong văn phòng":
+            - cell "working in an office":
+              - strong: working in an office
+            - cell /ˈwɜːkɪŋ ɪn ən ˈɒfɪs/
+            - cell "làm việc trong văn phòng"
+          - row "working for a company /ˈwɜːkɪŋ fə ə ˈkʌmpəni/ làm việc cho một công ty":
+            - cell "working for a company":
+              - strong: working for a company
+            - cell /ˈwɜːkɪŋ fə ə ˈkʌmpəni/
+            - cell "làm việc cho một công ty"
+          - row "sitting on a boat /ˈsɪtɪŋ ɒn ə bəʊt/ ngồi trên thuyền":
+            - cell "sitting on a boat":
+              - strong: sitting on a boat
+            - cell /ˈsɪtɪŋ ɒn ə bəʊt/
+            - cell "ngồi trên thuyền"
+          - row "sitting in a car /ˈsɪtɪŋ ɪn ə kɑː/ ngồi trong ô tô":
+            - cell "sitting in a car":
+              - strong: sitting in a car
+            - cell /ˈsɪtɪŋ ɪn ə kɑː/
+            - cell "ngồi trong ô tô"
+          - row "sitting on a bus /ˈsɪtɪŋ ɒn ə bʌs/ ngồi trên xe buýt":
+            - cell "sitting on a bus":
+              - strong: sitting on a bus
+            - cell /ˈsɪtɪŋ ɒn ə bʌs/
+            - cell "ngồi trên xe buýt"
+          - row "sitting on a train /ˈsɪtɪŋ ɒn ə treɪn/ ngồi trên tàu":
+            - cell "sitting on a train":
+              - strong: sitting on a train
+            - cell /ˈsɪtɪŋ ɒn ə treɪn/
+            - cell "ngồi trên tàu"
+          - row "sitting on the beach /ˈsɪtɪŋ ɒn ðə biːtʃ/ ngồi trên bãi biển":
+            - cell "sitting on the beach":
+              - strong: sitting on the beach
+            - cell /ˈsɪtɪŋ ɒn ðə biːtʃ/
+            - cell "ngồi trên bãi biển"
+          - row "standing on a mountain /ˈstændɪŋ ɒn ə ˈmaʊntən/ đứng trên núi":
+            - cell "standing on a mountain":
+              - strong: standing on a mountain
+            - cell /ˈstændɪŋ ɒn ə ˈmaʊntən/
+            - cell "đứng trên núi"
+          - row "waiting for a train /ˈweɪtɪŋ fər ə treɪn/ đợi tàu":
+            - cell "waiting for a train":
+              - strong: waiting for a train
+            - cell /ˈweɪtɪŋ fər ə treɪn/
+            - cell "đợi tàu"
+          - row "waiting for an airplane /ˈweɪtɪŋ fər ən ˈeəpleɪn/ đợi máy bay":
+            - cell "waiting for an airplane":
+              - strong: waiting for an airplane
+            - cell /ˈweɪtɪŋ fər ən ˈeəpleɪn/
+            - cell "đợi máy bay"
+          - row "feeding a horse /ˈfiːdɪŋ ə hɔːs/ cho ngựa ăn":
+            - cell "feeding a horse":
+              - strong: feeding a horse
+            - cell /ˈfiːdɪŋ ə hɔːs/
+            - cell "cho ngựa ăn"
+          - row "riding a horse /ˈraɪdɪŋ ə hɔːs/ cưỡi ngựa":
+            - cell "riding a horse":
+              - strong: riding a horse
+            - cell /ˈraɪdɪŋ ə hɔːs/
+            - cell "cưỡi ngựa"
+          - row "riding a camel /ˈraɪdɪŋ ə ˈkæml/ cưỡi lạc đà":
+            - cell "riding a camel":
+              - strong: riding a camel
+            - cell /ˈraɪdɪŋ ə ˈkæml/
+            - cell "cưỡi lạc đà"
+          - row "riding a bike /ˈraɪdɪŋ ə baɪk/ đi xe đạp":
+            - cell "riding a bike":
+              - strong: riding a bike
+            - cell /ˈraɪdɪŋ ə baɪk/
+            - cell "đi xe đạp"
+          - row "driving a car /ˈdraɪvɪŋ ə kɑː/ lái xe":
+            - cell "driving a car":
+              - strong: driving a car
+            - cell /ˈdraɪvɪŋ ə kɑː/
+            - cell "lái xe"
+          - row "taking a photo /ˈteɪkɪŋ ə ˈfəʊtəʊ/ chụp ảnh":
+            - cell "taking a photo":
+              - strong: taking a photo
+            - cell /ˈteɪkɪŋ ə ˈfəʊtəʊ/
+            - cell "chụp ảnh"
+          - row "having a picnic /ˈhævɪŋ ə ˈpɪknɪk/ đi dã ngoại":
+            - cell "having a picnic":
+              - strong: having a picnic
+            - cell /ˈhævɪŋ ə ˈpɪknɪk/
+            - cell "đi dã ngoại"
+          - row "travelling /ˈtrævəlɪŋ/ đi du lịch":
+            - cell "travelling":
+              - strong: travelling
+            - cell /ˈtrævəlɪŋ/
+            - cell "đi du lịch"
+          - row "sitting on the grass /ˈsɪtɪŋ ɒn ðə ɡrɑːs/ ngồi trên cỏ":
+            - cell "sitting on the grass":
+              - strong: sitting on the grass
+            - cell /ˈsɪtɪŋ ɒn ðə ɡrɑːs/
+            - cell "ngồi trên cỏ"
+          - row "going shopping /ˈɡəʊɪŋ ˈʃɒpɪŋ/ đi mua sắm":
+            - cell "going shopping":
+              - strong: going shopping
+            - cell /ˈɡəʊɪŋ ˈʃɒpɪŋ/
+            - cell "đi mua sắm"
+          - row "going to school /ˈɡəʊɪŋ tə skuːl/ đi học":
+            - cell "going to school":
+              - strong: going to school
+            - cell /ˈɡəʊɪŋ tə skuːl/
+            - cell "đi học"
+          - row "going to work /ˈɡəʊɪŋ tə wɜːk/ đi làm":
+            - cell "going to work":
+              - strong: going to work
+            - cell /ˈɡəʊɪŋ tə wɜːk/
+            - cell "đi làm"
+          - row "watering flowers /ˈwɔːtərɪŋ ˈflaʊəz/ tưới hoa":
+            - cell "watering flowers":
+              - strong: watering flowers
+            - cell /ˈwɔːtərɪŋ ˈflaʊəz/
+            - cell "tưới hoa"
+          - row "working in a garden /ˈwɜːkɪŋ ɪn ə ˈɡɑːdn/ làm vườn":
+            - cell "working in a garden":
+              - strong: working in a garden
+            - cell /ˈwɜːkɪŋ ɪn ə ˈɡɑːdn/
+            - cell "làm vườn"
+          - row "planting trees /ˈplɑːntɪŋ triːz/ trồng cây":
+            - cell "planting trees":
+              - strong: planting trees
+            - cell /ˈplɑːntɪŋ triːz/
+            - cell "trồng cây"
+          - row "working on a construction site /ˈwɜːkɪŋ ɒn ə kənˈstrʌkʃən saɪt/ làm việc trên công trường":
+            - cell "working on a construction site":
+              - strong: working on a construction site
+            - cell /ˈwɜːkɪŋ ɒn ə kənˈstrʌkʃən saɪt/
+            - cell "làm việc trên công trường"
+          - row "decorating the room /ˈdekəreɪtɪŋ ðə ruːm/ trang trí phòng":
+            - cell "decorating the room":
+              - strong: decorating the room
+            - cell /ˈdekəreɪtɪŋ ðə ruːm/
+            - cell "trang trí phòng"
+          - row "cleaning the room /ˈkliːnɪŋ ðə ruːm/ dọn phòng":
+            - cell "cleaning the room":
+              - strong: cleaning the room
+            - cell /ˈkliːnɪŋ ðə ruːm/
+            - cell "dọn phòng"
+          - row "hanging a picture /ˈhæŋɪŋ ə ˈpɪktʃə/ treo tranh":
+            - cell "hanging a picture":
+              - strong: hanging a picture
+            - cell /ˈhæŋɪŋ ə ˈpɪktʃə/
+            - cell "treo tranh"
+          - row "sitting in a wheelchair /ˈsɪtɪŋ ɪn ə ˈwiːltʃeə/ ngồi trên xe lăn":
+            - cell "sitting in a wheelchair":
+              - strong: sitting in a wheelchair
+            - cell /ˈsɪtɪŋ ɪn ə ˈwiːltʃeə/
+            - cell "ngồi trên xe lăn"
+    - heading "6. OBJECTS & DETAILS – ĐỒ VẬT & CHI TIẾT" [level=2]:
+      - strong: 6. OBJECTS & DETAILS – ĐỒ VẬT & CHI TIẾT
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Word/Phrase IPA Meaning":
+            - columnheader "Word/Phrase":
+              - strong: Word/Phrase
+            - columnheader "IPA":
+              - strong: IPA
+            - columnheader "Meaning":
+              - strong: Meaning
+        - rowgroup:
+          - row "a picture on the wall /ə ˈpɪktʃə ɒn ðə wɔːl/ một bức tranh trên tường":
+            - cell "a picture on the wall":
+              - strong: a picture on the wall
+            - cell /ə ˈpɪktʃə ɒn ðə wɔːl/
+            - cell "một bức tranh trên tường"
+          - row "a painting /ə ˈpeɪntɪŋ/ một bức tranh":
+            - cell "a painting":
+              - strong: a painting
+            - cell /ə ˈpeɪntɪŋ/
+            - cell "một bức tranh"
+          - row "a sign /ə saɪn/ biển báo":
+            - cell "a sign":
+              - strong: a sign
+            - cell /ə saɪn/
+            - cell "biển báo"
+          - row "a notice board /ə ˈnəʊtɪs bɔːd/ bảng thông báo":
+            - cell "a notice board":
+              - strong: a notice board
+            - cell /ə ˈnəʊtɪs bɔːd/
+            - cell "bảng thông báo"
+          - row "a piece of furniture /ə piːs əv ˈfɜːnɪtʃə/ một món đồ nội thất":
+            - cell "a piece of furniture":
+              - strong: a piece of furniture
+            - cell /ə piːs əv ˈfɜːnɪtʃə/
+            - cell "một món đồ nội thất"
+          - row "sports equipment /spɔːts ɪˈkwɪpmənt/ dụng cụ thể thao":
+            - cell "sports equipment":
+              - strong: sports equipment
+            - cell /spɔːts ɪˈkwɪpmənt/
+            - cell "dụng cụ thể thao"
+          - row "building materials /ˈbɪldɪŋ məˈtɪəriəlz/ vật liệu xây dựng":
+            - cell "building materials":
+              - strong: building materials
+            - cell /ˈbɪldɪŋ məˈtɪəriəlz/
+            - cell "vật liệu xây dựng"
+          - row "a shopping bag /ə ˈʃɒpɪŋ bæɡ/ túi mua sắm":
+            - cell "a shopping bag":
+              - strong: a shopping bag
+            - cell /ə ˈʃɒpɪŋ bæɡ/
+            - cell "túi mua sắm"
+          - row "a suitcase /ə ˈsuːtkeɪs/ va li":
+            - cell "a suitcase":
+              - strong: a suitcase
+            - cell /ə ˈsuːtkeɪs/
+            - cell "va li"
+          - row "a backpack /ə ˈbækpæk/ ba lô":
+            - cell "a backpack":
+              - strong: a backpack
+            - cell /ə ˈbækpæk/
+            - cell "ba lô"
+          - row "luggage /ˈlʌɡɪdʒ/ hành lý":
+            - cell "luggage":
+              - strong: luggage
+            - cell /ˈlʌɡɪdʒ/
+            - cell "hành lý"
+          - row "a vehicle /ə ˈviːəkl/ phương tiện":
+            - cell "a vehicle":
+              - strong: a vehicle
+            - cell /ə ˈviːəkl/
+            - cell "phương tiện"
+          - row "traffic lights /ˈtræfɪk laɪts/ đèn giao thông":
+            - cell "traffic lights":
+              - strong: traffic lights
+            - cell /ˈtræfɪk laɪts/
+            - cell "đèn giao thông"
+          - row "a potted plant /ə ˈpɒtɪd plɑːnt/ một chậu cây":
+            - cell "a potted plant":
+              - strong: a potted plant
+            - cell /ə ˈpɒtɪd plɑːnt/
+            - cell "một chậu cây"
+          - row "a flower vase /ə ˈflaʊə vɑːz/ một lọ hoa":
+            - cell "a flower vase":
+              - strong: a flower vase
+            - cell /ə ˈflaʊə vɑːz/
+            - cell "một lọ hoa"
+          - row "a sofa /ə ˈsəʊfə/ ghế sofa":
+            - cell "a sofa":
+              - strong: a sofa
+            - cell /ə ˈsəʊfə/
+            - cell "ghế sofa"
+          - row "an armchair /ən ˈɑːmtʃeə/ ghế bành":
+            - cell "an armchair":
+              - strong: an armchair
+            - cell /ən ˈɑːmtʃeə/
+            - cell "ghế bành"
+          - row "a coffee table /ə ˈkɒfi ˌteɪbl/ bàn trà":
+            - cell "a coffee table":
+              - strong: a coffee table
+            - cell /ə ˈkɒfi ˌteɪbl/
+            - cell "bàn trà"
+          - row "a dining table /ə ˈdaɪnɪŋ ˌteɪbl/ bàn ăn":
+            - cell "a dining table":
+              - strong: a dining table
+            - cell /ə ˈdaɪnɪŋ ˌteɪbl/
+            - cell "bàn ăn"
+          - row "a glass /ə ɡlɑːs/ cốc/ly":
+            - cell "a glass":
+              - strong: a glass
+            - cell /ə ɡlɑːs/
+            - cell "cốc/ly"
+          - row "a bowl /ə bəʊl/ bát":
+            - cell "a bowl":
+              - strong: a bowl
+            - cell /ə bəʊl/
+            - cell "bát"
+          - row "a plate /ə pleɪt/ đĩa":
+            - cell "a plate":
+              - strong: a plate
+            - cell /ə pleɪt/
+            - cell "đĩa"
+          - row "a cup and saucer /ə kʌp ənd ˈsɔːsə/ tách và đĩa lót":
+            - cell "a cup and saucer":
+              - strong: a cup and saucer
+            - cell /ə kʌp ənd ˈsɔːsə/
+            - cell "tách và đĩa lót"
+          - row "a cupboard /ə ˈkʌbəd/ tủ đựng đồ":
+            - cell "a cupboard":
+              - strong: a cupboard
+            - cell /ə ˈkʌbəd/
+            - cell "tủ đựng đồ"
+          - row "a kitchen sink /ə ˈkɪtʃɪn sɪŋk/ bồn rửa bát":
+            - cell "a kitchen sink":
+              - strong: a kitchen sink
+            - cell /ə ˈkɪtʃɪn sɪŋk/
+            - cell "bồn rửa bát"
+          - row "a lamp /ə læmp/ đèn":
+            - cell "a lamp":
+              - strong: a lamp
+            - cell /ə læmp/
+            - cell "đèn"
+          - row "a television /ə ˈtelɪvɪʒən/ tivi":
+            - cell "a television":
+              - strong: a television
+            - cell /ə ˈtelɪvɪʒən/
+            - cell "tivi"
+          - row "a remote control /ə rɪˈməʊt kənˌtrəʊl/ điều khiển từ xa":
+            - cell "a remote control":
+              - strong: a remote control
+            - cell /ə rɪˈməʊt kənˌtrəʊl/
+            - cell "điều khiển từ xa"
+          - row "a curtain /ə ˈkɜːtn/ rèm cửa":
+            - cell "a curtain":
+              - strong: a curtain
+            - cell /ə ˈkɜːtn/
+            - cell "rèm cửa"
+          - row "a carpet /ə ˈkɑːpɪt/ thảm":
+            - cell "a carpet":
+              - strong: a carpet
+            - cell /ə ˈkɑːpɪt/
+            - cell "thảm"
+          - row "merchandise /ˈmɜːtʃəndaɪs/ hàng hóa":
+            - cell "merchandise":
+              - strong: merchandise
+            - cell /ˈmɜːtʃəndaɪs/
+            - cell "hàng hóa"
+          - row "fast food /fɑːst fuːd/ đồ ăn nhanh":
+            - cell "fast food":
+              - strong: fast food
+            - cell /fɑːst fuːd/
+            - cell "đồ ăn nhanh"
+          - row "junk food /dʒʌŋk fuːd/ đồ ăn không lành mạnh":
+            - cell "junk food":
+              - strong: junk food
+            - cell /dʒʌŋk fuːd/
+            - cell "đồ ăn không lành mạnh"
+          - row "healthy food /ˈhelθi fuːd/ đồ ăn tốt cho sức khỏe":
+            - cell "healthy food":
+              - strong: healthy food
+            - cell /ˈhelθi fuːd/
+            - cell "đồ ăn tốt cho sức khỏe"
+    - heading "7. POSITION – VỊ TRÍ TRONG TRANH" [level=2]:
+      - strong: 7. POSITION – VỊ TRÍ TRONG TRANH
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Word/Phrase IPA Meaning":
+            - columnheader "Word/Phrase":
+              - strong: Word/Phrase
+            - columnheader "IPA":
+              - strong: IPA
+            - columnheader "Meaning":
+              - strong: Meaning
+        - rowgroup:
+          - row "in the foreground /ɪn ðə ˈfɔːɡraʊnd/ ở phía trước":
+            - cell "in the foreground":
+              - strong: in the foreground
+            - cell /ɪn ðə ˈfɔːɡraʊnd/
+            - cell "ở phía trước"
+          - row "in the background /ɪn ðə ˈbækɡraʊnd/ ở phía sau":
+            - cell "in the background":
+              - strong: in the background
+            - cell /ɪn ðə ˈbækɡraʊnd/
+            - cell "ở phía sau"
+          - row "in the middle of the picture /ɪn ðə ˈmɪdl əv ðə ˈpɪktʃə/ ở giữa bức tranh":
+            - cell "in the middle of the picture":
+              - strong: in the middle of the picture
+            - cell /ɪn ðə ˈmɪdl əv ðə ˈpɪktʃə/
+            - cell "ở giữa bức tranh"
+          - row "on the left-hand side /ɒn ðə left-hænd saɪd/ ở phía bên trái":
+            - cell "on the left-hand side":
+              - strong: on the left-hand side
+            - cell /ɒn ðə left-hænd saɪd/
+            - cell "ở phía bên trái"
+          - row "on the right-hand side /ɒn ðə raɪt-hænd saɪd/ ở phía bên phải":
+            - cell "on the right-hand side":
+              - strong: on the right-hand side
+            - cell /ɒn ðə raɪt-hænd saɪd/
+            - cell "ở phía bên phải"
+          - row "in the centre of the picture /ɪn ðə ˈsentər əv ðə ˈpɪktʃə/ ở chính giữa bức tranh":
+            - cell "in the centre of the picture":
+              - strong: in the centre of the picture
+            - cell /ɪn ðə ˈsentər əv ðə ˈpɪktʃə/
+            - cell "ở chính giữa bức tranh"
+          - row "in the distance /ɪn ðə ˈdɪstəns/ ở phía xa":
+            - cell "in the distance":
+              - strong: in the distance
+            - cell /ɪn ðə ˈdɪstəns/
+            - cell "ở phía xa"
+          - row "close to the camera /kləʊs tə ðə ˈkæmərə/ gần máy ảnh":
+            - cell "close to the camera":
+              - strong: close to the camera
+            - cell /kləʊs tə ðə ˈkæmərə/
+            - cell "gần máy ảnh"
+          - row "far from the camera /fɑː frəm ðə ˈkæmərə/ xa máy ảnh":
+            - cell "far from the camera":
+              - strong: far from the camera
+            - cell /fɑː frəm ðə ˈkæmərə/
+            - cell "xa máy ảnh"
+          - row "next to /nekst tuː/ bên cạnh":
+            - cell "next to":
+              - strong: next to
+            - cell /nekst tuː/
+            - cell "bên cạnh"
+          - row "in front of /ɪn frʌnt əv/ phía trước":
+            - cell "in front of":
+              - strong: in front of
+            - cell /ɪn frʌnt əv/
+            - cell "phía trước"
+          - row "behind /bɪˈhaɪnd/ phía sau":
+            - cell "behind":
+              - strong: behind
+            - cell /bɪˈhaɪnd/
+            - cell "phía sau"
+          - row "surrounded by /səˈraʊndɪd baɪ/ được bao quanh bởi":
+            - cell "surrounded by":
+              - strong: surrounded by
+            - cell /səˈraʊndɪd baɪ/
+            - cell "được bao quanh bởi"
+    - heading "8. FEELING & IMPRESSION – CẢM GIÁC KHI NHÌN TRANH" [level=2]:
+      - strong: 8. FEELING & IMPRESSION – CẢM GIÁC KHI NHÌN TRANH
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Word/Phrase IPA Meaning":
+            - columnheader "Word/Phrase":
+              - strong: Word/Phrase
+            - columnheader "IPA":
+              - strong: IPA
+            - columnheader "Meaning":
+              - strong: Meaning
+        - rowgroup:
+          - row "look peaceful /lʊk ˈpiːsfəl/ trông yên bình":
+            - cell "look peaceful":
+              - strong: look peaceful
+            - cell /lʊk ˈpiːsfəl/
+            - cell "trông yên bình"
+          - row "look relaxing /lʊk rɪˈlæksɪŋ/ trông thư giãn":
+            - cell "look relaxing":
+              - strong: look relaxing
+            - cell /lʊk rɪˈlæksɪŋ/
+            - cell "trông thư giãn"
+          - row "look lively /lʊk ˈlaɪvli/ trông sôi động":
+            - cell "look lively":
+              - strong: look lively
+            - cell /lʊk ˈlaɪvli/
+            - cell "trông sôi động"
+          - row "look exciting /lʊk ɪkˈsaɪtɪŋ/ trông thú vị/hào hứng":
+            - cell "look exciting":
+              - strong: look exciting
+            - cell /lʊk ɪkˈsaɪtɪŋ/
+            - cell "trông thú vị/hào hứng"
+          - row "look crowded /lʊk ˈkraʊdɪd/ trông đông đúc":
+            - cell "look crowded":
+              - strong: look crowded
+            - cell /lʊk ˈkraʊdɪd/
+            - cell "trông đông đúc"
+          - row "look busy /lʊk ˈbɪzi/ trông nhộn nhịp/bận rộn":
+            - cell "look busy":
+              - strong: look busy
+            - cell /lʊk ˈbɪzi/
+            - cell "trông nhộn nhịp/bận rộn"
+          - row "look quiet /lʊk ˈkwaɪət/ trông yên tĩnh":
+            - cell "look quiet":
+              - strong: look quiet
+            - cell /lʊk ˈkwaɪət/
+            - cell "trông yên tĩnh"
+          - row "look comfortable /lʊk ˈkʌmftəbl/ trông thoải mái":
+            - cell "look comfortable":
+              - strong: look comfortable
+            - cell /lʊk ˈkʌmftəbl/
+            - cell "trông thoải mái"
+          - row "look enjoyable /lʊk ɪnˈdʒɔɪəbl/ trông thú vị":
+            - cell "look enjoyable":
+              - strong: look enjoyable
+            - cell /lʊk ɪnˈdʒɔɪəbl/
+            - cell "trông thú vị"
+          - row "look stressful /lʊk ˈstresfəl/ trông căng thẳng":
+            - cell "look stressful":
+              - strong: look stressful
+            - cell /lʊk ˈstresfəl/
+            - cell "trông căng thẳng"
+          - row "look beautiful /lʊk ˈbjuːtɪfəl/ trông đẹp":
+            - cell "look beautiful":
+              - strong: look beautiful
+            - cell /lʊk ˈbjuːtɪfəl/
+            - cell "trông đẹp"
+          - row "look impressive /lʊk ɪmˈpresɪv/ trông ấn tượng":
+            - cell "look impressive":
+              - strong: look impressive
+            - cell /lʊk ɪmˈpresɪv/
+            - cell "trông ấn tượng"
+          - row "create a relaxing atmosphere /kriˈeɪt ə rɪˈlæksɪŋ ˈætməsfɪə/ tạo không khí thư giãn":
+            - cell "create a relaxing atmosphere":
+              - strong: create a relaxing atmosphere
+            - cell /kriˈeɪt ə rɪˈlæksɪŋ ˈætməsfɪə/
+            - cell "tạo không khí thư giãn"
+          - row "create a lively atmosphere /kriˈeɪt ə ˈlaɪvli ˈætməsfɪə/ tạo không khí sôi động":
+            - cell "create a lively atmosphere":
+              - strong: create a lively atmosphere
+            - cell /kriˈeɪt ə ˈlaɪvli ˈætməsfɪə/
+            - cell "tạo không khí sôi động"
+          - row "create a peaceful atmosphere /kriˈeɪt ə ˈpiːsfəl ˈætməsfɪə/ tạo không khí yên bình":
+            - cell "create a peaceful atmosphere":
+              - strong: create a peaceful atmosphere
+            - cell /kriˈeɪt ə ˈpiːsfəl ˈætməsfɪə/
+            - cell "tạo không khí yên bình"
+          - row "give me a feeling of peace /ɡɪv miː ə ˈfiːlɪŋ əv piːs/ mang lại cảm giác bình yên":
+            - cell "give me a feeling of peace":
+              - strong: give me a feeling of peace
+            - cell /ɡɪv miː ə ˈfiːlɪŋ əv piːs/
+            - cell "mang lại cảm giác bình yên"
+          - row "give me a feeling of excitement /ɡɪv miː ə ˈfiːlɪŋ əv ɪkˈsaɪtmənt/ mang lại cảm giác hào hứng":
+            - cell "give me a feeling of excitement":
+              - strong: give me a feeling of excitement
+            - cell /ɡɪv miː ə ˈfiːlɪŋ əv ɪkˈsaɪtmənt/
+            - cell "mang lại cảm giác hào hứng"
+          - row "make me feel relaxed /meɪk miː fiːl rɪˈlækst/ khiến tôi cảm thấy thư giãn":
+            - cell "make me feel relaxed":
+              - strong: make me feel relaxed
+            - cell /meɪk miː fiːl rɪˈlækst/
+            - cell "khiến tôi cảm thấy thư giãn"
+          - row "make me feel happy /meɪk miː fiːl ˈhæpi/ khiến tôi cảm thấy vui":
+            - cell "make me feel happy":
+              - strong: make me feel happy
+            - cell /meɪk miː fiːl ˈhæpi/
+            - cell "khiến tôi cảm thấy vui"
+          - row "make me feel calm /meɪk miː fiːl kɑːm/ khiến tôi cảm thấy bình tĩnh":
+            - cell "make me feel calm":
+              - strong: make me feel calm
+            - cell /meɪk miː fiːl kɑːm/
+            - cell "khiến tôi cảm thấy bình tĩnh"
+          - row "give the picture a positive feeling /ɡɪv ðə ˈpɪktʃə ə ˈpɒzətɪv ˈfiːlɪŋ/ tạo cho bức tranh cảm giác tích cực":
+            - cell "give the picture a positive feeling":
+              - strong: give the picture a positive feeling
+            - cell /ɡɪv ðə ˈpɪktʃə ə ˈpɒzətɪv ˈfiːlɪŋ/
+            - cell "tạo cho bức tranh cảm giác tích cực"
+          - row "give the picture a warm feeling /ɡɪv ðə ˈpɪktʃə ə wɔːm ˈfiːlɪŋ/ tạo cảm giác ấm áp":
+            - cell "give the picture a warm feeling":
+              - strong: give the picture a warm feeling
+            - cell /ɡɪv ðə ˈpɪktʃə ə wɔːm ˈfiːlɪŋ/
+            - cell "tạo cảm giác ấm áp"
+          - row "give the picture a natural feeling /ɡɪv ðə ˈpɪktʃə ə ˈnætʃərəl ˈfiːlɪŋ/ tạo cảm giác tự nhiên":
+            - cell "give the picture a natural feeling":
+              - strong: give the picture a natural feeling
+            - cell /ɡɪv ðə ˈpɪktʃə ə ˈnætʃərəl ˈfiːlɪŋ/
+            - cell "tạo cảm giác tự nhiên"
+    - heading "9. SIMILARITIES – ĐIỂM GIỐNG NHAU" [level=2]:
+      - strong: 9. SIMILARITIES – ĐIỂM GIỐNG NHAU
+    - figure:
+      - table:
+        - rowgroup:
+          - row "Word/Phrase IPA Meaning":
+            - columnheader "Word/Phrase":
+              - strong: Word/Phrase
+            - columnheader "IPA":
+              - strong: IPA
+            - columnheader "Meaning":
+              - strong: Meaning
+        - rowgroup:
+          - row "studying /ˈstʌdiɪŋ/ đang học tập":
+            - cell "studying":
+              - strong: studying
+            - cell /ˈstʌdiɪŋ/
+            - cell "đang học tập"
+          - row "working /ˈwɜːkɪŋ/ đang làm việc":
+            - cell "working":
+              - strong: working
+            - cell /ˈwɜːkɪŋ/
+            - cell "đang làm việc"
+          - row "working in groups /ˈwɜːkɪŋ ɪn ɡruːps/ làm việc nhóm":
+            - cell "working in groups":
+              - strong: working in groups
+            - cell /ˈwɜːkɪŋ ɪn ɡruːps/
+            - cell "làm việc nhóm"
+          - row "studying together /ˈstʌdiɪŋ təˈɡeðə/ học cùng nhau":
+            - cell "studying together":
+              - strong: studying together
+            - cell /ˈstʌdiɪŋ təˈɡeðə/
+            - cell "học cùng nhau"
+          - row "working together /ˈwɜːkɪŋ təˈɡeðə/ làm việc cùng nhau":
+            - cell "working together":
+              - strong: working together
+            - cell /ˈwɜːkɪŋ təˈɡeðə/
+            - cell "làm việc cùng nhau"
+          - row "different places to live /ˈdɪfrənt ˈpleɪsɪz tə lɪv/ những nơi ở khác nhau":
+            - cell "different places to live":
+              - strong: different places to live
+            - cell /ˈdɪfrənt ˈpleɪsɪz tə lɪv/
+            - cell "những nơi ở khác nhau"
+          - row "different lifestyles /ˈdɪfrənt ˈlaɪfstaɪlz/ những phong cách sống khác nhau":
+            - cell "different lifestyles":
+              - strong: different lifestyles
+            - cell /ˈdɪfrənt ˈlaɪfstaɪlz/
+            - cell "những phong cách sống khác nhau"
+          - row "different living environments /ˈdɪfrənt ˈlɪvɪŋ ɪnˈvaɪərənmənts/ những môi trường sống khác nhau":
+            - cell "different living environments":
+              - strong: different living environments
+            - cell /ˈdɪfrənt ˈlɪvɪŋ ɪnˈvaɪərənmənts/
+            - cell "những môi trường sống khác nhau"
+          - row "having meals /ˈhævɪŋ miːlz/ đang dùng bữa/ăn uống":
+            - cell "having meals":
+              - strong: having meals
+            - cell /ˈhævɪŋ miːlz/
+            - cell "đang dùng bữa/ăn uống"
+          - row "dining /ˈdaɪnɪŋ/ đang dùng bữa/ăn uống":
+            - cell "dining":
+              - strong: dining
+            - cell /ˈdaɪnɪŋ/
+            - cell "đang dùng bữa/ăn uống"
+          - row "playing sports /ˈpleɪɪŋ spɔːts/ đang chơi thể thao":
+            - cell "playing sports":
+              - strong: playing sports
+            - cell /ˈpleɪɪŋ spɔːts/
+            - cell "đang chơi thể thao"
+          - row "doing volunteer work /ˈduːɪŋ ˌvɒlənˈtɪə wɜːk/ đang làm tình nguyện":
+            - cell "doing volunteer work":
+              - strong: doing volunteer work
+            - cell /ˈduːɪŋ ˌvɒlənˈtɪə wɜːk/
+            - cell "đang làm tình nguyện"
+          - row "using public transport /ˈjuːzɪŋ ˈpʌblɪk ˈtrænspɔːt/ đang sử dụng phương tiện giao thông công cộng":
+            - cell "using public transport":
+              - strong: using public transport
+            - cell /ˈjuːzɪŋ ˈpʌblɪk ˈtrænspɔːt/
+            - cell "đang sử dụng phương tiện giao thông công cộng"
+          - row "travelling /ˈtrævəlɪŋ/ đang đi du lịch":
+            - cell "travelling":
+              - strong: travelling
+            - cell /ˈtrævəlɪŋ/
+            - cell "đang đi du lịch"
+          - row "enjoying music /ɪnˈdʒɔɪɪŋ ˈmjuːzɪk/ đang tận hưởng âm nhạc":
+            - cell "enjoying music":
+              - strong: enjoying music
+            - cell /ɪnˈdʒɔɪɪŋ ˈmjuːzɪk/
+            - cell "đang tận hưởng âm nhạc"
+          - row "taking part in outdoor activities /ˈteɪkɪŋ pɑːt ɪn ˈaʊtdɔː ˌækˈtɪvətiz/ đang tham gia các hoạt động ngoài trời":
+            - cell "taking part in outdoor activities":
+              - strong: taking part in outdoor activities
+            - cell /ˈteɪkɪŋ pɑːt ɪn ˈaʊtdɔː ˌækˈtɪvətiz/
+            - cell "đang tham gia các hoạt động ngoài trời"
+          - row "taking part in indoor activities /ˈteɪkɪŋ pɑːt ɪn ˈɪndɔː ˌækˈtɪvətiz/ đang tham gia các hoạt động trong nhà":
+            - cell "taking part in indoor activities":
+              - strong: taking part in indoor activities
+            - cell /ˈteɪkɪŋ pɑːt ɪn ˈɪndɔː ˌækˈtɪvətiz/
+            - cell "đang tham gia các hoạt động trong nhà"
+          - row "spending time together /ˈspendɪŋ taɪm təˈɡeðə/ đang dành thời gian cùng nhau":
+            - cell "spending time together":
+              - strong: spending time together
+            - cell /ˈspendɪŋ taɪm təˈɡeðə/
+            - cell "đang dành thời gian cùng nhau"
+          - row "taking part in social activities /ˈteɪkɪŋ pɑːt ɪn ˈsəʊʃəl ˌækˈtɪvətiz/ đang tham gia các hoạt động xã hội":
+            - cell "taking part in social activities":
+              - strong: taking part in social activities
+            - cell /ˈteɪkɪŋ pɑːt ɪn ˈsəʊʃəl ˌækˈtɪvətiz/
+            - cell "đang tham gia các hoạt động xã hội"

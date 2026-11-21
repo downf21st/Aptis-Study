@@ -1,0 +1,463 @@
+  - main:
+    - navigation "Breadcrumb":
+      - link "Hướng dẫn":
+        - /url: https://milaedu.com/instructions
+      - text: / Nói viết form A2 (cho hs mất gốc)
+    - heading "Nói viết form A2 (cho hs mất gốc)" [level=1]
+    - paragraph: Cập nhật lúc 09:32 - 19/11/2026
+    - paragraph:
+      - strong: Form 2 cho các bạn mất gốc, mục tiêu A2
+    - paragraph
+    - paragraph:
+      - strong: Writing
+    - paragraph:
+      - strong: Part 2
+    - paragraph: Thường hỏi lý do tham gia câu lạc bộ nên cứ trả lời là thích làm các hoạt động giống tên câu lạc bộ.
+    - paragraph:
+      - strong: I like reading books/watching films/walking/ playing sports…
+    - paragraph:
+      - strong: It helps me relax, reduce stress, improve my health, improve knowledge, make new friends, learn new things, lose weight, keep fit….
+    - paragraph:
+      - strong: Part 3
+    - paragraph: Cố gắng trả lời nếu hiểu câu hỏi.
+    - paragraph: Không thì chuyển you thành I, my thành your bỏ tử hỏi và chép một đoạn xuống.
+    - paragraph: Trong câu hỏi có đoạn bắt đầu bằng chữ I thì chép nguyên đoạn đó xuống.
+    - paragraph:
+      - text: Có chữ opinion thì viết
+      - strong: ": I agree"
+      - text: (chép từ chỗ that xuống, đổi You = I, Your = My)
+    - paragraph: "có thể thêm một số câu trước khi trả lời để tăng thêm từ ví dụ: I’m glad to talk to you/ this is an interesting question, thank you for your welcome….."
+    - paragraph:
+      - strong: "Part 4:"
+    - paragraph:
+      - strong: Học thuộc và gõ y nguyên 2 bức thư sau vào hai vị trí trống. Chú ý viết đúng chính tả chấm, phẩy.
+    - paragraph:
+      - strong: Cho người bạn
+    - paragraph:
+      - strong: Hi Tim,
+    - paragraph: How are you these days? I hope you and your family are well. I am writing this email to tell you some news about my…..club
+    - paragraph: I'd love to hear your thoughts on this.
+    - paragraph: Let's catch up soon and discuss some suggestions.
+    - paragraph: Bye for now,
+    - paragraph: Kí tên mình
+    - paragraph
+    - paragraph:
+      - strong: Hoặc
+    - paragraph: Hi …..,
+    - paragraph:
+      - text: How are your family and your work? I hope all is well with you. Have you read the notice from the ….. club? I’m thinking of
+      - strong: sending
+      - text: the manager an email with my ideas.
+    - paragraph: What do you think?
+    - paragraph: Love, ………
+    - paragraph
+    - paragraph:
+      - strong: Cho quản lý
+    - paragraph: Dear Club Manager,
+    - paragraph: I hope this email finds you well. My name is ….. I am …. years old and from …... I have been a member of the …… club for …. months. I am writing to express my thoughts and suggestions about the recent notice I received from the club.
+    - paragraph: Regarding the topic you mentioned in the mail, I recommend posting this information on our club’s forum so that members could share their suggestions. Additionally, the club could hold a meeting to gather feedback from the members.
+    - paragraph: I hope my ideas are helpful, and I am looking forward to hearing from you
+    - paragraph: Best regards, kí tên
+    - paragraph:
+      - strong: Hoặc
+    - paragraph: Dear Club Manager,
+    - paragraph: My name is …….., and I have been an active member of the club for more than a year. I am writing to share my thoughts and suggestions regarding the recent announcement from our club. After reading the notice, I felt …..(vui, buồn…nếu hiểu đề, không hiểu thì bỏ qua phần này)
+    - paragraph: In my opinion, it would be helpful if the club provided more detailed information on the forum so that members could share their opinions easily. Additionally, organizing a short meeting or online discussion would allow everyone to understand the purpose of the announcement and offer useful feedback.
+    - paragraph: I hope my suggestions are helpful. Thank you for taking the time to consider my ideas.
+    - paragraph: I look forward to hearing your response.
+    - paragraph: Sincerely,
+    - paragraph: kí tên mình vào đây
+    - paragraph:
+      - strong: Hoặc
+    - paragraph: Dear Club Manager,
+    - paragraph: My name is………, and I have been a member of the club for over six months. I am writing in response to the notice you sent this morning.
+    - paragraph: Regarding the issue mentioned in your email, I suggest arranging a meeting or creating an online survey to collect ideas. This would provide an opportunity for all club members, including myself, to share our ideas. I have talked to other people and found that they share my opinion.
+    - paragraph: I hope my suggestions are helpful, and I look forward to hearing from you soon.
+    - paragraph: Kind regards, Kí tên
+    - paragraph:
+      - strong: Cách 2 dành cho những bạn hiểu và trích được đề
+    - paragraph:
+      - strong: Viết thư cho bạn
+    - paragraph: Hi Tim,
+    - paragraph:
+      - text: How are you these days? I hope you and your family are well. I am writing to tell you some news related to my ……….. club.
+      - strong: (trích ý chính của đề bài).
+      - text: I'd love to hear your thoughts on this.
+    - paragraph: Please write to me soon and let me know what you think.
+    - paragraph: Bye for now
+    - paragraph: Kí tên.
+    - paragraph:
+      - strong: Hoặc
+    - paragraph: Hello Quan,
+    - paragraph:
+      - text: How’s it going? I hope all is well with you. I have some news related to my ……….. club.
+      - strong: .(trích ý chính của đề bài).
+      - text: Your input would be invaluable! Let's catch up soon and discuss some suggestions.
+    - paragraph: Best,
+    - paragraph:
+      - strong: 2. Email cho quản lý
+    - paragraph: Dear Sir/ Manager
+    - paragraph: My name is ….. I am …. years old and from …... I have been a member of the …… club for seven months. I am writing to express my thoughts and suggestions regarding the recent notice I received from the club.
+    - paragraph:
+      - text: According to the news,
+      - strong: (trích ý chính của đề bài).
+      - text: In my opinion, it would be helpful if the club posted this information on its forum so that members could share their suggestions. Additionally, the club could hold a meeting to gather feedback from the members.
+    - paragraph: I hope my ideas are helpful, and I am looking forward to hearing from you
+    - paragraph: Best regards,
+    - paragraph: kí tên
+    - paragraph
+    - paragraph:
+      - strong: Speaking
+    - paragraph
+    - paragraph:
+      - strong: Video đọc các từ hay dùng
+    - paragraph
+    - paragraph:
+      - link "https://drive.google.com/file/d/1wDOQ27WJY4_6_eB-GqIJLEG4McFu9o9P/view?usp=sharing":
+        - /url: https://drive.google.com/file/d/1wDOQ27WJY4_6_eB-GqIJLEG4McFu9o9P/view?usp=sharing
+        - strong: https://drive.google.com/file/d/1wDOQ27WJY4_6_eB-GqIJLEG4McFu9o9P/view?usp=sharing
+    - paragraph
+    - paragraph:
+      - strong: Các câu thường dùng tả tranh part 2,3
+    - paragraph
+    - paragraph: This is a picture taken indoors/ outdoors
+    - paragraph: In the picture I can see …people/ a man/ a women/ a kid/ a family
+    - paragraph: They are/ he is/ she is wearing casual clothes/ comfortable clothes/ formal clothes/T-shirt and jeans/ a white shirt
+    - paragraph: They are/ he is/she is smiling/talking…
+    - paragraph: He is handsome
+    - paragraph: She is beautiful
+    - paragraph: They are happy
+    - paragraph: I can see … đồ vật (food/ table/sofa…)
+    - paragraph: There are many trees
+    - paragraph: The weather is nice/good/ beautiful
+    - paragraph: This is a nice picture and I love this picture very much
+    - paragraph
+    - paragraph:
+      - strong: "Tả tranh part 3: Tương tự như part 2, tách hai tranh ra thôi."
+    - paragraph: In the first picture I can see …people
+    - paragraph: In the second picture there are/ is ….
+    - paragraph: I like the first picture/ the second picture because…….
+    - paragraph
+    - paragraph:
+      - strong: Câu hỏi phụ part 2, 3
+    - paragraph: Hiểu câu hỏi thì cố gắng trả lời không thì cố gắng đoán theo từ mình biết và nội dung tranh.
+    - paragraph: Lái các câu trả lời theo hướng sở thích và các cụm từ thường dùng.
+    - paragraph
+    - paragraph: I like watching films/ listening to music/ playing games
+    - paragraph: I often do it with my friends (who)
+    - paragraph: I do it in my free time. (when)
+    - paragraph
+    - paragraph:
+      - strong: It helps me relax, reduce stress, improve my health, improve knowledge, make new friends, learn new things, lose weight, keep fit, recharge my energy, boost my mood, connect with other people, refresh my mind….
+    - paragraph:
+      - strong: I am very happy.
+    - paragraph
+    - paragraph:
+      - strong: Cách trả lời nếu không hiểu đề part 4
+    - paragraph
+    - paragraph:
+      - text: My name is …. I am twenty years old. I live in ……. city. I am a student. I like reading books and cooking. Now let me tell you about a time I…
+      - strong: đọc lại đề bài từ chỗ tell a time...
+    - paragraph:
+      - strong: Rồi cố nói 1,2 câu liên quan đến chủ đề bài nói, nếu không thể nói được thì nói tiếp như bên dưới
+    - paragraph: This topic is very interesting, but it’s difficult for me to explain now. I am studying English, so I hope to answer better in the future.
+    - paragraph: This is my answer. I hope you like it. Thank you for listening.
+    - paragraph
+    - paragraph: Tên tôi là… tôi 20 tuổi. tôi sống ở … tôi là sinh viên. Tôi thích đọc sách và nấu ăn. Bây giờ tôi muốn trả lời câu hỏi … đọc lại đề từ chỗ tell me a time…
+    - paragraph: Chủ đề này rất hay nhưng tiếng anh của tôi không tốt, do vậy tôi không thể kể câu chuyện của tôi cho bạn. Tôi đang học tiếng anh và hy vọng tôi có thể trả lời bạn sau. Cảm ơn vì đã lắng nghe.
+    - paragraph
+    - paragraph
+    - paragraph:
+      - strong: Hoặc ghép đề học tiếng anh
+    - paragraph
+    - paragraph:
+      - text: My name is …. I am twenty years old. I live in …. I am a student at …. . I love reading books and travelling.
+      - strong: Now let me tell you about a time when I…+ tên đề bài.
+    - paragraph: I am studying English at Language Link Centre. At first, my English was not good and I couldn’t talk in English with my friends and teachers at school.
+    - paragraph
+    - paragraph: When I studied English here, I + đề bài
+    - paragraph:
+      - strong: cố nói 1,2 câu liên quan đến chủ đề bài nếu có thể.
+    - paragraph
+    - paragraph: I try to study English. Now, my English is better.I can speak English with my friends and my teachers.
+    - paragraph: I like studying English because it helps me learn new things and improve my knowledge.
+    - paragraph
+    - paragraph: This is my answer. I hope you like it. Thank you for listening.
+    - paragraph
+    - paragraph:
+      - strong: Tham khảo cách ghép đề mức độ đơn giản, nếu phát âm tốt, nói to, rõ ràng vẫn có thể lên được B1
+    - paragraph
+    - paragraph:
+      - strong: 1. Tell me a time you attended/took part in a course, learned a new thing – tham gia khoá học/ học điều mới
+    - paragraph:
+      - text: My name is …. I am twenty years old. I live in …. I am a student at Hanoi University. I love reading books and travelling.
+      - strong: Now let me tell you about a time when + I attended/took part in a course, learned a new thing
+    - paragraph: I am studying English at Anna Centre. At first, my English was not good, I couldn’t talk in English with my friends àn teachers at school.
+    - paragraph:
+      - strong: When I studied English here, I learned a new thing.
+    - paragraph:
+      - strong: I learned new words and grammar.
+    - paragraph: I try to study English. Now, my English is better. I can speak English with my friends and my teachers.
+    - paragraph: I like studying English because it helps me learn new things and improve my knowledge.
+    - paragraph
+    - paragraph:
+      - strong: "2."
+      - strong: Tell me a time you had many choices - kể lần bạn có nhiều lựa chọn
+    - paragraph:
+      - text: My name is …. I am twenty years old. I live in …. I am a student at Hanoi University. I love reading books and travelling.
+      - strong: Now let me tell you about a time when I had
+      - text: many choices.
+    - paragraph: I am studying English at Anna Centre. At first, my English was not good, and I couldn’t talk in English with my friends àn teachers at school.
+    - paragraph:
+      - strong: When I studied English here, I had many choices.
+    - paragraph:
+      - strong: There were many English centers but I chose the Language Link center to study.
+    - paragraph: I try to study English. Now, my English is better. I can speak English with my friends and teachers.
+    - paragraph: I like studying English because it helps me learn new things and improve my knowledge.
+    - paragraph
+    - paragraph
+    - paragraph
+    - paragraph
+    - paragraph:
+      - strong: Tổng hợp câu hỏi part 1 - Viết
+    - figure:
+      - table:
+        - rowgroup:
+          - row "STT Tiếng anh Dịch":
+            - cell "STT"
+            - cell "Tiếng anh"
+            - cell "Dịch"
+          - row "1. What is your name? My name is Hung. Tên bạn là gì? Tên tôi là Hùng":
+            - cell "1."
+            - cell "What is your name? My name is Hung.":
+              - paragraph: What is your name?
+              - paragraph: My name is Hung.
+            - cell "Tên bạn là gì? Tên tôi là Hùng":
+              - paragraph: Tên bạn là gì?
+              - paragraph: Tên tôi là Hùng
+          - row "2. What do you do? I am a student. Bạn làm nghề gì? Tôi là 1 học sinh":
+            - cell "2."
+            - cell "What do you do? I am a student.":
+              - paragraph: What do you do?
+              - paragraph: I am a student.
+            - cell "Bạn làm nghề gì? Tôi là 1 học sinh":
+              - paragraph: Bạn làm nghề gì?
+              - paragraph: Tôi là 1 học sinh
+          - row "3. Where do you live? I live in Ho Chi Minh city. Bạn sống ở đâu? Tôi sống ở Tp. HCM":
+            - cell "3."
+            - cell "Where do you live? I live in Ho Chi Minh city.":
+              - paragraph: Where do you live?
+              - paragraph: I live in Ho Chi Minh city.
+            - cell "Bạn sống ở đâu? Tôi sống ở Tp. HCM":
+              - paragraph: Bạn sống ở đâu?
+              - paragraph: Tôi sống ở Tp. HCM
+          - row "4. Where are you from? I am from Ho Chi Minh city. Bạn đến từ đâu? Tôi đến từ Tp. HCM.":
+            - cell "4."
+            - cell "Where are you from? I am from Ho Chi Minh city.":
+              - paragraph: Where are you from?
+              - paragraph: I am from Ho Chi Minh city.
+            - cell "Bạn đến từ đâu? Tôi đến từ Tp. HCM.":
+              - paragraph: Bạn đến từ đâu?
+              - paragraph: Tôi đến từ Tp. HCM.
+          - row "5. How are you? I am fine. Bạn khoẻ không? Tôi khoẻ.":
+            - cell "5."
+            - cell "How are you? I am fine.":
+              - paragraph: How are you?
+              - paragraph: I am fine.
+            - cell "Bạn khoẻ không? Tôi khoẻ."
+          - row "6. What is the weather like today? It is hot. The weather today is hot. Thời tiết hôm nay thế nào? Trời nóng. Thời tiết hôm nay nóng.":
+            - cell "6."
+            - cell "What is the weather like today? It is hot. The weather today is hot.":
+              - paragraph: What is the weather like today?
+              - paragraph: It is hot.
+              - paragraph: The weather today is hot.
+            - cell "Thời tiết hôm nay thế nào? Trời nóng. Thời tiết hôm nay nóng.":
+              - paragraph: Thời tiết hôm nay thế nào?
+              - paragraph: Trời nóng.
+              - paragraph: Thời tiết hôm nay nóng.
+          - row "7. What is your favorite time of year? My favorite time of year is summer. It’s summer. I like summer. Thời gian yêu thích trong năm của bạn là gì? Thời gian gian yêu thích trong năm của tôi là mùa hè Đó là mùa hè. Tôi thích mùa hè.":
+            - cell "7."
+            - cell "What is your favorite time of year? My favorite time of year is summer. It’s summer. I like summer.":
+              - paragraph: What is your favorite time of year?
+              - paragraph: My favorite time of year is summer.
+              - paragraph: It’s summer.
+              - paragraph: I like summer.
+            - cell "Thời gian yêu thích trong năm của bạn là gì? Thời gian gian yêu thích trong năm của tôi là mùa hè Đó là mùa hè. Tôi thích mùa hè.":
+              - paragraph: Thời gian yêu thích trong năm của bạn là gì?
+              - paragraph: Thời gian gian yêu thích trong năm của tôi là mùa hè
+              - paragraph: Đó là mùa hè.
+              - paragraph: Tôi thích mùa hè.
+          - row "8. What is your favorite season? My favorite season is summer. It’s summer. I like summer. Mùa yêu thích của bạn là mùa gì? Mùa yêu thích trong năm của tôi là mùa hè Đó là mùa hè. Tôi thích mùa hè.":
+            - cell "8."
+            - cell "What is your favorite season? My favorite season is summer. It’s summer. I like summer.":
+              - paragraph: What is your favorite season?
+              - paragraph: My favorite season is summer.
+              - paragraph: It’s summer.
+              - paragraph: I like summer.
+            - cell "Mùa yêu thích của bạn là mùa gì? Mùa yêu thích trong năm của tôi là mùa hè Đó là mùa hè. Tôi thích mùa hè.":
+              - paragraph: Mùa yêu thích của bạn là mùa gì?
+              - paragraph: Mùa yêu thích trong năm của tôi là mùa hè
+              - paragraph: Đó là mùa hè.
+              - paragraph: Tôi thích mùa hè.
+          - row "9. What is your favourite day? It is Sunday. Ngày yêu thích của bạn là gì? Đó là chủ nhật.":
+            - cell "9."
+            - cell "What is your favourite day? It is Sunday.":
+              - paragraph: What is your favourite day?
+              - paragraph: It is Sunday.
+            - cell "Ngày yêu thích của bạn là gì? Đó là chủ nhật.":
+              - paragraph: Ngày yêu thích của bạn là gì?
+              - paragraph: Đó là chủ nhật.
+          - row "10. What's your favourite colour? My favourite colour is red. I like red. It is red. Màu sắc yêu thích của bạn là gì? Màu yêu thích của tôi là màu đỏ. Tôi thích màu đỏ. Đó là màu đỏ.":
+            - cell "10."
+            - cell "What's your favourite colour? My favourite colour is red. I like red. It is red.":
+              - paragraph: What's your favourite colour?
+              - paragraph: My favourite colour is red.
+              - paragraph: I like red.
+              - paragraph: It is red.
+            - cell "Màu sắc yêu thích của bạn là gì? Màu yêu thích của tôi là màu đỏ. Tôi thích màu đỏ. Đó là màu đỏ.":
+              - paragraph: Màu sắc yêu thích của bạn là gì?
+              - paragraph: Màu yêu thích của tôi là màu đỏ.
+              - paragraph: Tôi thích màu đỏ.
+              - paragraph: Đó là màu đỏ.
+          - row "11. What is your favourite device? My favourite device is a laptop. It is laptop. Thiết bị yêu thích của bạn là gì? Thiết bị yêu thích của tôi là máy tính xách tay. Đó là máy tính xách tay.":
+            - cell "11."
+            - cell "What is your favourite device? My favourite device is a laptop. It is laptop.":
+              - paragraph: What is your favourite device?
+              - paragraph: My favourite device is a laptop.
+              - paragraph: It is laptop.
+            - cell "Thiết bị yêu thích của bạn là gì? Thiết bị yêu thích của tôi là máy tính xách tay. Đó là máy tính xách tay.":
+              - paragraph: Thiết bị yêu thích của bạn là gì?
+              - paragraph: Thiết bị yêu thích của tôi là máy tính xách tay.
+              - paragraph: Đó là máy tính xách tay.
+          - row "12. What’s your favorite hobby? My favorite hobby is playing football. I like playing football. Sở thích của bạn là gì? Sở thích của tôi là chơi bóng đá. Tôi thích chơi bóng đá.":
+            - cell "12."
+            - cell "What’s your favorite hobby? My favorite hobby is playing football. I like playing football.":
+              - paragraph: What’s your favorite hobby?
+              - paragraph: My favorite hobby is playing football.
+              - paragraph: I like playing football.
+            - cell "Sở thích của bạn là gì? Sở thích của tôi là chơi bóng đá. Tôi thích chơi bóng đá.":
+              - paragraph: Sở thích của bạn là gì?
+              - paragraph: Sở thích của tôi là chơi bóng đá.
+              - paragraph: Tôi thích chơi bóng đá.
+          - row "13. What is your favorite sport? My favourite sport is football. It is football I like football. Môn thể thao yêu thích của bạn là gì? Môn thể thao yêu thích của Đó là bóng đá Tôi thích đá bóng":
+            - cell "13."
+            - cell "What is your favorite sport? My favourite sport is football. It is football I like football.":
+              - paragraph: What is your favorite sport?
+              - paragraph: My favourite sport is football.
+              - paragraph: It is football
+              - paragraph: I like football.
+            - cell "Môn thể thao yêu thích của bạn là gì? Môn thể thao yêu thích của Đó là bóng đá Tôi thích đá bóng":
+              - paragraph: Môn thể thao yêu thích của bạn là gì?
+              - paragraph: Môn thể thao yêu thích của
+              - paragraph: Đó là bóng đá
+              - paragraph: Tôi thích đá bóng
+          - row "14. What do you usually do when you have free time? I like listening to music. Khi rảnh rỗi bạn thường làm gì? Tôi thích nghe nhạc":
+            - cell "14."
+            - cell "What do you usually do when you have free time? I like listening to music.":
+              - paragraph: What do you usually do when you have free time?
+              - paragraph: I like listening to music.
+            - cell "Khi rảnh rỗi bạn thường làm gì? Tôi thích nghe nhạc":
+              - paragraph: Khi rảnh rỗi bạn thường làm gì?
+              - paragraph
+              - paragraph: Tôi thích nghe nhạc
+          - row "15. What do you like to do in the evening? I like listening to music. Bạn thích làm gì vào buổi tối? Tôi thường nghe nhạc.":
+            - cell "15."
+            - cell "What do you like to do in the evening? I like listening to music.":
+              - paragraph: What do you like to do in the evening?
+              - paragraph: I like listening to music.
+            - cell "Bạn thích làm gì vào buổi tối? Tôi thường nghe nhạc.":
+              - paragraph: Bạn thích làm gì vào buổi tối?
+              - paragraph: Tôi thường nghe nhạc.
+          - row "16. What did you do on the weekend? I read books. Bạn đã làm gì vào cuối tuần? Tôi đã đọc những quyển sách.":
+            - cell "16."
+            - cell "What did you do on the weekend? I read books.":
+              - paragraph: What did you do on the weekend?
+              - paragraph: I read books.
+            - cell "Bạn đã làm gì vào cuối tuần? Tôi đã đọc những quyển sách.":
+              - paragraph: Bạn đã làm gì vào cuối tuần?
+              - paragraph: Tôi đã đọc những quyển sách.
+          - row "17. How do you travel around your city/town? I go by bus. By bus. Bạn đi lại quanh thành phố/ thị trấn của bạn bằng phương tiện gì? Tôi đi bằng xe bus.":
+            - cell "17."
+            - cell "How do you travel around your city/town? I go by bus. By bus.":
+              - paragraph: How do you travel around your city/town?
+              - paragraph: I go by bus.
+              - paragraph: By bus.
+            - cell "Bạn đi lại quanh thành phố/ thị trấn của bạn bằng phương tiện gì? Tôi đi bằng xe bus.":
+              - paragraph: Bạn đi lại quanh thành phố/ thị trấn của bạn bằng phương tiện gì?
+              - paragraph: Tôi đi bằng xe bus.
+          - row "18. How do you get to work? I go to work by bus. Bu bus. Bạn đi làm bằng phương tiện gì? Tôi đi làm bằng xe bus.":
+            - cell "18."
+            - cell "How do you get to work? I go to work by bus. Bu bus.":
+              - paragraph: How do you get to work?
+              - paragraph: I go to work by bus.
+              - paragraph: Bu bus.
+            - cell "Bạn đi làm bằng phương tiện gì? Tôi đi làm bằng xe bus.":
+              - paragraph: Bạn đi làm bằng phương tiện gì?
+              - paragraph: Tôi đi làm bằng xe bus.
+          - row "19. What time do you get up? I get up at 6 o’çlock. 6 o’çlock Mấy giờ bạn thức dậy? Tôi dậy lúc 6h":
+            - cell "19."
+            - cell "What time do you get up? I get up at 6 o’çlock. 6 o’çlock":
+              - paragraph: What time do you get up?
+              - paragraph: I get up at 6 o’çlock.
+              - paragraph: 6 o’çlock
+            - cell "Mấy giờ bạn thức dậy? Tôi dậy lúc 6h":
+              - paragraph: Mấy giờ bạn thức dậy?
+              - paragraph: Tôi dậy lúc 6h
+          - row "20. What time do you go to bed? I go to bed at 11 o’çlock. 11 o’çlock. Bạn đi ngủ lúc mấy giờ? Tôi đi ngủ lúc 11h.":
+            - cell "20."
+            - cell "What time do you go to bed? I go to bed at 11 o’çlock. 11 o’çlock.":
+              - paragraph: What time do you go to bed?
+              - paragraph: I go to bed at 11 o’çlock.
+              - paragraph: 11 o’çlock.
+            - cell "Bạn đi ngủ lúc mấy giờ? Tôi đi ngủ lúc 11h.":
+              - paragraph: Bạn đi ngủ lúc mấy giờ?
+              - paragraph: Tôi đi ngủ lúc 11h.
+          - row "21. When is your birthday? My birthday is on May 6th. It is on May 6th on May 6th. Khi nào là sinh nhật của bạn? Sinh nhật tôi vào ngày 6 tháng 5. Đó là ngày 6/5":
+            - cell "21."
+            - cell "When is your birthday? My birthday is on May 6th. It is on May 6th on May 6th.":
+              - paragraph: When is your birthday?
+              - paragraph: My birthday is on May 6th.
+              - paragraph: It is on May 6th
+              - paragraph: on May 6th.
+            - cell "Khi nào là sinh nhật của bạn? Sinh nhật tôi vào ngày 6 tháng 5. Đó là ngày 6/5":
+              - paragraph: Khi nào là sinh nhật của bạn?
+              - paragraph: Sinh nhật tôi vào ngày 6 tháng 5.
+              - paragraph: Đó là ngày 6/5
+          - row "22. Where would you like to go on holiday? I like going to Vung Tau beach. Vung Tau beach. Bạn thích đi đâu vào kỳ nghỉ? Tôi muốn đi biển Vũng Tàu":
+            - cell "22."
+            - cell "Where would you like to go on holiday? I like going to Vung Tau beach. Vung Tau beach.":
+              - paragraph: Where would you like to go on holiday?
+              - paragraph: I like going to Vung Tau beach.
+              - paragraph: Vung Tau beach.
+            - cell "Bạn thích đi đâu vào kỳ nghỉ? Tôi muốn đi biển Vũng Tàu":
+              - paragraph: Bạn thích đi đâu vào kỳ nghỉ?
+              - paragraph: Tôi muốn đi biển Vũng Tàu
+          - row "23. What is a place you would like to visit in your country? I like visiting Vung Tau beach. Nơi bạn muốn đến thăm ở đất nước bạn là gì? Tôi thích đến biển Vũng tàu.":
+            - cell "23."
+            - cell "What is a place you would like to visit in your country? I like visiting Vung Tau beach.":
+              - paragraph: What is a place you would like to visit in your country?
+              - paragraph: I like visiting Vung Tau beach.
+            - cell "Nơi bạn muốn đến thăm ở đất nước bạn là gì? Tôi thích đến biển Vũng tàu.":
+              - paragraph: Nơi bạn muốn đến thăm ở đất nước bạn là gì?
+              - paragraph: Tôi thích đến biển Vũng tàu.
+          - row "24. What is your first language? It is Vietnamese. Tiếng mẹ đẻ của bạn là gì? Đó là tiếng Việt.":
+            - cell "24."
+            - cell "What is your first language? It is Vietnamese.":
+              - paragraph: What is your first language?
+              - paragraph: It is Vietnamese.
+            - cell "Tiếng mẹ đẻ của bạn là gì? Đó là tiếng Việt.":
+              - paragraph: Tiếng mẹ đẻ của bạn là gì?
+              - paragraph: Đó là tiếng Việt.
+          - row "25. Who do you usually go to the movies with? I go with my friends. Bạn thường đi xem phim với ai? Tôi đi với các bạn của tôi.":
+            - cell "25."
+            - cell "Who do you usually go to the movies with? I go with my friends.":
+              - paragraph: Who do you usually go to the movies with?
+              - paragraph: I go with my friends.
+            - cell "Bạn thường đi xem phim với ai? Tôi đi với các bạn của tôi.":
+              - paragraph: Bạn thường đi xem phim với ai?
+              - paragraph: Tôi đi với các bạn của tôi.
+    - paragraph
+    - paragraph
+    - paragraph:
+      - strong
+    - paragraph

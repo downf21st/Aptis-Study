@@ -1,0 +1,677 @@
+{
+  "source": "https://milaedu.com/practice/6",
+  "captured": "2026-11-14",
+  "expected_questions": 16,
+  "status": "questions-and-media-captured",
+  "media": [
+    {
+      "question_number": 1,
+      "question_source_id": 713,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/713/audio/0",
+      "file": "media/question-713-speaker-a.mp3",
+      "bytes": 374710,
+      "sha256": "ccafbad174c2c89979ff169a31eafabf23c8d985592ac1761d3749ff7487354a",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 1,
+      "question_source_id": 713,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/713/audio/1",
+      "file": "media/question-713-speaker-b.mp3",
+      "bytes": 323301,
+      "sha256": "950de04acd9292f23d6b3f6b533292273902ef99e1d69a4271a603e38464dd51",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 1,
+      "question_source_id": 713,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/713/audio/2",
+      "file": "media/question-713-speaker-c.mp3",
+      "bytes": 317031,
+      "sha256": "1ba0b03938f4556a28c6ae71a86a5263e924f5d34ab0e346559706d37195be11",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 1,
+      "question_source_id": 713,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/713/audio/3",
+      "file": "media/question-713-speaker-d.mp3",
+      "bytes": 349214,
+      "sha256": "2674082e64e00f36908095ac37abc6708b873c67ccc1f9de8df34f28c0b57855",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 2,
+      "question_source_id": 801,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/801/audio/0",
+      "file": "media/question-801-speaker-a.mp3",
+      "bytes": 336257,
+      "sha256": "981060f0d4d1475d7f6db64c31f48c9f91db777050c8beff0bc43bd7ff178ac6",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 2,
+      "question_source_id": 801,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/801/audio/1",
+      "file": "media/question-801-speaker-b.mp3",
+      "bytes": 379725,
+      "sha256": "6249cee96ad1c13cd52bed98a3fd3e0d9638e9086c9d98bda0a205ed104d62dd",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 2,
+      "question_source_id": 801,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/801/audio/2",
+      "file": "media/question-801-speaker-c.mp3",
+      "bytes": 350468,
+      "sha256": "3e94e90e21d1c78634aa1f1d3f599f24bec983602613982c927e1dc27ef9d1ff",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 2,
+      "question_source_id": 801,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/801/audio/3",
+      "file": "media/question-801-speaker-d.mp3",
+      "bytes": 444927,
+      "sha256": "c44d9beb08deb7a43bd4d62a4017a677cabe341eb5e6d0bbaad2a261bef15411",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 3,
+      "question_source_id": 802,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/802/audio/0",
+      "file": "media/question-802-speaker-a.mp3",
+      "bytes": 408146,
+      "sha256": "d2d2ae6527b751e0b58e626b24341048804992580bad8f9bc1095f91827f5768",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 3,
+      "question_source_id": 802,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/802/audio/1",
+      "file": "media/question-802-speaker-b.mp3",
+      "bytes": 375963,
+      "sha256": "47943dc8dfadb0bad976fedb5a0706492f0eebfdd9f2aecbcac0f9d8c8d57381",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 3,
+      "question_source_id": 802,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/802/audio/2",
+      "file": "media/question-802-speaker-c.mp3",
+      "bytes": 345034,
+      "sha256": "877e15defbb87786b6be01bc37624142e87d84b43cb8c06650fd54a0cb179eec",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 3,
+      "question_source_id": 802,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/802/audio/3",
+      "file": "media/question-802-speaker-d.mp3",
+      "bytes": 390174,
+      "sha256": "5020b2b6e2525727c1268c56f37e423374811b0528ee5d9690d83234b55ec88f",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 4,
+      "question_source_id": 803,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/803/audio/0",
+      "file": "media/question-803-speaker-a.mp3",
+      "bytes": 380979,
+      "sha256": "50832e460be31f37db47278ee01487b5f05c65e7d3eb46c3a64f500e261d8fd1",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 4,
+      "question_source_id": 803,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/803/audio/1",
+      "file": "media/question-803-speaker-b.mp3",
+      "bytes": 319539,
+      "sha256": "f2dee41342e04bb20cadcf2b60f0c9108ae0b32e597ea62b60ae33bbb66100da",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 4,
+      "question_source_id": 803,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/803/audio/2",
+      "file": "media/question-803-speaker-c.mp3",
+      "bytes": 359245,
+      "sha256": "b8ebe863c4adbebbb1b3cb1456aff0bfdbc1779c2cea7b73515778573b3e6881",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 4,
+      "question_source_id": 803,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/803/audio/3",
+      "file": "media/question-803-speaker-d.mp3",
+      "bytes": 373456,
+      "sha256": "956f8a4389eea4228773ccee80460644cd71d4ac76960ca8ba22931bdae3287b",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 5,
+      "question_source_id": 804,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/804/audio/0",
+      "file": "media/question-804-speaker-a.mp3",
+      "bytes": 368440,
+      "sha256": "0f9124fbc9a4af38057f57a9ab867a5dc10a5f2513ea7a226af54a796870ec58",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 5,
+      "question_source_id": 804,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/804/audio/1",
+      "file": "media/question-804-speaker-b.mp3",
+      "bytes": 338765,
+      "sha256": "f02f788e53e5a380cfb0e6462b977e55a96f809b5ef32bb4455c14170fc71e16",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 5,
+      "question_source_id": 804,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/804/audio/2",
+      "file": "media/question-804-speaker-c.mp3",
+      "bytes": 355483,
+      "sha256": "bb7208ba7808859286b07416ad458c150292fb4014544beacc2cc05da71ac899",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 5,
+      "question_source_id": 804,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/804/audio/3",
+      "file": "media/question-804-speaker-d.mp3",
+      "bytes": 408146,
+      "sha256": "369193378f1b31913fc5d7d1f942085829ef22aefbd75b61c78de6a5d2cf825c",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 6,
+      "question_source_id": 805,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/805/audio/0",
+      "file": "media/question-805-speaker-a.mp3",
+      "bytes": 319539,
+      "sha256": "251c7c1246013dbd8c2ee4f5880106e08073bace4364d0c8ade4800b41e5cbda",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 6,
+      "question_source_id": 805,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/805/audio/1",
+      "file": "media/question-805-speaker-b.mp3",
+      "bytes": 328734,
+      "sha256": "193e688d67b3a6d1bf3d71f101eafcc818915bd0f1281cf272413b5c1073f406",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 6,
+      "question_source_id": 805,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/805/audio/2",
+      "file": "media/question-805-speaker-c.mp3",
+      "bytes": 336257,
+      "sha256": "5bc37f0d36bbfee0c836206df41b15196ffd2dfddb86255ad33817c518a62ca3",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 6,
+      "question_source_id": 805,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/805/audio/3",
+      "file": "media/question-805-speaker-d.mp3",
+      "bytes": 315777,
+      "sha256": "ba0cae5826660ad923324e8f8041a3a40d553ba170670e668c1744eff482c6cf",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 7,
+      "question_source_id": 806,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/806/audio/0",
+      "file": "media/question-806-speaker-a.mp3",
+      "bytes": 310762,
+      "sha256": "3685eeab8ac50bb0072fac2aed5f3bb5e3678873175f0189f1c6f38c7765d63e",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 7,
+      "question_source_id": 806,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/806/audio/1",
+      "file": "media/question-806-speaker-b.mp3",
+      "bytes": 313270,
+      "sha256": "208f27cd9f17a91d03d000b7c4391de25266e43b6658a5efde940417571a6ca5",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 7,
+      "question_source_id": 806,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/806/audio/2",
+      "file": "media/question-806-speaker-c.mp3",
+      "bytes": 287774,
+      "sha256": "7cf566280eed3b7de149331a1557af4fbf40a103a698eb3c8dc0912fbdb65b69",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 7,
+      "question_source_id": 806,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/806/audio/3",
+      "file": "media/question-806-speaker-d.mp3",
+      "bytes": 309508,
+      "sha256": "72dc79be67c292a9986df8f82f0642d32c9ac163353348e65d5a25b11d420cfa",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 8,
+      "question_source_id": 807,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/807/audio/0",
+      "file": "media/question-807-speaker-a.mp3",
+      "bytes": 289028,
+      "sha256": "adced0b00988438d0c8fc8bfc5a6ff59dff36cca30d09e22eb99604c6693dba0",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 8,
+      "question_source_id": 807,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/807/audio/1",
+      "file": "media/question-807-speaker-b.mp3",
+      "bytes": 272310,
+      "sha256": "f177bd663a736dc218035c6b0c2964ead94a8d31ec25668383ef96df27a9463c",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 8,
+      "question_source_id": 807,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/807/audio/2",
+      "file": "media/question-807-speaker-c.mp3",
+      "bytes": 310762,
+      "sha256": "f0e27529165902f18141efbb04c33f6304a75f43097fc2984e7a7f2d8d2c60cf",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 8,
+      "question_source_id": 807,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/807/audio/3",
+      "file": "media/question-807-speaker-d.mp3",
+      "bytes": 246814,
+      "sha256": "3e1f87672600d78307bbdc1165c399f310133f259640fe70730f50fc2f8b022a",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 9,
+      "question_source_id": 808,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/808/audio/0",
+      "file": "media/question-808-speaker-a.mp3",
+      "bytes": 304074,
+      "sha256": "8ab81761f350477757087c7e0d788d2f311a729263d2318b10eb4602ece808e1",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 9,
+      "question_source_id": 808,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/808/audio/1",
+      "file": "media/question-808-speaker-b.mp3",
+      "bytes": 295297,
+      "sha256": "5064dfd710ab2d325ee644dc49c4c74776e5c2b99303d448c7a681774d894768",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 9,
+      "question_source_id": 808,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/808/audio/2",
+      "file": "media/question-808-speaker-c.mp3",
+      "bytes": 305746,
+      "sha256": "500c65ded5cf30951d1ea0f3a3c89fdde3ea6ce0c3d1db24c96b8d3b76b4472c",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 9,
+      "question_source_id": 808,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/808/audio/3",
+      "file": "media/question-808-speaker-d.mp3",
+      "bytes": 302821,
+      "sha256": "1b401b584aca0fb288af43c1219e30ea0eb88ec48cdfc8f510b1ce572af01f4e",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 10,
+      "question_source_id": 809,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/809/audio/0",
+      "file": "media/question-809-speaker-a.mp3",
+      "bytes": 323301,
+      "sha256": "1b045837d54cf7937bdc8ecfea6b02857da3fb646b6180a19a16a1533c97841c",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 10,
+      "question_source_id": 809,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/809/audio/1",
+      "file": "media/question-809-speaker-b.mp3",
+      "bytes": 315777,
+      "sha256": "ebe248cdeaf9ca74f18856164699ce40a25936a9a186f4fc410374f2b102f112",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 10,
+      "question_source_id": 809,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/809/audio/2",
+      "file": "media/question-809-speaker-c.mp3",
+      "bytes": 328734,
+      "sha256": "5fa3891e983030bc9232a87fe1285f315781a75d5300458a1f2b85d549b92a83",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 10,
+      "question_source_id": 809,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/809/audio/3",
+      "file": "media/question-809-speaker-d.mp3",
+      "bytes": 297805,
+      "sha256": "b6f6928f39f9ba9f2fa9f0ebbfda5a86201cc3097be0426705baaca017ca43e4",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 11,
+      "question_source_id": 810,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/810/audio/0",
+      "file": "media/question-810-speaker-a.mp3",
+      "bytes": 322047,
+      "sha256": "d942afaf5bf044377ba3aa99a9d2ea70a2aacdfa5e3520af7e8c54ecc84d2f27",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 11,
+      "question_source_id": 810,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/810/audio/1",
+      "file": "media/question-810-speaker-b.mp3",
+      "bytes": 351722,
+      "sha256": "57311cff0a9a87e1fec23ce03b869c5089c78598b7a2b7debe1b270ed4a2baa1",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 11,
+      "question_source_id": 810,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/810/audio/2",
+      "file": "media/question-810-speaker-c.mp3",
+      "bytes": 295297,
+      "sha256": "2a52571fc4f94d9523ff8079ab30fcf5913729158f8a539849ce5689e64cee86",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 11,
+      "question_source_id": 810,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/810/audio/3",
+      "file": "media/question-810-speaker-d.mp3",
+      "bytes": 301567,
+      "sha256": "8fa832955458301551b633d4943fd44eac5e609ab78845e58a78a6609b241b35",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 12,
+      "question_source_id": 811,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/811/audio/0",
+      "file": "media/question-811-speaker-a.mp3",
+      "bytes": 287774,
+      "sha256": "744ff59ec6f441de7660fe7fbb6728f5080c49f0f1f40ce088a239cbc7cd7a8f",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 12,
+      "question_source_id": 811,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/811/audio/1",
+      "file": "media/question-811-speaker-b.mp3",
+      "bytes": 282341,
+      "sha256": "48a8f74f81fc58538ba53be047482348151069158cd66c2a388981f229834c5b",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 12,
+      "question_source_id": 811,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/811/audio/2",
+      "file": "media/question-811-speaker-c.mp3",
+      "bytes": 304074,
+      "sha256": "547e14bc2e7b01fc33bea11e2d3aee4a1e67595adcdd236a11e615099cfff8bf",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 12,
+      "question_source_id": 811,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/811/audio/3",
+      "file": "media/question-811-speaker-d.mp3",
+      "bytes": 253083,
+      "sha256": "5dbc2ca24a8e09361d777a96ddb5393e7a65342b1f1e350f9d1e769e5acc48df",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 13,
+      "question_source_id": 812,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/812/audio/0",
+      "file": "media/question-812-speaker-a.mp3",
+      "bytes": 323301,
+      "sha256": "da3ef5396bf626143ca76c81c100ab885f4e83e044811606347205ca1c7f3d47",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 13,
+      "question_source_id": 812,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/812/audio/1",
+      "file": "media/question-812-speaker-b.mp3",
+      "bytes": 294043,
+      "sha256": "3aa8493b48f2648d4dcb02e0b8eedacc3c77dca8f444f0185690559184449e43",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 13,
+      "question_source_id": 812,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/812/audio/2",
+      "file": "media/question-812-speaker-c.mp3",
+      "bytes": 323301,
+      "sha256": "065c7aecd0bfcb695a82a39e2dae369ea13fb89559f50c07b681ea0bbc8b7428",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 13,
+      "question_source_id": 812,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/812/audio/3",
+      "file": "media/question-812-speaker-d.mp3",
+      "bytes": 305746,
+      "sha256": "9b8309250d43b76372a2312c28589d415f1da604b4019a73170908749cfb6e2a",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 14,
+      "question_source_id": 770,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/770/audio/0",
+      "file": "media/question-770-speaker-a.mp3",
+      "bytes": 287774,
+      "sha256": "5dafb6f5807f2a3c319c4d4467671e517d86197b5c7e3f86a678d4c680c89d85",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 14,
+      "question_source_id": 770,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/770/audio/1",
+      "file": "media/question-770-speaker-b.mp3",
+      "bytes": 287774,
+      "sha256": "08a30cd26eeaf3e8bd55a58ebac838ea012749fe8ae067a116c159ac012f3559",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 14,
+      "question_source_id": 770,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/770/audio/2",
+      "file": "media/question-770-speaker-c.mp3",
+      "bytes": 282341,
+      "sha256": "ef37f24ca0546cebccdbaa263b20994c7544214c2759809a6e5515c25ba2ca47",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 14,
+      "question_source_id": 770,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/770/audio/3",
+      "file": "media/question-770-speaker-d.mp3",
+      "bytes": 333750,
+      "sha256": "4c99742167bcd0ef44e25b9fd56fc6e6b4334668343190a9582f3746fd82860c",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 15,
+      "question_source_id": 813,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/813/audio/0",
+      "file": "media/question-813-speaker-a.mp3",
+      "bytes": 370948,
+      "sha256": "8cde6e83dd0ce070e422490fdefe766e19cdcbdd51e79dfba8a8ca8968c5d506",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 15,
+      "question_source_id": 813,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/813/audio/1",
+      "file": "media/question-813-speaker-b.mp3",
+      "bytes": 310762,
+      "sha256": "04dd0ebed3580bc0fa335bac6d6501b9b849010aaa8c7657cd2c36213d22afea",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 15,
+      "question_source_id": 813,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/813/audio/2",
+      "file": "media/question-813-speaker-c.mp3",
+      "bytes": 314523,
+      "sha256": "1ab242278b921bf6c10caef6018d97299b11abb89aff6f1944178bbc2aa0c54a",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 15,
+      "question_source_id": 813,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/813/audio/3",
+      "file": "media/question-813-speaker-d.mp3",
+      "bytes": 309508,
+      "sha256": "c6e814e7984afa0ec23f12bc7b33bcd86a941e3c70f09b3ad8f03f1b83e1f948",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 16,
+      "question_source_id": 712,
+      "speaker": "A",
+      "source": "https://milaedu.com/media/questions/712/audio/0",
+      "file": "media/question-712-speaker-a.mp3",
+      "bytes": 534573,
+      "sha256": "772a9475dae296c77cf36801eecb7f6556d2a18357d8dc42a370a40eb655e156",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 16,
+      "question_source_id": 712,
+      "speaker": "B",
+      "source": "https://milaedu.com/media/questions/712/audio/1",
+      "file": "media/question-712-speaker-b.mp3",
+      "bytes": 724032,
+      "sha256": "e9d4f72343fcfa6e20bf5b77c8f7a8cf6443bcb92b3c3e0aaa28c313ad4bb246",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 16,
+      "question_source_id": 712,
+      "speaker": "C",
+      "source": "https://milaedu.com/media/questions/712/audio/2",
+      "file": "media/question-712-speaker-c.mp3",
+      "bytes": 494829,
+      "sha256": "69b329de5dee267b5593ba7f99b1a4358569e0bb0a0552ba2478fefd3b45f046",
+      "codec": "mp3"
+    },
+    {
+      "question_number": 16,
+      "question_source_id": 712,
+      "speaker": "D",
+      "source": "https://milaedu.com/media/questions/712/audio/3",
+      "file": "media/question-712-speaker-d.mp3",
+      "bytes": 485037,
+      "sha256": "5734d9b48e75b1a3d950914229b1b06a278b643ca046d5873c11f69b9204227c",
+      "codec": "mp3"
+    }
+  ],
+  "limitations": [
+    "Part 4 capture exposed a risk that the REA workflow selected an unrelated or partial HTTP 206 media response. Each Part 2 audio needs source and completeness revalidation; checksum and codec checks alone do not establish this.",
+    "The 64 audio files were captured and associated with source question and speaker; playback has not been checked end-to-end.",
+    "Six choice entries and four speaker descriptions were captured per question. Source correct_answers arrays are empty; answers were captured earlier from visible check feedback.",
+    "The question-by-question checks were not followed by the final Complete action.",
+    "Answer keys captured by checking each question with blank selections; no final submission. Answers have not been independently checked against audio."
+  ],
+  "question_count": 16,
+  "questions_file": {
+    "path": "data/listening/practice-6/questions.json",
+    "sha256": "6b7dc29101f824d1c61b88ebb50c3bbbbc0bfec4221624d13247a19f34b85154"
+  },
+  "answer_verification": "Answers captured from the visible per-question feedback after checking with blank responses.",
+  "explanation_status": "Four speaker descriptions per question were captured as source HTML; relationship to audio is not independently verified.",
+  "media_coverage": {
+    "saved_speaker_files": 64,
+    "expected_speaker_files": 64
+  },
+  "source_fields_file": {
+    "path": "data/listening/practice-6/source-fields.json",
+    "sha256": "bdbaced9ed1b63f19724fa2097d44b6fe8838f9885c8c2ff68e6d9e4a1ff0bcc"
+  },
+  "source_fields_captured": "2026-11-18",
+  "answer_keys_file": {
+    "path": "data/listening/practice-6/answer-keys.json",
+    "sha256": "c0a4ef7ed33ad4b7cb72a646c9287aaeb2db6b4e62395fb818ac7d30ab237f5d",
+    "question_count": 16,
+    "expected_questions": 16
+  }
+}
