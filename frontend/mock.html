@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f7f7f4">
+  <title>Thi thử — Aptis Study</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="polish.css">
+  <link rel="stylesheet" href="mock.css">
+  <script src="mock.js" defer></script>
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar" aria-label="Điều hướng chính">
+      <a class="brand" href="index.html"><span class="brand-mark">a<span>.</span></span><span>aptis<span class="brand-light"> study</span><small>YOUR ENGLISH SPACE</small></span></a>
+      <div class="side-label">KHÔNG GIAN HỌC TẬP</div>
+      <nav class="nav">
+        <a class="nav-item" href="index.html"><span>◫</span> Trang chủ</a>
+        <a class="nav-item" href="index.html#skills"><span>◈</span> Các kỹ năng</a>
+        <a class="nav-item active" aria-current="page" href="mock.html"><span>▣</span> Thi thử</a>
+        <a class="nav-item" href="guides.html"><span>◇</span> Hướng dẫn</a>
+      </nav>
+      <div class="side-bottom"><div class="side-illustration">✳</div><p>Học một chút<br><strong>mỗi ngày.</strong></p><small>Mỗi bước nhỏ đều đưa bạn<br>gần hơn đến mục tiêu.</small></div>
+      <div class="profile"><span class="avatar">Đ</span><span><strong>Đông</strong><small>Hành trình Aptis</small></span><span class="profile-dots">···</span></div>
+    </aside>
+    <main class="main mock-main">
+      <header class="topbar"><div><p class="eyebrow">APTIS STUDY · THI THỬ</p><h1 id="page-title">Tạo lượt thi thử <span class="wave">✳</span></h1><p class="intro" id="page-intro">Chọn từng phần, rồi ghép thành một lượt luyện tập của riêng bạn.</p></div><div class="top-right"><span class="status-dot"></span> LƯU VÀ CHẤM TẠI THIẾT BỊ</div></header>
+      <div class="mock-width">
+        <div class="mock-notice" role="note"><strong>Thi thử luyện tập</strong><span>Đây là lượt luyện tập tự tạo, không phải Full Test chính thức. Nội dung lấy từ các bộ đã sao lưu; đáp án do nguồn cung cấp và chưa được xác minh độc lập. Lượt làm và bản nháp chỉ lưu trên thiết bị này.</span></div>
+        <nav class="wizard-steps" aria-label="Các bước tạo lượt thi">
+          <button class="wizard-step active" type="button" data-go-step="1"><span>01</span><strong>Chọn kỹ năng</strong></button>
+          <span class="wizard-line"></span>
+          <button class="wizard-step" type="button" data-go-step="2"><span>02</span><strong>Chọn bộ nguồn</strong></button>
+          <span class="wizard-line"></span>
+          <button class="wizard-step" type="button" data-go-step="3"><span>03</span><strong>Xem lại</strong></button>
+        </nav>
+        <div id="message" class="mock-message" role="status" hidden></div>
+        <section id="wizard-panel" aria-live="polite"></section>
+        <section id="exam-panel" hidden aria-live="polite"></section>
+        <section id="result-panel" hidden aria-live="polite"></section>
+      </div>
+      <footer class="footer"><span>© Aptis Study</span><span>LUYỆN TẬP THEO CÁCH CỦA BẠN ✳</span></footer>
+    </main>
+  </div>
+</body>
+</html>

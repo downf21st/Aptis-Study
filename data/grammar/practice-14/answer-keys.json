@@ -1,0 +1,303 @@
+{
+  "source": "https://milaedu.com/practice/14",
+  "captured": "2026-11-20",
+  "method": "REA per-question check with blank selection; no final submission",
+  "questions": [
+    {
+      "question_id": 608,
+      "order": 1,
+      "answer_key": {
+        "correct_option": "A",
+        "explanation": "<p>Đây là <strong>mệnh đề quan hệ</strong> nói về <strong>người </strong>→ <strong>who</strong></p><p>which → dùng cho <strong>vật</strong><br>that → không dùng sau dấu phẩy trong mệnh đề không xác định</p><p><strong>My best friend, who is from Australia, is coming to visit me next week.</strong></p><p>Bạn của tôi người đến từ Úc sẽ đến thăm tôi vào tuần tới</p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 609,
+      "order": 2,
+      "answer_key": {
+        "correct_option": "C",
+        "explanation": "<p>Unless = if…not (nếu không)</p><p>&nbsp;</p><p><strong>We'll go to the beach unless it rains tomorrow.</strong><br><i>Chúng tôi sẽ đi biển trừ khi ngày mai trời mưa.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 610,
+      "order": 3,
+      "answer_key": {
+        "correct_option": "A",
+        "explanation": "<h3><strong>used to + V&nbsp;</strong></h3><p>Dùng để nói về thói quen hoặc trạng thái trong quá khứ nhưng bây giờ không còn nữa.</p><p><strong>&nbsp;When I was a teenager, I used to have purple hair.</strong><br><i>Khi tôi còn là thiếu niên, tôi từng có mái tóc màu tím.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 611,
+      "order": 4,
+      "answer_key": {
+        "correct_option": "B",
+        "explanation": "<h3><strong>shouldn't have + V3</strong></h3><p>Dùng để phê bình hoặc hối tiếc về một hành động sai trong quá khứ.</p><p><strong>You shouldn't have done that! Now, you'll have a stomach ache.</strong><br><i>Bạn lẽ ra không nên làm thế! Bây giờ bạn sẽ bị đau bụng.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 612,
+      "order": 5,
+      "answer_key": {
+        "correct_option": "A",
+        "explanation": "<p><strong>Advice</strong> là danh từ không đếm được nên không dùng: a / an,<strong> </strong>số nhiều</p><p><strong>the</strong> chỉ dùng khi nói một lời khuyên cụ thể đã được nhắc trước đó</p><p>&nbsp;</p><p><strong>My older sister always gives me advice when I need help.</strong><br><i>Chị gái tôi luôn cho tôi lời khuyên khi tôi cần giúp đỡ.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 613,
+      "order": 6,
+      "answer_key": {
+        "correct_option": "B",
+        "explanation": "<h3><strong>although = mặc dù</strong></h3><p>Dùng để nối hai mệnh đề có ý tương phản.</p><p>&nbsp;</p><p><strong>We spend a lot of time together, although we have only known each other for a year.</strong><br><i>Chúng tôi dành rất nhiều thời gian cho nhau, mặc dù chúng tôi chỉ mới quen nhau một năm.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 614,
+      "order": 7,
+      "answer_key": {
+        "correct_option": "B",
+        "explanation": "<p>Hành động xảy ra trước → dùng quá khứ hoàn thành</p><h3>Công thức: <strong>S + had + V3</strong></h3><p>&nbsp;</p><p><strong>He had sent the message before he found out the truth.</strong><br><i>Anh ấy đã gửi tin nhắn trước khi anh ấy phát hiện ra sự thật.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 615,
+      "order": 8,
+      "answer_key": {
+        "correct_option": "C",
+        "explanation": "<h3><strong>be going to + V</strong></h3><p>Đưa ra dự báo khi có dấu hiệu rõ ràng ở hiện tại.</p><p><strong>dark clouds (mây đen)</strong> = dấu hiệu trời sắp mưa.</p><p>&nbsp;</p><p><strong>Look at the dark clouds! It is going to rain tomorrow.</strong><br><i>Nhìn những đám mây đen kìa! Ngày mai trời sắp mưa.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 616,
+      "order": 9,
+      "answer_key": {
+        "correct_option": "A",
+        "explanation": "<h3><strong>any </strong>Dùng trong câu phủ định và câu hỏi.</h3><p><strong>I am so thirsty! I don't have any water in my bottle.</strong><br><i>Tôi rất khát! Tôi không có nước nào trong chai.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 617,
+      "order": 10,
+      "answer_key": {
+        "correct_option": "B",
+        "explanation": "<p>tell + object (người) + that clause</p><p><strong>say</strong> thường không đi trực tiếp với người nhận.</p><p><strong>ask</strong> dùng khi hỏi câu hỏi hoặc yêu cầu.</p><p>&nbsp;</p><p><strong>The stranger told me that he liked my jacket.</strong><br><i>Người lạ nói với tôi rằng anh ấy thích chiếc áo khoác của tôi.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 618,
+      "order": 11,
+      "answer_key": {
+        "correct_option": "B",
+        "explanation": "<p><strong>such + a/an + adj + noun</strong></p><p>→ dùng để <strong>nhấn mạnh mức độ</strong>.</p><p>&nbsp;</p><p><strong>We had such a good time at the concert.</strong><br><i>Chúng tôi đã có khoảng thời gian rất tuyệt tại buổi hòa nhạc.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 619,
+      "order": 12,
+      "answer_key": {
+        "correct_option": "C",
+        "explanation": "<p>Much dùng để <strong>nhấn mạnh mức độ so sánh hơn</strong>.</p><p>&nbsp;</p><p><strong>My brother is much older than his girlfriend.</strong><br><i>Anh trai tôi lớn tuổi hơn bạn gái của anh ấy nhiều.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 620,
+      "order": 13,
+      "answer_key": {
+        "correct_option": "C",
+        "explanation": "<p>Dạng <strong>câu hỏi đuôi</strong>.</p><h3>Quy tắc:</h3><p><strong>Câu khẳng định → câu hỏi đuôi phủ định</strong><br><strong>Câu phủ định → câu hỏi đuôi khẳng định</strong></p><p>&nbsp;</p><p><strong>We are eating out tonight, aren't we?</strong><br><i>Tối nay chúng ta đi ăn ngoài, đúng không?</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 621,
+      "order": 14,
+      "answer_key": {
+        "correct_option": "A",
+        "explanation": "<p><strong>Boiling</strong> mang nghĩa <strong>rất nóng / cực kỳ nóng</strong>.</p><p>Các tính từ <strong>mức độ tuyệt đối như boiling </strong>thường đi với: <strong>absolutely</strong></p><p><strong>The sun was absolutely boiling this afternoon.</strong><br><i>Chiều nay trời nóng khủng khiếp.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 622,
+      "order": 15,
+      "answer_key": {
+        "correct_option": "C",
+        "explanation": "<p><strong>while</strong> thường dùng ở thì quá khứ tiếp diễn nói về<strong> </strong>hai hành động đang xảy ra cùng lúc trong quá khứ.</p><h3>Công thức:<strong> S+ was / were + V-ing</strong></h3><p>&nbsp;</p><p><strong>While my dad was making dinner, my mom was watching TV.</strong></p><p><i>Trong khi bố tôi đang nấu ăn, mẹ tôi đang xem TV.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 623,
+      "order": 16,
+      "answer_key": {
+        "correct_option": "A",
+        "explanation": "<h3><strong>should </strong>Dùng để <strong>đưa ra lời khuyên hoặc gợi ý</strong>.</h3><p>&nbsp;</p><p><strong>We should buy our tickets before they sell out.</strong><br><i>Chúng ta nên mua vé trước khi chúng bán hết.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 624,
+      "order": 17,
+      "answer_key": {
+        "correct_option": "B",
+        "explanation": "<p><strong>Câu điều kiện loại 2 </strong>nói về tình huống không có thật ở hiện tại.</p><h3>Cấu trúc: <strong>If + past simple, would + V</strong></h3><p>&nbsp;</p><p><strong>If I were taller, I would be better at basketball.</strong><br><i>Nếu tôi cao hơn, tôi sẽ chơi bóng rổ tốt hơn.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 625,
+      "order": 18,
+      "answer_key": {
+        "correct_option": "C",
+        "explanation": "<p>Đây là <strong>câu hỏi gián tiếp</strong>.</p><h3>Cấu trúc <strong>ask + what / where / when / why / how + clause</strong></h3><p>&nbsp;</p><p><strong>Jessica asked what you would like to eat for dinner.</strong><br><i>Jessica hỏi bạn muốn ăn gì cho bữa tối.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 626,
+      "order": 19,
+      "answer_key": {
+        "correct_option": "C",
+        "explanation": "<h3><strong>can't stand + V-ing</strong></h3><p>Dùng để nói <strong>rất ghét hoặc không chịu nổi việc gì</strong>.</p><p>&nbsp;</p><p><strong>I can't stand waiting in long queues.</strong><br><i>Tôi không thể chịu được việc phải chờ trong những hàng dài.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 627,
+      "order": 20,
+      "answer_key": {
+        "correct_option": "A",
+        "explanation": "<p>promise + to + verb</p><p>&nbsp;</p><p><strong>You promised to help me with my homework.</strong><br><i>Bạn đã hứa sẽ giúp tôi làm bài tập.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 628,
+      "order": 21,
+      "answer_key": {
+        "correct_option": "A",
+        "explanation": "<h3><strong>must</strong> (suy đoán chắc chắn) dùng khi người nói <strong>gần như chắc chắn về điều gì dựa trên bằng chứng</strong>.</h3><p>&nbsp;</p><p><strong>You must be Sonia's sister. You look just like her!</strong><br><i>Bạn chắc hẳn là chị/em gái của Sonia. Bạn trông giống cô ấy y hệt!</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 629,
+      "order": 22,
+      "answer_key": {
+        "correct_option": "B",
+        "explanation": "<p>Câu bị động ở thì hiện tại tiếp diễn&nbsp;</p><h3>Cấu trúc: S + <strong>am / is / are + being + V3</strong></h3><p>&nbsp;</p><p><strong>The event is being broadcasted today in over 50 countries!</strong><br><i>Sự kiện này đang được phát sóng hôm nay ở hơn 50 quốc gia!</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 630,
+      "order": 23,
+      "answer_key": {
+        "correct_option": "A",
+        "explanation": "<h3><strong>take after someone </strong>= giống ai đó (về ngoại hình hoặc tính cách)</h3><p>&nbsp;</p><p><strong>My cousin takes after my aunt. They are quite similar.</strong><br><i>Anh họ tôi giống dì tôi. Họ khá giống nhau.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 631,
+      "order": 24,
+      "answer_key": {
+        "correct_option": "C",
+        "explanation": "<h3><strong>already </strong>Dùng trong thì Hiện tại hoàn thành để nói rằng <strong>việc gì đã xảy ra sớm hơn dự kiến</strong>.</h3><p><strong>Cấu trúc: S + have / has + already + V3</strong></p><p>&nbsp;</p><p><strong>I have already spent my allowance this month.</strong><br><i>Tôi đã tiêu hết tiền tiêu vặt tháng này rồi.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 632,
+      "order": 25,
+      "answer_key": {
+        "correct_option": "B",
+        "explanation": "<h3><strong>depend on + someone/something:&nbsp;</strong> dựa vào / tin cậy vào ai/ cái gì</h3><p>&nbsp;</p><p><strong>I can always depend on my mother.</strong><br><i>Tôi luôn có thể dựa vào mẹ tôi.</i></p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 633,
+      "order": 26,
+      "answer_key": {
+        "correct_answers": {
+          "1": "disagree",
+          "2": "exchange",
+          "3": "fall",
+          "4": "possess",
+          "5": "happen"
+        }
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 634,
+      "order": 27,
+      "answer_key": {
+        "correct_answers": {
+          "1": "improve",
+          "2": "decide",
+          "3": "earn",
+          "4": "assist",
+          "5": "employ"
+        }
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 635,
+      "order": 28,
+      "answer_key": {
+        "correct_answers": {
+          "1": "muddy",
+          "2": "logo",
+          "3": "luxurious",
+          "4": "feedback",
+          "5": "rewarding"
+        }
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 636,
+      "order": 29,
+      "answer_key": {
+        "correct_answers": {
+          "1": "run",
+          "2": "influence",
+          "3": "see",
+          "4": "use",
+          "5": "hide"
+        }
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    },
+    {
+      "question_id": 637,
+      "order": 30,
+      "answer_key": {
+        "correct_answers": {
+          "1": "price",
+          "2": "value",
+          "3": "family",
+          "4": "rafting",
+          "5": "jewels"
+        },
+        "explanation": "<p><strong>reduced price</strong> → giá đã được giảm</p><p><strong>sentimental value</strong> → giá trị kỷ niệm/tình cảm</p><p><strong>immediate family</strong> → gia đình gần nhất (bố mẹ, anh chị em, con)</p><p><strong>white-water rafting</strong> → hoạt động du lịch chèo thuyền trên sông mạnh</p><p><strong>semi-precious jewels</strong> → đá quý loại không quá hiếm</p>"
+      },
+      "evidence_id": "ev_65b18027135543c65f23c34d2a556380431decac02e41d18496d5b18ba50f7de"
+    }
+  ]
+}

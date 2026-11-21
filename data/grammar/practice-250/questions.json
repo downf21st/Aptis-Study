@@ -1,0 +1,1002 @@
+{
+  "source": "https://milaedu.com/practice/250",
+  "title": "Grammar and vocabularies test 03",
+  "captured": "2026-11-14",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single_choice",
+      "prompt": "Jake’s car is in the garage. He _______ be home.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "could"
+        },
+        {
+          "id": "B",
+          "text": "can"
+        },
+        {
+          "id": "C",
+          "text": "must"
+        }
+      ],
+      "answer": "C",
+      "explanation": "“Jake’s car is in the garage” = có bằng chứng rõ ràng → suy luận chắc chắn → dùng must\n\n \n\nJake’s car is in the garage. He must be home.\n\nXe của Jake ở trong gara. Anh ấy chắc chắn đang ở nhà."
+    },
+    {
+      "id": 2,
+      "type": "single_choice",
+      "prompt": "If I _______ taller, I would be better at basketball.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "am"
+        },
+        {
+          "id": "B",
+          "text": "could"
+        },
+        {
+          "id": "C",
+          "text": "were"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Câu điều kiện loại 2 (không có thật ở hiện tại) → luôn dùng were cho mọi chủ ngữ.\n\n \n\nIf I were taller, I would be better at basketball.\n\nNếu tôi cao hơn, tôi sẽ chơi bóng rổ giỏi hơn."
+    },
+    {
+      "id": 3,
+      "type": "single_choice",
+      "prompt": "She _______ that she would be late.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "said"
+        },
+        {
+          "id": "B",
+          "text": "told"
+        },
+        {
+          "id": "C",
+          "text": "asked"
+        }
+      ],
+      "answer": "A",
+      "explanation": "said + (that) + mệnh đề ✔️\ntold + người + mệnh đề (thiếu tân ngữ → sai)\nasked dùng để hỏi → không phù hợp\n \n\nShe said that she would be late.\n\nCô ấy nói rằng cô ấy sẽ đến muộn.*"
+    },
+    {
+      "id": 4,
+      "type": "single_choice",
+      "prompt": "I have a boat _______ is blue.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "who"
+        },
+        {
+          "id": "B",
+          "text": "which"
+        },
+        {
+          "id": "C",
+          "text": "whose"
+        }
+      ],
+      "answer": "B",
+      "explanation": "“boat” là vật → dùng which trong mệnh đề quan hệ.\n\n \n\nI have a boat which is blue.\n\nTôi có một chiếc thuyền màu xanh.*"
+    },
+    {
+      "id": 5,
+      "type": "single_choice",
+      "prompt": "My city is _______ than New York.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "smaller"
+        },
+        {
+          "id": "B",
+          "text": "smallest"
+        },
+        {
+          "id": "C",
+          "text": "small"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Có “than” → dùng so sánh hơn → tính từ thêm -er.\n\n \n\nMy city is smaller than New York.\n\nThành phố của tôi nhỏ hơn New York."
+    },
+    {
+      "id": 6,
+      "type": "single_choice",
+      "prompt": "I would love _______ dinner with you.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "having"
+        },
+        {
+          "id": "B",
+          "text": "to have"
+        },
+        {
+          "id": "C",
+          "text": "have"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Sau would love → dùng to + V.\n\n \n\nI would love to have dinner with you.\n\nTôi rất muốn ăn tối cùng bạn."
+    },
+    {
+      "id": 7,
+      "type": "single_choice",
+      "prompt": "My parents always _______ me vacuum the house. tell",
+      "choices": [
+        {
+          "id": "A",
+          "text": "tell"
+        },
+        {
+          "id": "B",
+          "text": "let"
+        },
+        {
+          "id": "C",
+          "text": "make"
+        }
+      ],
+      "answer": "C",
+      "explanation": "make + O + V (nguyên mẫu) = bắt ai làm gì \nlet + O + V = cho phép (không phù hợp nghĩa) \ntell + O + to V (thiếu “to”)\n\n \n\nMy parents always make me vacuum the house.\n\nBố mẹ tôi luôn bắt tôi hút bụi nhà"
+    },
+    {
+      "id": 8,
+      "type": "single_choice",
+      "prompt": "I _______ the magazine by the time a new one arrived in the mail.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "had finished"
+        },
+        {
+          "id": "B",
+          "text": "finished"
+        },
+        {
+          "id": "C",
+          "text": "was finishing"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Có “by the time + quá khứ” → hành động xảy ra trước một mốc trong quá\n\n \n\nI had finished the magazine by the time a new one arrived in the mail.\n\nTôi đã đọc xong tạp chí trước khi một cuốn mới được gửi đến."
+    },
+    {
+      "id": 9,
+      "type": "single_choice",
+      "prompt": "I was out of town! I _______ have committed the crime!",
+      "choices": [
+        {
+          "id": "A",
+          "text": "couldn’t"
+        },
+        {
+          "id": "B",
+          "text": "wouldn’t"
+        },
+        {
+          "id": "C",
+          "text": "shouldn’t"
+        }
+      ],
+      "answer": "A",
+      "explanation": "“I was out of town” = có bằng chứng → không thể nào đã làm → dùng couldn’t have + V\n\n \n\nI was out of town! I couldn’t have committed the crime!\n\nTôi đã đi xa! Tôi không thể nào đã gây ra vụ án đó được!*"
+    },
+    {
+      "id": 10,
+      "type": "single_choice",
+      "prompt": "Would you like _______ cereal for breakfast?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "a"
+        },
+        {
+          "id": "B",
+          "text": "the"
+        },
+        {
+          "id": "C",
+          "text": "-"
+        }
+      ],
+      "answer": "C",
+      "explanation": "cereal là danh từ không đếm được → không dùng a/an.\nỞ đây nói chung chung → không cần the.\n\n \n\nWould you like cereal for breakfast?\n\nBạn có muốn ăn ngũ cốc cho bữa sáng không?*"
+    },
+    {
+      "id": 11,
+      "type": "single_choice",
+      "prompt": "Colt _______ to the store yesterday.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "go"
+        },
+        {
+          "id": "B",
+          "text": "went"
+        },
+        {
+          "id": "C",
+          "text": "gone"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Có “yesterday” → dùng quá khứ đơn → động từ “go” → went\n\n \n\nColt went to the store yesterday.\n\nHôm qua Colt đã đi đến cửa hàng"
+    },
+    {
+      "id": 12,
+      "type": "single_choice",
+      "prompt": "I live _______ Canada.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "in"
+        },
+        {
+          "id": "B",
+          "text": "on"
+        },
+        {
+          "id": "C",
+          "text": "at"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Dùng in với quốc gia / thành phố / khu vực lớn\n\n \n\nI live in Canada.\n\nTôi sống ở Canada.*"
+    },
+    {
+      "id": 13,
+      "type": "single_choice",
+      "prompt": "When I lived in Colombia, I _______ drive to work.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "was"
+        },
+        {
+          "id": "B",
+          "text": "was used to"
+        },
+        {
+          "id": "C",
+          "text": "used to"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Diễn tả thói quen trong quá khứ → dùng used to + V.\n\n \n\nWhen I lived in Colombia, I used to drive to work.\n\nKhi tôi sống ở Colombia, tôi thường lái xe đi làm."
+    },
+    {
+      "id": 14,
+      "type": "single_choice",
+      "prompt": "She’s your cousin, _______ she?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "isn’t"
+        },
+        {
+          "id": "B",
+          "text": "doesn’t"
+        },
+        {
+          "id": "C",
+          "text": "wasn’t"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Câu hỏi đuôi:\n\nMệnh đề chính dùng “She’s” = She is → thì hiện tại → dùng isn’t she?\n \n\nShe’s your cousin, isn’t she?\n\nCô ấy là em họ của bạn, phải không?"
+    },
+    {
+      "id": 15,
+      "type": "single_choice",
+      "prompt": "I’m lost. _______ you help me, please?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Should"
+        },
+        {
+          "id": "B",
+          "text": "could"
+        },
+        {
+          "id": "C",
+          "text": "shall"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Could you…? = cách lịch sự để nhờ giúp đỡ.\n\n \n\nI’m lost. Could you help me, please?\n\nTôi bị lạc. Bạn có thể giúp tôi không?"
+    },
+    {
+      "id": 16,
+      "type": "single_choice",
+      "prompt": "I was hungry, _______ I ate a sandwich.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "so"
+        },
+        {
+          "id": "B",
+          "text": "and"
+        },
+        {
+          "id": "C",
+          "text": "but"
+        }
+      ],
+      "answer": "A",
+      "explanation": "“I was hungry” → nguyên nhân → “I ate a sandwich” → kết quả → dùng so.\n\n \n\nI was hungry, so I ate a sandwich.\n\nTôi đói, vì vậy tôi đã ăn một cái bánh sandwich."
+    },
+    {
+      "id": 17,
+      "type": "single_choice",
+      "prompt": "I have lived in Toronto _______ 3 months.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "since"
+        },
+        {
+          "id": "B",
+          "text": "for"
+        },
+        {
+          "id": "C",
+          "text": "from"
+        }
+      ],
+      "answer": "B",
+      "explanation": "for + khoảng thời gian (3 months)\n\n \n\nI have lived in Toronto for 3 months.\n\nTôi đã sống ở Toronto được 3 tháng."
+    },
+    {
+      "id": 18,
+      "type": "single_choice",
+      "prompt": "He got injured while they _______ soccer.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "was playing"
+        },
+        {
+          "id": "B",
+          "text": "were playing"
+        },
+        {
+          "id": "C",
+          "text": "had played"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Một hành động đang xảy ra thì hành động khác xen vào \n\nThì quá khứ tiếp diễn.\n\nHe got injured while they were playing soccer.\n\nAnh ấy đã bị thương khi đang chơi bóng đá"
+    },
+    {
+      "id": 19,
+      "type": "single_choice",
+      "prompt": "If you _______ a decision, I will support you.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "make"
+        },
+        {
+          "id": "B",
+          "text": "made"
+        },
+        {
+          "id": "C",
+          "text": "could make"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Đây là câu điều kiện loại 1 (có thể xảy ra ở hiện tại/tương lai):\n\nIf + hiện tại đơn → make \n \n\nIf you make a decision, I will support you.\n\nNếu bạn đưa ra quyết định, tôi sẽ ủng hộ bạn.*"
+    },
+    {
+      "id": 20,
+      "type": "single_choice",
+      "prompt": "I _______ from Moscow, but now I live in New York.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "am coming"
+        },
+        {
+          "id": "B",
+          "text": "come"
+        },
+        {
+          "id": "C",
+          "text": "was"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Diễn tả nguồn gốc/quê quán → dùng hiện tại đơn: come from.\n\n \n\nI come from Moscow, but now I live in New York.\n\nTôi đến từ Moscow, nhưng bây giờ tôi sống ở New York."
+    },
+    {
+      "id": 21,
+      "type": "single_choice",
+      "prompt": "I don’t really get _______ with my older sister. We always fight.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "around"
+        },
+        {
+          "id": "B",
+          "text": "in"
+        },
+        {
+          "id": "C",
+          "text": "along"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Cụm cố định: get along with someone = hòa hợp với ai.\n\n \n\nI don’t really get along with my older sister. We always fight.\n\nTôi không thực sự hòa hợp với chị gái của mình. Chúng tôi luôn cãi nhau."
+    },
+    {
+      "id": 22,
+      "type": "single_choice",
+      "prompt": "The concert was called _______ because the singer was sick.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "off"
+        },
+        {
+          "id": "B",
+          "text": "on"
+        },
+        {
+          "id": "C",
+          "text": "in"
+        }
+      ],
+      "answer": "A",
+      "explanation": "Cụm call off = hủy bỏ (sự kiện).\n\n \n\nThe concert was called off because the singer was sick.\n\nBuổi hòa nhạc đã bị hủy vì ca sĩ bị ốm."
+    },
+    {
+      "id": 23,
+      "type": "single_choice",
+      "prompt": "If I _______ schools, we wouldn’t have met.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "wasn’t changed"
+        },
+        {
+          "id": "B",
+          "text": "didn’t change"
+        },
+        {
+          "id": "C",
+          "text": "hadn’t changed"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Câu điều kiện loại 3 (không có thật trong quá khứ):\n\nIf + had + V3 → hadn’t changed\n \n\nIf I hadn’t changed schools, we wouldn’t have met.\n\nNếu tôi không chuyển trường, chúng ta đã không gặp nhau."
+    },
+    {
+      "id": 24,
+      "type": "single_choice",
+      "prompt": "You work _______ hard! Take a break or you’ll burn out.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "too"
+        },
+        {
+          "id": "B",
+          "text": "so"
+        },
+        {
+          "id": "C",
+          "text": "very"
+        }
+      ],
+      "answer": "A",
+      "explanation": "too + adj/adv = quá… (mang nghĩa tiêu cực) → phù hợp với “burn out”.\n\n \n\nYou work too hard! Take a break or you’ll burn out.\n\nBạn làm việc quá chăm chỉ! Nghỉ ngơi đi không bạn sẽ kiệt sức."
+    },
+    {
+      "id": 25,
+      "type": "single_choice",
+      "prompt": "By the end of next week, I _______ my course.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "will finish"
+        },
+        {
+          "id": "B",
+          "text": "will have finished"
+        },
+        {
+          "id": "C",
+          "text": "will be finished"
+        }
+      ],
+      "answer": "B",
+      "explanation": "“By the end of next week” → hành động hoàn thành trước mốc thời gian trong tương lai → dùng tương lai hoàn thành (will have + V3).\n\n \n\nBy the end of next week, I will have finished my course.\n\nĐến cuối tuần sau, tôi sẽ hoàn thành khóa học."
+    },
+    {
+      "id": 26,
+      "type": "dropdown_group",
+      "prompt": "Select a word from each drop-down list on the right that has the same or a very similar meaning to each word on the left.",
+      "items": [
+        {
+          "prompt": "annoy\n= ___",
+          "answer": "bother"
+        },
+        {
+          "prompt": "choose\n= ___",
+          "answer": "pick"
+        },
+        {
+          "prompt": "train\n= ___",
+          "answer": "teach"
+        },
+        {
+          "prompt": "think\n= ___",
+          "answer": "believe"
+        },
+        {
+          "prompt": "send\n= ___",
+          "answer": "deliver"
+        }
+      ],
+      "options": [
+        [
+          "believe",
+          "argue",
+          "deliver",
+          "pick",
+          "push",
+          "try",
+          "struggle",
+          "jump",
+          "bother",
+          "teach",
+          "challenge"
+        ],
+        [
+          "believe",
+          "argue",
+          "deliver",
+          "pick",
+          "push",
+          "try",
+          "struggle",
+          "jump",
+          "bother",
+          "teach",
+          "challenge"
+        ],
+        [
+          "believe",
+          "argue",
+          "deliver",
+          "pick",
+          "push",
+          "try",
+          "struggle",
+          "jump",
+          "bother",
+          "teach",
+          "challenge"
+        ],
+        [
+          "believe",
+          "argue",
+          "deliver",
+          "pick",
+          "push",
+          "try",
+          "struggle",
+          "jump",
+          "bother",
+          "teach",
+          "challenge"
+        ],
+        [
+          "believe",
+          "argue",
+          "deliver",
+          "pick",
+          "push",
+          "try",
+          "struggle",
+          "jump",
+          "bother",
+          "teach",
+          "challenge"
+        ]
+      ],
+      "explanation": "annoy → bother\n làm phiền / làm khó chịu → làm phiền\nchoose → pick\nchọn → chọn\ntrain → teach\nhuấn luyện / đào tạo → dạy\nthink → believe\nnghĩ → tin\nsend → deliver\ngửi → giao / chuyển phát"
+    },
+    {
+      "id": 27,
+      "type": "dropdown_group",
+      "prompt": "Complete each definition using a word from the drop-down list.",
+      "items": [
+        {
+          "prompt": "To interact with other people is to\n= ___",
+          "answer": "socialize"
+        },
+        {
+          "prompt": "To perform in a play is to\n= ___",
+          "answer": "act"
+        },
+        {
+          "prompt": "To stop because you are nervous is to\n= ___",
+          "answer": "hesitate"
+        },
+        {
+          "prompt": "To let someone go from a job is to\n= ___",
+          "answer": "fire"
+        },
+        {
+          "prompt": "To find the size of something is to\n= ___",
+          "answer": "measure"
+        }
+      ],
+      "options": [
+        [
+          "sleep",
+          "hesitate",
+          "measure",
+          "cover",
+          "socialize",
+          "stretch",
+          "act",
+          "rush",
+          "watch",
+          "stop",
+          "fire"
+        ],
+        [
+          "sleep",
+          "hesitate",
+          "measure",
+          "cover",
+          "socialize",
+          "stretch",
+          "act",
+          "rush",
+          "watch",
+          "stop",
+          "fire"
+        ],
+        [
+          "sleep",
+          "hesitate",
+          "measure",
+          "cover",
+          "socialize",
+          "stretch",
+          "act",
+          "rush",
+          "watch",
+          "stop",
+          "fire"
+        ],
+        [
+          "sleep",
+          "hesitate",
+          "measure",
+          "cover",
+          "socialize",
+          "stretch",
+          "act",
+          "rush",
+          "watch",
+          "stop",
+          "fire"
+        ],
+        [
+          "sleep",
+          "hesitate",
+          "measure",
+          "cover",
+          "socialize",
+          "stretch",
+          "act",
+          "rush",
+          "watch",
+          "stop",
+          "fire"
+        ]
+      ],
+      "explanation": "To interact with other people is to → socialize\ngiao tiếp / tương tác với người khác\nTo perform in a play is to → act\ndiễn kịch\nTo stop because you are nervous is to → hesitate\nngập ngừng vì lo lắng\nTo let someone go from a job is to → fire\nsa thải\nTo find the size of something is to → measure\nđo kích thước"
+    },
+    {
+      "id": 28,
+      "type": "dropdown_group",
+      "prompt": "Complete each sentence using a word from each drop-down list.",
+      "items": [
+        {
+          "prompt": "The president is going to give a ___ today about his new healthcare policies.",
+          "answer": "statement"
+        },
+        {
+          "prompt": "My friend’s band is playing a ___ at our local pub next Friday night.",
+          "answer": "gig"
+        },
+        {
+          "prompt": "This T-shirt I bought is such ___ quality. It ripped as soon as I washed it.",
+          "answer": "cheap"
+        },
+        {
+          "prompt": "Grace lost a lot of weight! She has a very active and healthy ___ .",
+          "answer": "lifestyle"
+        },
+        {
+          "prompt": "On my way home from work today, a police officer gave me a ___ for speeding.",
+          "answer": "fine"
+        }
+      ],
+      "options": [
+        [
+          "gig",
+          "statement",
+          "music",
+          "discussion",
+          "good",
+          "cheap",
+          "fine",
+          "tricky",
+          "lifestyle",
+          "wage",
+          "plan"
+        ],
+        [
+          "gig",
+          "statement",
+          "music",
+          "discussion",
+          "good",
+          "cheap",
+          "fine",
+          "tricky",
+          "lifestyle",
+          "wage",
+          "plan"
+        ],
+        [
+          "gig",
+          "statement",
+          "music",
+          "discussion",
+          "good",
+          "cheap",
+          "fine",
+          "tricky",
+          "lifestyle",
+          "wage",
+          "plan"
+        ],
+        [
+          "gig",
+          "statement",
+          "music",
+          "discussion",
+          "good",
+          "cheap",
+          "fine",
+          "tricky",
+          "lifestyle",
+          "wage",
+          "plan"
+        ],
+        [
+          "gig",
+          "statement",
+          "music",
+          "discussion",
+          "good",
+          "cheap",
+          "fine",
+          "tricky",
+          "lifestyle",
+          "wage",
+          "plan"
+        ]
+      ],
+      "explanation": "The president is going to give a → statement\n bài phát biểu / tuyên bố\nMy friend’s band is playing a → gig\nbuổi biểu diễn\nThis T-shirt I bought is such → cheap quality\nchất lượng rẻ tiền\nGrace lost a lot of weight! She has a very active and healthy → lifestyle\nlối sống\nOn my way home from work today, a police officer gave me a → fine\ntiền phạt"
+    },
+    {
+      "id": 29,
+      "type": "dropdown_group",
+      "prompt": "Select a word from each drop-down list on the right that has the same or a very similar meaning to each word on the left.",
+      "items": [
+        {
+          "prompt": "Trip\n= ___",
+          "answer": "journey"
+        },
+        {
+          "prompt": "Cemetery\n= ___",
+          "answer": "graveyard"
+        },
+        {
+          "prompt": "boat\n= ___",
+          "answer": "ship"
+        },
+        {
+          "prompt": "town\n= ___",
+          "answer": "village"
+        },
+        {
+          "prompt": "custom\n= ___",
+          "answer": "tradition"
+        }
+      ],
+      "options": [
+        [
+          "journey",
+          "park",
+          "village",
+          "outfit",
+          "fight",
+          "ship",
+          "clothes",
+          "tradition",
+          "car",
+          "graveyard"
+        ],
+        [
+          "journey",
+          "park",
+          "village",
+          "outfit",
+          "fight",
+          "ship",
+          "clothes",
+          "tradition",
+          "car",
+          "graveyard"
+        ],
+        [
+          "journey",
+          "park",
+          "village",
+          "outfit",
+          "fight",
+          "ship",
+          "clothes",
+          "tradition",
+          "car",
+          "graveyard"
+        ],
+        [
+          "journey",
+          "park",
+          "village",
+          "outfit",
+          "fight",
+          "ship",
+          "clothes",
+          "tradition",
+          "car",
+          "graveyard"
+        ],
+        [
+          "journey",
+          "park",
+          "village",
+          "outfit",
+          "fight",
+          "ship",
+          "clothes",
+          "tradition",
+          "car",
+          "graveyard"
+        ]
+      ],
+      "explanation": "Trip → journey\nchuyến đi\n\nCemetery → graveyard\nnghĩa trang\n\nboat → ship\nthuyền → tàu\n\ntown → village\nthị trấn → làng\n\ncustom → tradition\nphong tục"
+    },
+    {
+      "id": 30,
+      "type": "dropdown_group",
+      "prompt": "Select a word from each drop-down list on the right that is most often used with each word on the left.",
+      "items": [
+        {
+          "prompt": "express\n+ ___",
+          "answer": "bus"
+        },
+        {
+          "prompt": "heavy\n+ ___",
+          "answer": "traffic"
+        },
+        {
+          "prompt": "rich\n+ ___",
+          "answer": "history"
+        },
+        {
+          "prompt": "high\n+ ___",
+          "answer": "expectations"
+        },
+        {
+          "prompt": "spitting\n+ ___",
+          "answer": "image"
+        }
+      ],
+      "options": [
+        [
+          "history",
+          "image",
+          "bus",
+          "pounds",
+          "information",
+          "expectations",
+          "traffic",
+          "boots",
+          "insects",
+          "potatoes",
+          "face"
+        ],
+        [
+          "history",
+          "image",
+          "bus",
+          "pounds",
+          "information",
+          "expectations",
+          "traffic",
+          "boots",
+          "insects",
+          "potatoes",
+          "face"
+        ],
+        [
+          "history",
+          "image",
+          "bus",
+          "pounds",
+          "information",
+          "expectations",
+          "traffic",
+          "boots",
+          "insects",
+          "potatoes",
+          "face"
+        ],
+        [
+          "history",
+          "image",
+          "bus",
+          "pounds",
+          "information",
+          "expectations",
+          "traffic",
+          "boots",
+          "insects",
+          "potatoes",
+          "face"
+        ],
+        [
+          "history",
+          "image",
+          "bus",
+          "pounds",
+          "information",
+          "expectations",
+          "traffic",
+          "boots",
+          "insects",
+          "potatoes",
+          "face"
+        ]
+      ],
+      "explanation": "express → bus\nxe buýt nhanh\n\nheavy → traffic\ngiao thông đông\n\nrich → history\nlịch sử phong phú\n\nhigh → expectations\n\n kỳ vọng cao\n\nspitting →image\n\ngiống hệt nhau"
+    }
+  ]
+}

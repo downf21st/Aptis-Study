@@ -1,0 +1,927 @@
+{
+  "source": "https://milaedu.com/practice/14",
+  "captured": "2026-11-20",
+  "method": "REA response; question fields only; URLs and session data excluded",
+  "questions": [
+    {
+      "id": 608,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "My best friend, _______ is from Australia, is coming to visit me next week.",
+      "order": 1,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "who"
+          },
+          {
+            "id": "B",
+            "text": "which"
+          },
+          {
+            "id": "C",
+            "text": "that"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 609,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "We'll go to the beach _______ it rains tomorrow.",
+      "order": 2,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "but"
+          },
+          {
+            "id": "B",
+            "text": "if"
+          },
+          {
+            "id": "C",
+            "text": "unless"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 610,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "When I was a teenager, I _______ have purple hair",
+      "order": 3,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "used to"
+          },
+          {
+            "id": "B",
+            "text": "would"
+          },
+          {
+            "id": "C",
+            "text": "was used to"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 611,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "Person A: I ate too many sweets. Person B: You _______ have done that! Now, you'll have a stomach ache.",
+      "order": 4,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "couldn't"
+          },
+          {
+            "id": "B",
+            "text": "shouldn't"
+          },
+          {
+            "id": "C",
+            "text": "wouldn't"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 612,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "My older sister always gives me _______ advice when I need help.",
+      "order": 5,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "-"
+          },
+          {
+            "id": "B",
+            "text": "an"
+          },
+          {
+            "id": "C",
+            "text": "the"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 613,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "We spend a lot of time together, _______ We have only known each other for a year.",
+      "order": 6,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "however"
+          },
+          {
+            "id": "B",
+            "text": "although"
+          },
+          {
+            "id": "C",
+            "text": "Whereas"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 614,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "He _______ the message before he found out the truth.",
+      "order": 7,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "sent"
+          },
+          {
+            "id": "B",
+            "text": "had sent"
+          },
+          {
+            "id": "C",
+            "text": "was sending"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 615,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "Look at the dark clouds! It _________ rain tomorrow.",
+      "order": 8,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "will"
+          },
+          {
+            "id": "B",
+            "text": "will be"
+          },
+          {
+            "id": "C",
+            "text": "is going to"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 616,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "I am so thirsty! I don't have _______ water in my bottle.",
+      "order": 9,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "any"
+          },
+          {
+            "id": "B",
+            "text": "some"
+          },
+          {
+            "id": "C",
+            "text": "the"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 617,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "The stranger _______ me that he liked my jacket.",
+      "order": 10,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "said"
+          },
+          {
+            "id": "B",
+            "text": "told"
+          },
+          {
+            "id": "C",
+            "text": "asked"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 618,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "We had _______ a good time at the concert.",
+      "order": 11,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "so"
+          },
+          {
+            "id": "B",
+            "text": "such"
+          },
+          {
+            "id": "C",
+            "text": "very"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 619,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "My brother is _______ older than his girlfriend",
+      "order": 12,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "more"
+          },
+          {
+            "id": "B",
+            "text": "such"
+          },
+          {
+            "id": "C",
+            "text": "much"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 620,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "We are eating out tonight, ______ we?",
+      "order": 13,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "don't"
+          },
+          {
+            "id": "B",
+            "text": "doesn't"
+          },
+          {
+            "id": "C",
+            "text": "aren't"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 621,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "The sun was _______ boiling this afternoon.",
+      "order": 14,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "absolutely"
+          },
+          {
+            "id": "B",
+            "text": "very"
+          },
+          {
+            "id": "C",
+            "text": "really"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 622,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "While my dad was making dinner, my mom _______ TV",
+      "order": 15,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "watch"
+          },
+          {
+            "id": "B",
+            "text": "has watched"
+          },
+          {
+            "id": "C",
+            "text": "was watching"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 623,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "We _______ buy our tickets before they sell out",
+      "order": 16,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "should"
+          },
+          {
+            "id": "B",
+            "text": "can"
+          },
+          {
+            "id": "C",
+            "text": "could"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 624,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "If I were taller, I _______ be better at basketball.",
+      "order": 17,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "had"
+          },
+          {
+            "id": "B",
+            "text": "would"
+          },
+          {
+            "id": "C",
+            "text": "can"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 625,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "Jessica asked _______ you would like to eat for dinner",
+      "order": 18,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "wheather"
+          },
+          {
+            "id": "B",
+            "text": "if"
+          },
+          {
+            "id": "C",
+            "text": "what"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 626,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "I can't stand _______ in long queues.",
+      "order": 19,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "wait"
+          },
+          {
+            "id": "B",
+            "text": "to wait"
+          },
+          {
+            "id": "C",
+            "text": "waiting"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 627,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "You promised _______ me with my homework.",
+      "order": 20,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "to help"
+          },
+          {
+            "id": "B",
+            "text": "help"
+          },
+          {
+            "id": "C",
+            "text": "helping"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 628,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "You _______ be Sonia's sister. You look just like her!",
+      "order": 21,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "must"
+          },
+          {
+            "id": "B",
+            "text": "can"
+          },
+          {
+            "id": "C",
+            "text": "may"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 629,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "The event _______ broadcasted today in over 50 countries!",
+      "order": 22,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "is"
+          },
+          {
+            "id": "B",
+            "text": "is being"
+          },
+          {
+            "id": "C",
+            "text": "has been"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 630,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "My cousin takes _______ my aunt. They are quite similar",
+      "order": 23,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "after"
+          },
+          {
+            "id": "B",
+            "text": "up"
+          },
+          {
+            "id": "C",
+            "text": "off"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 631,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "I have _______ spent my allowance this month.",
+      "order": 24,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "never"
+          },
+          {
+            "id": "B",
+            "text": "just"
+          },
+          {
+            "id": "C",
+            "text": "already"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 632,
+      "skill": "grammar",
+      "part": 1,
+      "type": "mcq3",
+      "title": null,
+      "stem": "I can always depend _______ my mother.",
+      "order": 25,
+      "metadata": {
+        "options": [
+          {
+            "id": "A",
+            "text": "in"
+          },
+          {
+            "id": "B",
+            "text": "on"
+          },
+          {
+            "id": "C",
+            "text": "forr"
+          }
+        ],
+        "correct_option": null
+      }
+    },
+    {
+      "id": 633,
+      "skill": "grammar",
+      "part": 2,
+      "type": "synonym_match",
+      "title": null,
+      "stem": "Select a word from each drop-down list on the right that has the same or a very similar meaning to each word on the left.",
+      "order": 26,
+      "metadata": {
+        "vocab_type": "synonym_match",
+        "instruction": "",
+        "pairs": [
+          {
+            "prompt": "argue",
+            "id": "1"
+          },
+          {
+            "prompt": "swap",
+            "id": "2"
+          },
+          {
+            "prompt": "collapse",
+            "id": "3"
+          },
+          {
+            "prompt": "own",
+            "id": "4"
+          },
+          {
+            "prompt": "occur",
+            "id": "5"
+          }
+        ],
+        "dropdown_pool": [
+          "get",
+          "finish",
+          "construct",
+          "approach",
+          "exchange",
+          "happen",
+          "fall",
+          "possess",
+          "remind",
+          "sharre",
+          "disagree"
+        ],
+        "correct_answers": [],
+        "example": {
+          "left": "big",
+          "right": "large"
+        },
+        "connector": "="
+      }
+    },
+    {
+      "id": 634,
+      "skill": "grammar",
+      "part": 2,
+      "type": "definition_match",
+      "title": null,
+      "stem": "Complete each definition using a word from the drop-down list.",
+      "order": 27,
+      "metadata": {
+        "vocab_type": "definition_match",
+        "instruction": "",
+        "pairs": [
+          {
+            "prompt": "To get better at something is to",
+            "id": "1"
+          },
+          {
+            "prompt": "To choose something is to",
+            "id": "2"
+          },
+          {
+            "prompt": "To get money from work is to",
+            "id": "3"
+          },
+          {
+            "prompt": "To help someone is to",
+            "id": "4"
+          },
+          {
+            "prompt": "To give someone a job is to",
+            "id": "5"
+          }
+        ],
+        "dropdown_pool": [
+          "donate",
+          "assist",
+          "depend",
+          "fire",
+          "decide",
+          "improve",
+          "hesitate",
+          "employ",
+          "receive",
+          "earn",
+          "proceed"
+        ],
+        "correct_answers": []
+      }
+    },
+    {
+      "id": 635,
+      "skill": "grammar",
+      "part": 2,
+      "type": "sentence_completion",
+      "title": null,
+      "stem": "Complete each sentence using a word from each drop-down list.",
+      "order": 28,
+      "metadata": {
+        "vocab_type": "sentence_completion",
+        "instruction": "",
+        "pairs": [
+          {
+            "prefix": "After it rained, the path was all",
+            "suffix": null,
+            "id": "1",
+            "after": "and my trainers got dirty."
+          },
+          {
+            "prefix": "It is important to create an eye-catching",
+            "suffix": null,
+            "id": "2",
+            "after": "when starting a business."
+          },
+          {
+            "prefix": "My cousin spent a fortune on her wedding. It was  My cousin spent a fortune on her wedding. It was incredibly",
+            "suffix": null,
+            "id": "3",
+            "after": null
+          },
+          {
+            "prefix": "Teachers should always give",
+            "suffix": null,
+            "id": "4",
+            "after": "to their students so they know how to improve."
+          },
+          {
+            "prefix": "Doing voluntary work is really",
+            "suffix": null,
+            "id": "5",
+            "after": "because it makes you feel like you are making a difference."
+          }
+        ],
+        "dropdown_pool": [
+          "lame",
+          "muddy",
+          "luxurious",
+          "logo",
+          "rewarding",
+          "plan",
+          "gig",
+          "feedback",
+          "messy",
+          "boring",
+          "expensive"
+        ],
+        "correct_answers": []
+      }
+    },
+    {
+      "id": 636,
+      "skill": "grammar",
+      "part": 2,
+      "type": "synonym_match",
+      "title": null,
+      "stem": "Select a word from each drop-down list on the right that has the same or a very similar meaning to each word on the left.",
+      "order": 29,
+      "metadata": {
+        "vocab_type": "synonym_match",
+        "instruction": "",
+        "pairs": [
+          {
+            "prompt": "jog",
+            "id": "1"
+          },
+          {
+            "prompt": "inspire",
+            "id": "2"
+          },
+          {
+            "prompt": "notice",
+            "id": "3"
+          },
+          {
+            "prompt": "utilize",
+            "id": "4"
+          },
+          {
+            "prompt": "conceal",
+            "id": "5"
+          }
+        ],
+        "dropdown_pool": [
+          "make",
+          "cut",
+          "made",
+          "run",
+          "use",
+          "influence",
+          "catch",
+          "lie",
+          "see",
+          "hide",
+          "fix"
+        ],
+        "correct_answers": [],
+        "example": {
+          "left": "big",
+          "right": "large"
+        },
+        "connector": "="
+      }
+    },
+    {
+      "id": 637,
+      "skill": "grammar",
+      "part": 2,
+      "type": "collocation_match",
+      "title": null,
+      "stem": "Select a word from each drop-down list on the right that is most often used with each word on the left.",
+      "order": 30,
+      "metadata": {
+        "vocab_type": "collocation_match",
+        "instruction": "",
+        "pairs": [
+          {
+            "prompt": "reduce",
+            "id": "1"
+          },
+          {
+            "prompt": "sentimental",
+            "id": "2"
+          },
+          {
+            "prompt": "immediate",
+            "id": "3"
+          },
+          {
+            "prompt": "white-water",
+            "id": "4"
+          },
+          {
+            "prompt": "semi-precious",
+            "id": "5"
+          }
+        ],
+        "dropdown_pool": [
+          "file",
+          "price",
+          "surfing",
+          "rafting",
+          "family",
+          "issue",
+          "jewels",
+          "argument",
+          "goods",
+          "nostalgia",
+          "value"
+        ],
+        "correct_answers": [],
+        "example": {
+          "left": "big",
+          "right": "large"
+        },
+        "connector": "+"
+      }
+    }
+  ]
+}
